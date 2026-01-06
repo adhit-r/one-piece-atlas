@@ -1,0 +1,14 @@
+candidate_id,candidate_name,candidate_episodes,candidate_lat,candidate_lon,matched_id,matched_name,matched_episodes,match_score,suggested_action,source
+foosha-village,Foosha Village,"[4, 1143]",1.0,1.1,foosha,Foosha Village,,1.0,update,https://onepiece.fandom.com/wiki/Foosha_Village
+foods,Foods,"[2, 1146]",6.0,6.1,foosha,Foosha Village,,0.727,review,https://onepiece.fandom.com/wiki/Foods
+gloriosa,Gloriosa,"[408, 1134]",1.0,1.1,foosha,Foosha Village,,0.571,review,https://onepiece.fandom.com/wiki/Gloriosa
+fish-man-island,Fish-Man Island,"[30, 957]",,,foosha,Foosha Village,,0.552,review,https://onepiece.fandom.com/wiki/Fish-Man_Island
+festa-circle,Festa Circle,"[1, 1993]",1.0,1.1,foosha,Foosha Village,,0.538,review,https://onepiece.fandom.com/wiki/Festa_Circle
+fisher-tiger,Fisher Tiger,"[415, 544]",1.0,1.1,foosha,Foosha Village,,0.538,review,https://onepiece.fandom.com/wiki/Fisher_Tiger
+fukaboshi,Fukaboshi,"[528, 1119]",1.0,1.1,foosha,Foosha Village,,0.533,review,https://onepiece.fandom.com/wiki/Fukaboshi
+woop-slap,Woop Slap,"[4, 1143]",1.0,1.1,foosha,Foosha Village,,0.533,review,https://onepiece.fandom.com/wiki/Woop_Slap
+fish-man-island-saga,Fish-Man Island Saga,"[492, 907]",,,foosha,Foosha Village,,0.529,review,https://onepiece.fandom.com/wiki/Fish-Man_Island_Saga
+popora,Popora,"[1, 1000]",1.0,1.01,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/Popora
+s-hawk,S-Hawk,"[1087, 1155]",1.0,1.01,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/S-Hawk
+coral-hill,Coral Hill,"[527, 530]",2.0,2.1,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/Coral_Hill
+shutai,Shutai,"[51, 51]",1.0,1.1,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/Shutai
