@@ -372,6 +372,11 @@ const App = () => {
       const width = containerRef.current.clientWidth;
       const height = containerRef.current.clientHeight;
 
+      // Mobile detection for performance optimization
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      const pixelRatio = isMobile ? Math.min(window.devicePixelRatio, 1.5) : window.devicePixelRatio;
+      const segments = isMobile ? 64 : 128;
+
       const scene = new THREE.Scene();
       sceneRef.current = scene;
 
@@ -379,17 +384,18 @@ const App = () => {
       camera.position.z = 18;
 
       const renderer = new THREE.WebGLRenderer({
-        antialias: true,
+        antialias: !isMobile,
         alpha: true,
+        powerPreference: isMobile ? 'low-power' : 'high-performance',
       });
       renderer.setSize(width, height);
-      renderer.setPixelRatio(window.devicePixelRatio);
+      renderer.setPixelRatio(pixelRatio);
       containerRef.current.appendChild(renderer.domElement);
 
-      // Texture
+      // Texture with base map
       const canvas = document.createElement('canvas');
-      canvas.width = 4096;
-      canvas.height = 2048;
+      canvas.width = isMobile ? 2048 : 4096;
+      canvas.height = isMobile ? 1024 : 2048;
       const ctx = canvas.getContext('2d');
       ctx.fillStyle = '#020617';
       ctx.fillRect(0, 0, canvas.width, canvas.height);
@@ -415,23 +421,75 @@ const App = () => {
         ctx.fill();
       });
 
+      // Procedural Normal/Bump Map using noise
+      const normalCanvas = document.createElement('canvas');
+      normalCanvas.width = isMobile ? 1024 : 2048;
+      normalCanvas.height = isMobile ? 512 : 1024;
+      const normalCtx = normalCanvas.getContext('2d');
+      const imageData = normalCtx.createImageData(normalCanvas.width, normalCanvas.height);
+      
+      // Simple noise function for bump mapping
+      const noise = (x, y) => {
+        const n = Math.sin(x * 0.1) * Math.cos(y * 0.1) + 
+                  Math.sin(x * 0.05 + y * 0.05) * 0.5 +
+                  Math.sin(x * 0.02) * Math.cos(y * 0.03) * 0.3;
+        return (n + 2) / 4; // Normalize to 0-1
+      };
+      
+      for (let y = 0; y < normalCanvas.height; y++) {
+        for (let x = 0; x < normalCanvas.width; x++) {
+          const i = (y * normalCanvas.width + x) * 4;
+          const val = Math.floor(noise(x, y) * 255);
+          imageData.data[i] = val;
+          imageData.data[i + 1] = val;
+          imageData.data[i + 2] = val;
+          imageData.data[i + 3] = 255;
+        }
+      }
+      normalCtx.putImageData(imageData, 0, 0);
+
       const texture = new THREE.CanvasTexture(canvas);
+      const bumpTexture = new THREE.CanvasTexture(normalCanvas);
+      
       const globe = new THREE.Mesh(
-        new THREE.SphereGeometry(5, 128, 128),
+        new THREE.SphereGeometry(5, segments, segments),
         new THREE.MeshPhongMaterial({
           map: texture,
-          shininess: 15,
-          bumpScale: 0.1,
+          bumpMap: bumpTexture,
+          bumpScale: 0.05,
+          shininess: 25,
+          specular: new THREE.Color(0x333333),
+          reflectivity: 0.3,
         })
       );
       scene.add(globe);
       globeRef.current = globe;
 
-      scene.add(new THREE.AmbientLight(0xffffff, 0.5));
-      const sun = new THREE.DirectionalLight(0xffffff, 1.2);
+      // Enhanced Lighting System: Google Earth + Anime Aesthetic
+      // 1. Ambient base light (soft fill)
+      const ambientLight = new THREE.AmbientLight(0x404865, 0.6);
+      scene.add(ambientLight);
+
+      // 2. Main directional light (sun) - dramatic anime-style
+      const sun = new THREE.DirectionalLight(0xfff5e6, 1.8);
       sun.position.set(10, 10, 10);
       scene.add(sun);
       lightRef.current = sun;
+
+      // 3. Fill light (to soften shadows, Google Earth style)
+      const fillLight = new THREE.DirectionalLight(0x6b9bd1, 0.4);
+      fillLight.position.set(-8, 3, -5);
+      scene.add(fillLight);
+
+      // 4. Rim light (anime/comic aesthetic for edge highlighting)
+      const rimLight = new THREE.DirectionalLight(0xffffff, 0.6);
+      rimLight.position.set(0, 5, -10);
+      scene.add(rimLight);
+
+      // 5. Secondary accent light (subtle color gradient)
+      const accentLight = new THREE.DirectionalLight(0xff9a5c, 0.3);
+      accentLight.position.set(5, -3, 8);
+      scene.add(accentLight);
 
       // Particles
       const partCount = 500;
