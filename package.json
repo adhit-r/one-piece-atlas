@@ -4,8 +4,10 @@
   "type": "module",
   "scripts": {
     "dev": "bun run --hot server.ts",
+    "dev:watch": "NODE_ENV=development bun run build.ts --watch & bun run --hot server.ts",
     "build": "NODE_ENV=production bun run build.ts",
     "build:dev": "NODE_ENV=development bun run build.ts",
+    "build:watch": "NODE_ENV=development bun run build.ts --watch",
     "start": "bun run server.ts",
     "typecheck": "tsc --noEmit",
     "lint": "eslint . --ext .ts,.tsx --report-unused-disable-directives --max-warnings 0",
