@@ -1,9 +1,9 @@
-import React, { useState, useMemo, useRef } from 'react';
+import React, { useState, useMemo } from 'react';
 import { createRoot } from 'react-dom/client';
-import { Compass } from 'lucide-react';
-import { useThreeGlobe } from './hooks/useThreeGlobe';
-import { useEpisodeNavigation } from './hooks/useEpisodeNavigation';
+import { Map, Anchor } from 'lucide-react';
+import { ScrollMap } from './components/ScrollMap';
 import { EpisodeControls } from './components/EpisodeControls';
+import { useEpisodeNavigation } from './hooks/useEpisodeNavigation';
 import { ONE_PIECE_DATA } from './data/onePieceData';
 import { getIslandById } from './utils/islandData';
 import type { Island } from './utils/islandData';
@@ -11,9 +11,6 @@ import type { Island } from './utils/islandData';
 const App = () => {
   const [selectedIslandId, setSelectedIslandId] = useState<string | null>(null);
   const [selectedVoyage, setSelectedVoyage] = useState('strawhats');
-  const [hoveredIsland, setHoveredIsland] = useState<Island | null>(null);
-
-  const containerRef = useRef<HTMLDivElement>(null);
 
   // Episode navigation
   const [currentEpisode, setCurrentEpisode] = useState(1116);
@@ -33,93 +30,65 @@ const App = () => {
   });
 
   const activeIslands = useMemo(() => {
-    // Show all islands for now for the visual effect, or filter by episode
-    return ONE_PIECE_DATA.islands;
+    return ONE_PIECE_DATA.islands as Island[];
   }, []);
 
-  // Three.js Globe Hook
-  const { flyToIsland } = useThreeGlobe({
-    containerRef,
-    activeIslands,
-    selectedVoyage,
-    onIslandClick: island => {
-      setSelectedIslandId(island.id);
-      flyToIsland(island);
-    },
-    onIslandHover: island => setHoveredIsland(island),
-  });
-
-  // Derived state
   const selectedIsland = useMemo(
-    () => getIslandById(ONE_PIECE_DATA.islands, selectedIslandId),
+    () => getIslandById(ONE_PIECE_DATA.islands as Island[], selectedIslandId),
     [selectedIslandId]
   );
 
   return (
-    <div className="relative w-full h-screen bg-[#020617] overflow-hidden font-sans text-white">
-      {/* 3D Globe Container */}
-      <div ref={containerRef} className="absolute inset-0 z-0" />
+    <div className="relative w-full h-screen bg-[#0d0a07] overflow-hidden font-sans text-white">
+      {/* Scroll Map */}
+      <ScrollMap
+        islands={activeIslands}
+        selectedVoyage={selectedVoyage}
+        onIslandClick={island => setSelectedIslandId(island.id)}
+        selectedIslandId={selectedIslandId}
+      />
 
-      {/* Top Left - Brand & Log Pose */}
-      <div className="absolute top-8 left-8 z-10 flex items-center gap-6">
-        <div className="relative group">
-          <div className="absolute inset-0 bg-cyan-500 blur-xl opacity-20 group-hover:opacity-40 transition-opacity" />
-          <div className="relative w-16 h-16 bg-black/40 backdrop-blur-md rounded-2xl border border-white/10 flex items-center justify-center">
-            <Compass className="w-8 h-8 text-cyan-400 animate-[spin_10s_linear_infinite]" />
+      {/* Top Bar - Brand & Voyage Selector */}
+      <div className="absolute top-0 left-0 right-0 z-50 p-6 flex justify-between items-start pointer-events-none">
+        {/* Brand */}
+        <div className="pointer-events-auto flex items-center gap-4">
+          <div className="w-14 h-14 bg-amber-900/80 backdrop-blur-md rounded-xl border border-amber-700/50 flex items-center justify-center shadow-xl">
+            <Map className="w-7 h-7 text-amber-300" />
+          </div>
+          <div>
+            <h1
+              className="text-2xl font-bold tracking-wide text-amber-100"
+              style={{ fontFamily: "'Times New Roman', serif" }}
+            >
+              Grand Line Atlas
+            </h1>
+            <p className="text-xs text-amber-600/80 tracking-widest uppercase">
+              Captain&apos;s Navigation Chart
+            </p>
           </div>
         </div>
-        <div>
-          <h1 className="text-3xl font-black italic tracking-tighter uppercase leading-none">
-            Grand Line
-          </h1>
-          <p className="text-xs font-bold text-cyan-400 tracking-[0.3em] uppercase mt-1">
-            Atlas System v2.0
-          </p>
-        </div>
-      </div>
 
-      {/* Top Right - Search & Voyage Selector */}
-      <div className="absolute top-8 right-8 z-10 flex flex-col items-end gap-4">
-        <div className="flex gap-2 p-1 bg-black/40 backdrop-blur-xl rounded-full border border-white/10">
+        {/* Voyage Selector */}
+        <div className="pointer-events-auto flex gap-2 bg-stone-900/80 backdrop-blur-md p-1.5 rounded-full border border-amber-900/30">
           {['strawhats', 'law', 'ace'].map(v => (
             <button
               key={v}
               onClick={() => setSelectedVoyage(v)}
-              className={`px-4 py-2 rounded-full text-[10px] font-black uppercase tracking-widest transition-all ${
+              className={`px-4 py-2 rounded-full text-xs font-bold uppercase tracking-wider transition-all ${
                 selectedVoyage === v
-                  ? 'bg-cyan-500 text-black shadow-[0_0_15px_rgba(6,182,212,0.4)]'
-                  : 'text-white/60 hover:bg-white/10'
+                  ? 'bg-amber-700 text-amber-100 shadow-lg'
+                  : 'text-amber-400/60 hover:bg-amber-900/30'
               }`}
             >
-              {v}
+              {v === 'strawhats'
+                ? 'Straw Hats'
+                : v.charAt(0).toUpperCase() + v.slice(1)}
             </button>
           ))}
         </div>
       </div>
 
-      {/* Center Hover Info - Dynamic Futuristic Label */}
-      {hoveredIsland && (
-        <div
-          className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 pointer-events-none z-20 flex flex-col items-center"
-          style={{ transform: 'translate(-50%, -150px)' }} // Float above center
-        >
-          <div className="flex flex-col items-center gap-1">
-            <div className="w-px h-8 bg-gradient-to-b from-transparent to-cyan-400" />
-            <div className="bg-black/80 backdrop-blur-md border border-cyan-500/30 px-6 py-3 rounded-lg flex flex-col items-center shadow-[0_0_30px_rgba(6,182,212,0.2)]">
-              <h2 className="text-xl font-black uppercase italic tracking-wider text-white">
-                {hoveredIsland.name}
-              </h2>
-              <div className="flex gap-3 text-[10px] font-bold text-cyan-300 uppercase tracking-widest mt-1">
-                <span>{hoveredIsland.sea}</span>
-                <span>•</span>
-                <span>{hoveredIsland.visual}</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
-
-      {/* Bottom Timeline */}
+      {/* Episode Controls */}
       <EpisodeControls
         currentEpisode={currentEpisode}
         onEpisodeChange={setCurrentEpisode}
@@ -134,89 +103,97 @@ const App = () => {
         arcs={arcs}
       />
 
-      {/* Island Details Overlay (Right Panel) - Only if selected */}
+      {/* Island Details Panel */}
       {selectedIsland && (
-        <div className="absolute top-1/2 right-8 -translate-y-1/2 w-80 bg-black/80 backdrop-blur-2xl border border-white/10 rounded-2xl p-6 shadow-2xl z-20">
+        <div className="absolute top-1/2 right-6 -translate-y-1/2 w-80 bg-stone-900/95 backdrop-blur-xl border border-amber-900/40 rounded-2xl p-6 shadow-2xl z-50">
           <div className="flex justify-between items-start mb-6">
-            <h2 className="text-3xl font-black uppercase italic text-white leading-none">
-              {selectedIsland.name}
-            </h2>
+            <div>
+              <h2
+                className="text-2xl font-bold text-amber-100 leading-none"
+                style={{ fontFamily: "'Times New Roman', serif" }}
+              >
+                {selectedIsland.name}
+              </h2>
+              <p className="text-xs text-amber-600/70 uppercase tracking-widest mt-1">
+                {selectedIsland.sea}
+              </p>
+            </div>
             <button
               onClick={() => setSelectedIslandId(null)}
-              className="w-8 h-8 flex items-center justify-center rounded-full bg-white/5 hover:bg-white/10"
+              className="w-8 h-8 flex items-center justify-center rounded-full bg-stone-800 hover:bg-stone-700 text-amber-300/70 transition-colors"
             >
               ✕
             </button>
           </div>
 
-          <div className="space-y-6">
-            <div className="space-y-1">
-              <p className="text-[10px] uppercase tracking-widest text-white/40 font-bold">
-                Region
-              </p>
-              <p className="text-lg font-bold text-cyan-400">
-                {selectedIsland.sea}
-              </p>
-            </div>
-
-            <div className="space-y-1">
-              <p className="text-[10px] uppercase tracking-widest text-white/40 font-bold">
-                Arc
-              </p>
-              <p className="text-lg font-bold text-white">
-                {selectedIsland.arc}
-              </p>
+          <div className="space-y-5">
+            <div className="flex gap-4">
+              <div className="flex-1 bg-stone-800/60 rounded-xl p-3">
+                <p className="text-[10px] uppercase tracking-widest text-amber-600/60 mb-1">
+                  Arc
+                </p>
+                <p className="text-sm font-bold text-amber-100">
+                  {selectedIsland.arc}
+                </p>
+              </div>
+              <div className="flex-1 bg-stone-800/60 rounded-xl p-3">
+                <p className="text-[10px] uppercase tracking-widest text-amber-600/60 mb-1">
+                  Episodes
+                </p>
+                <p className="text-sm font-bold text-amber-100">
+                  {selectedIsland.episodes[0]} - {selectedIsland.episodes[1]}
+                </p>
+              </div>
             </div>
 
             {selectedIsland.hasPoneglyph && (
-              <div className="p-3 bg-red-500/10 border border-red-500/30 rounded-xl flex items-center gap-3">
-                <div className="w-2 h-2 bg-red-500 rounded-full animate-pulse" />
-                <span className="text-xs font-bold text-red-200 uppercase tracking-wider">
-                  Poneglyph Detected
+              <div className="p-3 bg-amber-900/30 border border-amber-700/40 rounded-xl flex items-center gap-3">
+                <div className="w-3 h-3 bg-amber-500 rounded-full animate-pulse" />
+                <span className="text-xs font-bold text-amber-300 uppercase tracking-wider">
+                  Poneglyph Location
                 </span>
               </div>
             )}
 
+            {/* Characters */}
             {selectedIsland.characters &&
               selectedIsland.characters.length > 0 && (
-                <div className="space-y-4 pt-4 border-t border-white/10">
-                  <p className="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+                <div className="pt-4 border-t border-stone-700/50">
+                  <p className="text-[10px] uppercase tracking-widest text-amber-600/60 mb-3">
                     Key Figures
                   </p>
-                  <div className="flex flex-wrap gap-3">
+                  <div className="flex flex-wrap gap-2">
                     {selectedIsland.characters.map((char, i) => (
                       <div
                         key={char}
-                        className="relative group cursor-default"
+                        className="px-3 py-1.5 bg-stone-800 rounded-lg text-xs font-medium text-amber-200/80 border border-stone-700/50"
                         style={{
-                          animation: `fadeInUp 0.3s ease-out ${i * 0.1}s backwards`,
+                          animation: `fadeIn 0.3s ease-out ${i * 0.05}s backwards`,
                         }}
                       >
-                        <div className="w-10 h-10 rounded-full bg-slate-800 border border-white/20 flex items-center justify-center overflow-hidden hover:border-cyan-400 transition-colors shadow-lg">
-                          <span className="text-xs font-bold text-white">
-                            {char.slice(0, 2).toUpperCase()}
-                          </span>
-                        </div>
-                        <div className="absolute -bottom-8 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity bg-black/90 px-2 py-1 rounded text-[10px] whitespace-nowrap border border-white/10 pointer-events-none z-30">
-                          {char}
-                        </div>
+                        {char}
                       </div>
                     ))}
                   </div>
-                  <style>{`
-                  @keyframes fadeInUp {
-                    from { opacity: 0; transform: translateY(10px); }
-                    to { opacity: 1; transform: translateY(0); }
-                  }
-                `}</style>
                 </div>
               )}
           </div>
         </div>
       )}
 
-      {/* Background Ambience (Vignette) */}
-      <div className="absolute inset-0 pointer-events-none bg-[radial-gradient(circle_at_center,transparent_0%,#020617_100%)] opacity-80" />
+      {/* Floating Hints */}
+      <div className="absolute bottom-28 left-6 flex items-center gap-2 text-amber-700/50 text-xs pointer-events-none">
+        <Anchor className="w-4 h-4" />
+        <span>Drag to pan • Scroll to zoom</span>
+      </div>
+
+      {/* CSS Keyframes */}
+      <style>{`
+        @keyframes fadeIn {
+          from { opacity: 0; transform: translateY(5px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+      `}</style>
     </div>
   );
 };
