@@ -19,10 +19,6 @@ function getBuildConfig(): Bun.BuildConfig {
         process.env.NODE_ENV || 'development'
       ),
     },
-    external: [
-      // External CDN dependencies that should not be bundled
-      'three',
-    ],
   };
 
   if (isDevelopment) {
