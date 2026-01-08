@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One Piece World Atlas | Interactive Globe</title>
+    <meta name="description"
+        content="Explore the One Piece world through an interactive 3D globe. Navigate islands, track voyages, and relive the adventure." />
+    <meta name="keywords"
+        content="One Piece, map, islands, anime, globe, Grand Line, Laugh Tale, Straw Hat, interactive" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="One Piece World Atlas" />
+    <meta property="og:description"
+        content="Interactive 3D globe for One Piece - explore islands, episodes, and voyages." />
+    <meta property="og:image" content="./assets/preview.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="One Piece World Atlas" />
+    <meta name="twitter:description"
+        content="Interactive 3D globe for One Piece - explore islands, episodes, and voyages." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #030712;
+            --bg-secondary: #0f172a;
+            --bg-glass: rgba(15, 23, 42, 0.7);
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --accent-primary: #dc2626;
+            --accent-secondary: #ef4444;
+            --accent-glow: rgba(220, 38, 38, 0.4);
+            --border-subtle: rgba(255, 255, 255, 0.06);
+            --border-glass: rgba(255, 255, 255, 0.1);
+            --gradient-hero: linear-gradient(135deg, #030712 0%, #0f172a 50%, #1e1b4b 100%);
+        }
+
+        html,
+        body {
+            height: 100%;
+            overflow: hidden;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .app-container {
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Navigation */
+        .nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            padding: 1.5rem 3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: linear-gradient(180deg, rgba(3, 7, 18, 0.9) 0%, transparent 100%);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+        }
+
+        .nav-brand {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .nav-logo {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 900;
+            font-size: 1.25rem;
+            box-shadow: 0 8px 32px var(--accent-glow);
+        }
+
+        .nav-title {
+            font-family: 'Space Grotesk', sans-serif;
+            font-weight: 700;
+            font-size: 1.25rem;
+            letter-spacing: -0.02em;
+        }
+
+        .nav-subtitle {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-weight: 500;
+        }
+
+        .nav-tabs {
+            display: flex;
+            gap: 0.5rem;
+            background: var(--bg-glass);
+            padding: 0.375rem;
+            border-radius: 100px;
+            border: 1px solid var(--border-glass);
+            backdrop-filter: blur(20px);
+        }
+
+        .nav-tab {
+            padding: 0.75rem 1.75rem;
+            border: none;
+            background: transparent;
+            color: var(--text-secondary);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            border-radius: 100px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+        }
+
+        .nav-tab:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-tab.active {
+            background: var(--accent-primary);
+            color: white;
+            box-shadow: 0 4px 24px var(--accent-glow);
+        }
+
+        .nav-actions {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .nav-link {
+            color: var(--text-secondary);
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: color 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .nav-link:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-btn {
+            padding: 0.75rem 1.5rem;
+            background: var(--bg-glass);
+            border: 1px solid var(--border-glass);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.875rem;
+            font-weight: 500;
+            border-radius: 100px;
+            cursor: pointer;
+            transition: all 0.3s;
+            backdrop-filter: blur(10px);
+        }
+
+        .nav-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        /* View Container */
+        .view-container {
+            flex: 1;
+            position: relative;
+        }
+
+        .view {
+            position: absolute;
+            inset: 0;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1), visibility 0.5s;
+        }
+
+        .view.active {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        /* Hero View */
+        .hero-view {
+            background: var(--gradient-hero);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-bg {
+            position: absolute;
+            inset: 0;
+            overflow: hidden;
+        }
+
+        .hero-orb {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(80px);
+            opacity: 0.5;
+            animation: float 20s ease-in-out infinite;
+        }
+
+        .hero-orb-1 {
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(220, 38, 38, 0.3) 0%, transparent 70%);
+            top: -200px;
+            right: -100px;
+            animation-delay: 0s;
+        }
+
+        .hero-orb-2 {
+            width: 500px;
+            height: 500px;
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.2) 0%, transparent 70%);
+            bottom: -150px;
+            left: -100px;
+            animation-delay: -7s;
+        }
+
+        .hero-orb-3 {
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, rgba(6, 182, 212, 0.15) 0%, transparent 70%);
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            animation-delay: -14s;
+        }
+
+        @keyframes float {
+
+            0%,
+            100% {
+                transform: translate(0, 0) scale(1);
+            }
+
+            25% {
+                transform: translate(30px, -30px) scale(1.05);
+            }
+
+            50% {
+                transform: translate(-20px, 20px) scale(0.95);
+            }
+
+            75% {
+                transform: translate(20px, 10px) scale(1.02);
+            }
+        }
+
+        .hero-grid {
+            position: absolute;
+            inset: 0;
+            background-image:
+                linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+            background-size: 60px 60px;
+            mask-image: radial-gradient(ellipse at center, black 0%, transparent 70%);
+            -webkit-mask-image: radial-gradient(ellipse at center, black 0%, transparent 70%);
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 10;
+            text-align: center;
+            max-width: 900px;
+            padding: 2rem;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: var(--bg-glass);
+            border: 1px solid var(--border-glass);
+            border-radius: 100px;
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .hero-badge-dot {
+            width: 6px;
+            height: 6px;
+            background: #22c55e;
+            border-radius: 50%;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
+        }
+
+        .hero-title {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: clamp(3rem, 8vw, 5.5rem);
+            font-weight: 700;
+            line-height: 1.05;
+            letter-spacing: -0.03em;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(135deg, var(--text-primary) 0%, var(--text-secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-title-accent {
+            background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-description {
+            font-size: 1.25rem;
+            line-height: 1.7;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto 3rem;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .hero-btn {
+            padding: 1rem 2rem;
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            border-radius: 100px;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            text-decoration: none;
+        }
+
+        .hero-btn-primary {
+            background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+            border: none;
+            color: white;
+            box-shadow: 0 8px 32px var(--accent-glow);
+        }
+
+        .hero-btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 40px var(--accent-glow);
+        }
+
+        .hero-btn-secondary {
+            background: var(--bg-glass);
+            border: 1px solid var(--border-glass);
+            color: var(--text-primary);
+            backdrop-filter: blur(10px);
+        }
+
+        .hero-btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 4rem;
+            margin-top: 5rem;
+            padding-top: 3rem;
+            border-top: 1px solid var(--border-subtle);
+        }
+
+        .hero-stat {
+            text-align: center;
+        }
+
+        .hero-stat-value {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            line-height: 1;
+        }
+
+        .hero-stat-label {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-top: 0.5rem;
+        }
+
+        /* Atlas View */
+        .atlas-view {
+            background: var(--bg-primary);
+        }
+
+        .atlas-frame {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .atlas-loading {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: var(--bg-primary);
+            gap: 1.5rem;
+        }
+
+        .atlas-spinner {
+            width: 48px;
+            height: 48px;
+            border: 3px solid var(--border-glass);
+            border-top-color: var(--accent-primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .atlas-loading-text {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+        }
+
+        /* Footer hint */
+        .footer-hint {
+            position: fixed;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.25rem;
+            background: var(--bg-glass);
+            border: 1px solid var(--border-glass);
+            border-radius: 100px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            backdrop-filter: blur(10px);
+            z-index: 100;
+        }
+
+        .footer-hint kbd {
+            padding: 0.25rem 0.5rem;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 0.7rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .nav {
+                padding: 1rem 1.5rem;
+            }
+
+            .nav-title {
+                display: none;
+            }
+
+            .nav-actions {
+                display: none;
+            }
+
+            .hero-stats {
+                gap: 2rem;
+            }
+
+            .hero-stat-value {
+                font-size: 1.75rem;
+            }
+
+            .footer-hint {
+                display: none;
+            }
+        }
+
+        /* SVG Icons inline */
+        .icon {
+            width: 20px;
+            height: 20px;
+            stroke: currentColor;
+            stroke-width: 2;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            fill: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Navigation -->
+        <nav class="nav">
+            <div class="nav-brand">
+                <div class="nav-logo">OP</div>
+                <div>
+                    <div class="nav-title">World Atlas</div>
+                    <div class="nav-subtitle">Grand Line Navigator</div>
+                </div>
+            </div>
+
+            <div class="nav-tabs">
+                <button class="nav-tab active" data-view="hero" id="tab-home">Home</button>
+                <button class="nav-tab" data-view="atlas" id="tab-atlas">Atlas</button>
+            </div>
+
+            <div class="nav-actions">
+                <a href="https://github.com/adhit-r/one-piece-atlas" target="_blank" class="nav-link">
+                    <svg class="icon" viewBox="0 0 24 24">
+                        <path
+                            d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+                        </path>
+                    </svg>
+                    GitHub
+                </a>
+                <button class="nav-btn" onclick="switchView('atlas')">
+                    Launch Atlas
+                </button>
+            </div>
+        </nav>
+
+        <!-- View Container -->
+        <div class="view-container">
+            <!-- Hero View -->
+            <div class="view hero-view active" id="view-hero">
+                <div class="hero-bg">
+                    <div class="hero-orb hero-orb-1"></div>
+                    <div class="hero-orb hero-orb-2"></div>
+                    <div class="hero-orb hero-orb-3"></div>
+                    <div class="hero-grid"></div>
+                </div>
+
+                <div class="hero-content">
+                    <div class="hero-badge">
+                        <span class="hero-badge-dot"></span>
+                        Episode 1116 and counting
+                    </div>
+
+                    <h1 class="hero-title">
+                        Navigate the<br>
+                        <span class="hero-title-accent">One Piece World</span>
+                    </h1>
+
+                    <p class="hero-description">
+                        An interactive 3D globe featuring every island, voyage path, and story arc.
+                        Track the Straw Hats from East Blue to the New World.
+                    </p>
+
+                    <div class="hero-actions">
+                        <button class="hero-btn hero-btn-primary" onclick="switchView('atlas')">
+                            <svg class="icon" viewBox="0 0 24 24">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <line x1="2" y1="12" x2="22" y2="12"></line>
+                                <path
+                                    d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
+                                </path>
+                            </svg>
+                            Explore the Atlas
+                        </button>
+                        <a href="https://github.com/adhit-r/one-piece-atlas" target="_blank"
+                            class="hero-btn hero-btn-secondary">
+                            <svg class="icon" viewBox="0 0 24 24">
+                                <path
+                                    d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+                                </path>
+                            </svg>
+                            View on GitHub
+                        </a>
+                    </div>
+
+                    <div class="hero-stats">
+                        <div class="hero-stat">
+                            <div class="hero-stat-value">18+</div>
+                            <div class="hero-stat-label">Islands</div>
+                        </div>
+                        <div class="hero-stat">
+                            <div class="hero-stat-value">1116</div>
+                            <div class="hero-stat-label">Episodes</div>
+                        </div>
+                        <div class="hero-stat">
+                            <div class="hero-stat-value">10</div>
+                            <div class="hero-stat-label">Crew Members</div>
+                        </div>
+                        <div class="hero-stat">
+                            <div class="hero-stat-value">4</div>
+                            <div class="hero-stat-label">Poneglyphs</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Atlas View -->
+            <div class="view atlas-view" id="view-atlas">
+                <div class="atlas-loading" id="atlas-loading">
+                    <div class="atlas-spinner"></div>
+                    <div class="atlas-loading-text">Loading the Grand Line...</div>
+                </div>
+                <div id="atlas-app-container" style="width: 100%; height: 100%;"></div>
+            </div>
+        </div>
+
+        <!-- Footer hint -->
+        <div class="footer-hint" id="footer-hint">
+            Press <kbd>Tab</kbd> to switch views or <kbd>A</kbd> to open Atlas
+        </div>
+    </div>
+
+    <script>
+        // View switching
+        const views = document.querySelectorAll('.view');
+        const tabs = document.querySelectorAll('.nav-tab');
+        const footerHint = document.getElementById('footer-hint');
+        let atlasLoaded = false;
+
+        function switchView(viewId) {
+            views.forEach(view => {
+                view.classList.remove('active');
+                if (view.id === `view-${viewId}`) {
+                    view.classList.add('active');
+                }
+            });
+
+            tabs.forEach(tab => {
+                tab.classList.remove('active');
+                if (tab.dataset.view === viewId) {
+                    tab.classList.add('active');
+                }
+            });
+
+            // Update footer hint visibility
+            footerHint.style.display = viewId === 'hero' ? 'flex' : 'none';
+
+            // Load atlas app if switching to atlas
+            if (viewId === 'atlas' && !atlasLoaded) {
+                loadAtlasApp();
+            }
+        }
+
+        function loadAtlasApp() {
+            atlasLoaded = true;
+            const container = document.getElementById('atlas-app-container');
+            const loading = document.getElementById('atlas-loading');
+
+            // Create root element for React app
+            container.innerHTML = '<div id="root" style="width: 100%; height: 100%;"></div>';
+
+            // Load Three.js first
+            const threeScript = document.createElement('script');
+            threeScript.src = 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js';
+
+            threeScript.onload = () => {
+                // Load Tailwind CSS
+                const tailwindScript = document.createElement('script');
+                tailwindScript.src = 'https://cdn.tailwindcss.com';
+
+                tailwindScript.onload = () => {
+                    // Load the main.js bundle
+                    const script = document.createElement('script');
+                    script.type = 'module';
+                    script.src = './main.js';
+
+                    script.onload = () => {
+                        setTimeout(() => {
+                            loading.style.display = 'none';
+                        }, 500);
+                    };
+
+                    script.onerror = () => {
+                        loading.innerHTML = '<div style="color: var(--text-secondary);">Failed to load Atlas. Please refresh the page.</div>';
+                    };
+
+                    document.body.appendChild(script);
+                };
+
+                document.head.appendChild(tailwindScript);
+            };
+
+            document.head.appendChild(threeScript);
+        }
+
+        // Tab click handlers
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                switchView(tab.dataset.view);
+            });
+        });
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+            if (e.key === 'a' || e.key === 'A') {
+                switchView('atlas');
+            } else if (e.key === 'h' || e.key === 'H') {
+                switchView('hero');
+            }
+        });
+    </script>
+</body>
+
+</html>
