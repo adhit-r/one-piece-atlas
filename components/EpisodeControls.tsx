@@ -1,5 +1,6 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight, Play, Pause } from 'lucide-react';
+import { motion } from 'framer-motion';
 
 interface EpisodeControlsProps {
   currentEpisode: number;
@@ -23,191 +24,101 @@ export const EpisodeControls: React.FC<EpisodeControlsProps> = ({
   jumpToEpisode,
   isPlaying,
   togglePlay,
-  stop,
-  playSpeed,
-  setPlaySpeed,
   arcs,
 }) => {
-  const [showJumpInput, setShowJumpInput] = useState(false);
-  const [jumpValue, setJumpValue] = useState('');
-  const jumpInputRef = useRef<HTMLInputElement>(null);
-
-  // Keyboard shortcuts
-  useEffect(() => {
-    const handleKeyPress = (e: KeyboardEvent) => {
-      if (e.target instanceof HTMLInputElement) return;
-
-      switch (e.key) {
-        case 'ArrowLeft':
-          e.preventDefault();
-          previousEpisode();
-          break;
-        case 'ArrowRight':
-          e.preventDefault();
-          nextEpisode();
-          break;
-        case ' ':
-          e.preventDefault();
-          togglePlay();
-          break;
-        case 'Escape':
-          stop();
-          break;
-      }
-    };
-
-    window.addEventListener('keydown', handleKeyPress);
-    return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [nextEpisode, previousEpisode, togglePlay, stop]);
-
-  const handleJump = () => {
-    const episode = parseInt(jumpValue);
-    if (!isNaN(episode) && episode >= 1 && episode <= 1116) {
-      jumpToEpisode(episode);
-      setJumpValue('');
-      setShowJumpInput(false);
-    }
-  };
-
-  const handleJumpKeyPress = (e: React.KeyboardEvent) => {
-    if (e.key === 'Enter') {
-      handleJump();
-    } else if (e.key === 'Escape') {
-      setShowJumpInput(false);
-      setJumpValue('');
-    }
-  };
-
-  useEffect(() => {
-    if (showJumpInput && jumpInputRef.current) {
-      jumpInputRef.current.focus();
-    }
-  }, [showJumpInput]);
+  const [isHovered, setIsHovered] = useState(false);
 
   return (
-    <div className="space-y-4">
-      <div className="p-6 bg-white/5 rounded-3xl border border-white/10 shadow-inner">
-        <div className="flex justify-between items-center mb-4">
-          <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">
-            Voyage Log
-          </span>
-          <div className="flex items-center gap-2">
-            <span className="text-xs font-black text-red-500 bg-red-500/10 px-3 py-1 rounded-full border border-red-500/20">
-              Ep. {currentEpisode}
-            </span>
-            {showJumpInput ? (
-              <div className="flex items-center gap-2">
-                <input
-                  ref={jumpInputRef}
-                  type="number"
-                  min="1"
-                  max="1116"
-                  value={jumpValue}
-                  onChange={e => setJumpValue(e.target.value)}
-                  onKeyDown={handleJumpKeyPress}
-                  placeholder="Ep."
-                  className="w-20 px-2 py-1 bg-black/50 border border-white/10 rounded-lg text-xs font-bold text-white focus:outline-none focus:border-red-500/50"
-                />
-                <button
-                  onClick={handleJump}
-                  className="px-2 py-1 bg-red-600 hover:bg-red-700 rounded-lg text-xs font-bold transition-colors"
-                >
-                  Go
-                </button>
-                <button
-                  onClick={() => {
-                    setShowJumpInput(false);
-                    setJumpValue('');
-                  }}
-                  className="px-2 py-1 bg-white/10 hover:bg-white/20 rounded-lg text-xs font-bold transition-colors"
-                >
-                  ✕
-                </button>
-              </div>
+    <div
+      className="absolute bottom-8 left-1/2 -translate-x-1/2 w-[90%] max-w-4xl z-50 flex flex-col gap-4"
+      onMouseEnter={() => setIsHovered(true)}
+      onMouseLeave={() => setIsHovered(false)}
+    >
+      {/* Current Arc/Episode Info - Floating Crystal Style */}
+      <motion.div
+        initial={{ y: 20, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        className="self-center bg-black/60 backdrop-blur-xl border border-white/10 px-6 py-2 rounded-full flex items-center gap-4 shadow-lg"
+      >
+        <span className="text-xs font-black text-cyan-400 tracking-widest uppercase">
+          Current Log
+        </span>
+        <div className="h-4 w-px bg-white/20" />
+        <span className="text-sm font-bold text-white">
+          Episode {currentEpisode}
+        </span>
+      </motion.div>
+
+      {/* Main Timeline Bar */}
+      <div className="bg-black/80 backdrop-blur-2xl border border-white/10 rounded-2xl p-4 shadow-2xl relative overflow-hidden group">
+        {/* Progress Bar */}
+        <div className="relative h-12 flex items-center gap-4">
+          <button
+            onClick={togglePlay}
+            className="w-10 h-10 flex items-center justify-center rounded-full bg-cyan-500 hover:bg-cyan-400 text-black transition-all shadow-[0_0_15px_rgba(6,182,212,0.5)]"
+          >
+            {isPlaying ? (
+              <Pause size={18} fill="currentColor" />
             ) : (
-              <button
-                onClick={() => setShowJumpInput(true)}
-                className="px-2 py-1 bg-white/5 hover:bg-white/10 rounded-lg text-xs font-bold transition-colors"
-                title="Jump to episode (or press J)"
-              >
-                Jump
-              </button>
+              <Play size={18} fill="currentColor" className="ml-0.5" />
             )}
+          </button>
+
+          <div className="flex-1 relative h-2 bg-white/10 rounded-full cursor-pointer group/slider">
+            <div
+              className="absolute top-0 left-0 h-full bg-gradient-to-r from-blue-600 to-cyan-400 rounded-full"
+              style={{ width: `${(currentEpisode / 1120) * 100}%` }}
+            />
+            <input
+              type="range"
+              min="1"
+              max="1120"
+              value={currentEpisode}
+              onChange={e => onEpisodeChange(parseInt(e.target.value))}
+              className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
+            />
           </div>
-        </div>
 
-        {/* Episode Slider */}
-        <input
-          type="range"
-          min="1"
-          max="1116"
-          value={currentEpisode}
-          onChange={e => onEpisodeChange(parseInt(e.target.value))}
-          className="w-full accent-red-600 h-1.5 bg-white/5 rounded-full cursor-pointer appearance-none mb-4"
-        />
-
-        {/* Playback Controls */}
-        <div className="flex items-center justify-between gap-2">
-          <div className="flex items-center gap-2">
+          <div className="flex gap-2 text-white/50">
             <button
               onClick={previousEpisode}
-              className="p-2 bg-white/5 hover:bg-white/10 rounded-xl transition-all"
-              title="Previous episode (←)"
+              className="hover:text-white transition-colors"
             >
-              <ChevronLeft className="w-4 h-4" />
-            </button>
-            <button
-              onClick={togglePlay}
-              className="p-2 bg-red-600 hover:bg-red-700 rounded-xl transition-all"
-              title="Play/Pause (Space)"
-            >
-              {isPlaying ? <Pause className="w-4 h-4" /> : <Play className="w-4 h-4" />}
+              <ChevronLeft size={20} />
             </button>
             <button
               onClick={nextEpisode}
-              className="p-2 bg-white/5 hover:bg-white/10 rounded-xl transition-all"
-              title="Next episode (→)"
+              className="hover:text-white transition-colors"
             >
-              <ChevronRight className="w-4 h-4" />
+              <ChevronRight size={20} />
             </button>
           </div>
-
-          {isPlaying && (
-            <div className="flex items-center gap-2">
-              <span className="text-[10px] text-slate-500 uppercase">Speed</span>
-              <select
-                value={playSpeed}
-                onChange={e => setPlaySpeed(parseInt(e.target.value))}
-                className="px-2 py-1 bg-black/50 border border-white/10 rounded-lg text-xs font-bold text-white focus:outline-none focus:border-red-500/50"
-              >
-                <option value={500}>2x</option>
-                <option value={1000}>1x</option>
-                <option value={2000}>0.5x</option>
-                <option value={3000}>0.3x</option>
-              </select>
-            </div>
-          )}
         </div>
 
-        {/* Arc Navigation */}
-        <div className="mt-4 pt-4 border-t border-white/5">
-          <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider mb-2">
-            Quick Jump to Arc
-          </p>
-          <div className="flex flex-wrap gap-2 max-h-32 overflow-y-auto custom-scrollbar">
-            {arcs.map(arc => (
-              <button
-                key={arc.name}
-                onClick={() => jumpToEpisode(arc.startEp)}
-                className="px-3 py-1.5 bg-white/5 hover:bg-white/10 border border-white/5 rounded-lg text-[10px] font-bold transition-all"
-              >
-                {arc.name}
-              </button>
-            ))}
-          </div>
-        </div>
+        {/* Arc Markers (visible on hover) */}
+        <motion.div
+          className="flex gap-1 overflow-x-auto no-scrollbar mt-2 pt-2 border-t border-white/5"
+          initial={{ height: 0, opacity: 0 }}
+          animate={{
+            height: isHovered ? 'auto' : 0,
+            opacity: isHovered ? 1 : 0,
+          }}
+        >
+          {arcs.map(arc => (
+            <button
+              key={arc.name}
+              onClick={() => jumpToEpisode(arc.startEp)}
+              className={`flex-shrink-0 px-3 py-1 text-[10px] font-bold uppercase rounded-md border transition-all ${
+                currentEpisode >= arc.startEp && currentEpisode <= arc.endEp
+                  ? 'bg-cyan-500/20 border-cyan-500/50 text-cyan-300'
+                  : 'bg-white/5 border-transparent text-slate-400 hover:bg-white/10'
+              }`}
+            >
+              {arc.name}
+            </button>
+          ))}
+        </motion.div>
       </div>
     </div>
   );
 };
-
