@@ -176,6 +176,41 @@ const App = () => {
                 </span>
               </div>
             )}
+
+            {selectedIsland.characters &&
+              selectedIsland.characters.length > 0 && (
+                <div className="space-y-4 pt-4 border-t border-white/10">
+                  <p className="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+                    Key Figures
+                  </p>
+                  <div className="flex flex-wrap gap-3">
+                    {selectedIsland.characters.map((char, i) => (
+                      <div
+                        key={char}
+                        className="relative group cursor-default"
+                        style={{
+                          animation: `fadeInUp 0.3s ease-out ${i * 0.1}s backwards`,
+                        }}
+                      >
+                        <div className="w-10 h-10 rounded-full bg-slate-800 border border-white/20 flex items-center justify-center overflow-hidden hover:border-cyan-400 transition-colors shadow-lg">
+                          <span className="text-xs font-bold text-white">
+                            {char.slice(0, 2).toUpperCase()}
+                          </span>
+                        </div>
+                        <div className="absolute -bottom-8 left-1/2 -translate-x-1/2 opacity-0 group-hover:opacity-100 transition-opacity bg-black/90 px-2 py-1 rounded text-[10px] whitespace-nowrap border border-white/10 pointer-events-none z-30">
+                          {char}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                  <style>{`
+                  @keyframes fadeInUp {
+                    from { opacity: 0; transform: translateY(10px); }
+                    to { opacity: 1; transform: translateY(0); }
+                  }
+                `}</style>
+                </div>
+              )}
           </div>
         </div>
       )}
