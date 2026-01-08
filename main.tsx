@@ -163,17 +163,43 @@ const App = () => {
                     Key Figures
                   </p>
                   <div className="flex flex-wrap gap-2">
-                    {selectedIsland.characters.map((char, i) => (
-                      <div
-                        key={char}
-                        className="px-3 py-1.5 bg-stone-800 rounded-lg text-xs font-medium text-amber-200/80 border border-stone-700/50"
-                        style={{
-                          animation: `fadeIn 0.3s ease-out ${i * 0.05}s backwards`,
-                        }}
-                      >
-                        {char}
-                      </div>
-                    ))}
+                    {selectedIsland.characters.map((char, i) => {
+                      const icons: Record<string, string> = {
+                        Luffy: '👒',
+                        Zoro: '⚔️',
+                        Nami: '🗺️',
+                        Usopp: '🎯',
+                        Sanji: '🍳',
+                        Chopper: '🩺',
+                        Robin: '📚',
+                        Franky: '🔧',
+                        Brook: '🎻',
+                        Jinbe: '🦈',
+                        Shanks: '🍺',
+                        Ace: '🔥',
+                        Mihawk: '🗡️',
+                        Smoker: '💨',
+                        Dragon: '🐉',
+                        Crocodile: '🐊',
+                        Vivi: '👑',
+                        Law: '💉',
+                        Whitebeard: '🌊',
+                        Doflamingo: '🦩',
+                      };
+                      const icon = icons[char] || '⭐';
+                      return (
+                        <div
+                          key={char}
+                          className="flex items-center gap-2 px-3 py-2 bg-gradient-to-r from-stone-800 to-stone-800/60 rounded-lg text-sm font-medium text-amber-200 border border-stone-600/50 shadow-lg"
+                          style={{
+                            animation: `fadeIn 0.3s ease-out ${i * 0.08}s backwards`,
+                          }}
+                        >
+                          <span className="text-lg">{icon}</span>
+                          <span>{char}</span>
+                        </div>
+                      );
+                    })}
                   </div>
                 </div>
               )}
