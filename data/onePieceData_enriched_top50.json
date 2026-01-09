@@ -1,0 +1,954 @@
+[
+  {
+    "id": "list-of-locations",
+    "name": "List of Locations",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/List_of_Locations",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "This is a <span class=\"searchmatch\">list</span> <span class=\"searchmatch\">of</span> <span class=\"searchmatch\">locations</span> from which ESPN&#039;s College GameDay has been broadcast since it first went on the road in 1993. Winners are <span class=\"searchmatch\">listed</span> in bold. All"
+  },
+  {
+    "id": "judo-island",
+    "name": "Judo Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Judo_Island",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Judo</span>, for the 2019 <span class=\"searchmatch\">Island</span> Games, held at the Devils Tower Camp - Gym, Gibraltar in July 2019.   *   Host nation (Gibraltar) &quot;2019 <span class=\"searchmatch\">Island</span> Game - <span class=\"searchmatch\">Judo</span>&quot;."
+  },
+  {
+    "id": "2000-year-island",
+    "name": "2000 Year Island",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/2000_Year_Island",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "the International <span class=\"searchmatch\">Year</span> for the Culture of Peace and the World Mathematical <span class=\"searchmatch\">Year</span>. Popular culture holds the <span class=\"searchmatch\">year</span> <span class=\"searchmatch\">2000</span> as the first <span class=\"searchmatch\">year</span> of the 21st century"
+  },
+  {
+    "id": "trans-town",
+    "name": "Trans Town",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Trans_Town",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "the <span class=\"searchmatch\">Trans</span>-Mongolian Railway, which coincides with the <span class=\"searchmatch\">Trans</span>-Siberian as far as Ulan-Ude on Lake Baikal&#039;s eastern shore. From Ulan-Ude the <span class=\"searchmatch\">Trans</span>-Mongolian"
+  },
+  {
+    "id": "carbador-island",
+    "name": "Carbador Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Carbador_Island",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null
+  },
+  {
+    "id": "s-mart",
+    "name": "S.Mart",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/S.Mart",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "with Soriana and Wal-<span class=\"searchmatch\">Mart</span>. <span class=\"searchmatch\">S</span>-<span class=\"searchmatch\">Mart</span> opened its first store in Ciudad Juárez, then later expanded to 33 stores in Ciudad Juarez. <span class=\"searchmatch\">S</span>-<span class=\"searchmatch\">Mart</span> now has 38 stores in"
+  },
+  {
+    "id": "marron",
+    "name": "Marron",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1993
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marron",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Marron</span> is a name given to two closely related species of crayfish in Western Australia. Formerly considered a single species, it is since recognised as"
+  },
+  {
+    "id": "tomac",
+    "name": "Tomac",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1989
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tomac",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "Eli <span class=\"searchmatch\">Tomac</span> (born November 14, 1992) is an American professional Motocross and Supercross racer who competes in the AMA Supercross and Motocross championships;"
+  },
+  {
+    "id": "riba-riba-no-mi",
+    "name": "Riba Riba no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1982
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Riba_Riba_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "Toni <span class=\"searchmatch\">Ribas</span> (born Antoni García Cabra on 13 June 1975) is a Spanish pornographic actor and director. In 2010, he was inducted into the AVN Hall of Fame"
+  },
+  {
+    "id": "rurubu-one-piece",
+    "name": "Rurubu One Piece",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1977
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rurubu_One_Piece",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "release is the original <span class=\"searchmatch\">one</span>. The game was later published by Kemco for the Japanese release. The Nintendo release is the original <span class=\"searchmatch\">one</span>. The game was later"
+  },
+  {
+    "id": "royal-sun-island",
+    "name": "Royal Sun Island",
+    "sea": null,
+    "lat": 45.50638889,
+    "lon": -73.58888889,
+    "arc": null,
+    "episodes": [
+      1,
+      1955
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Royal_Sun_Island",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": "wikipedia",
+    "wiki_snippet": "Mount <span class=\"searchmatch\">Royal</span>.&quot; One theory is that the name of the <span class=\"searchmatch\">Island</span> of Montréal derives from Mont Réal, as the hill&#039;s name was spelled in Middle French (Mont <span class=\"searchmatch\">Royal</span> in"
+  },
+  {
+    "id": "jail-island",
+    "name": "Jail Island",
+    "sea": null,
+    "lat": 35.315277777778,
+    "lon": -85.999166666667,
+    "arc": null,
+    "episodes": [
+      1,
+      1911
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jail_Island",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": "wikidata",
+    "wikidata_id": "Q49644251",
+    "wikidata_description": "island in Coffee County, Tennessee, United States"
+  },
+  {
+    "id": "sargus",
+    "name": "Sargus",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1909
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sargus",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "species and are part of the D. <span class=\"searchmatch\">sargus</span> species complex. Diplodus <span class=\"searchmatch\">sargus</span> was first formally described as Sparus <span class=\"searchmatch\">sargus</span> by Carl Linnaeus in the 10th edition"
+  },
+  {
+    "id": "arsel",
+    "name": "Arsel",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1908
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Arsel",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "Semahat Sevim <span class=\"searchmatch\">Arsel</span> (born 1928) is a Turkish billionaire businesswoman. She is a director of Koç Holding, the largest industrial conglomerate in Turkey"
+  },
+  {
+    "id": "gage",
+    "name": "Gage",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1900
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gage",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "player <span class=\"searchmatch\">Gage</span> Street, Hong Kong <span class=\"searchmatch\">Gage</span>, Kentucky <span class=\"searchmatch\">Gage</span>, New Mexico <span class=\"searchmatch\">Gage</span>, Oklahoma <span class=\"searchmatch\">Gage</span>, West Virginia <span class=\"searchmatch\">Gage</span> County, Nebraska <span class=\"searchmatch\">Gage</span> Park, Chicago, Illinois <span class=\"searchmatch\">Gage</span> (finance)"
+  },
+  {
+    "id": "barricade",
+    "name": "Barricade",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1898
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Barricade",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Barricade</span> (from French barrique &#039;barrel&#039;) is any object or structure that creates a barrier or obstacle to control, block passage or force the flow of"
+  },
+  {
+    "id": "promise-land",
+    "name": "Promise Land",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1855
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Promise_Land",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "In the Abrahamic religions, the &quot;<span class=\"searchmatch\">Promised</span> <span class=\"searchmatch\">Land</span>&quot; (Hebrew: הָאָרֶץ הַמֻּבְטַחַת, romanized: Ha&#039;aretz ha-Muvtaḥat) refers to an area in the Levant that God"
+  },
+  {
+    "id": "homey-premier-show",
+    "name": "Homey (Premier Show)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1841
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Homey_(Premier_Show)",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "2024-12-18. Retrieved 2025-12-04. &quot;Super Chon <span class=\"searchmatch\">Homeys</span>: Talking music and videogames with CHON before their <span class=\"searchmatch\">show</span> - Berkeley B-Side&quot;. 19 December 2018. CHON"
+  },
+  {
+    "id": "teru",
+    "name": "Teru",
+    "sea": null,
+    "lat": -2.23345876648299,
+    "lon": 106.04790133318802,
+    "arc": null,
+    "episodes": [
+      1,
+      1840
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Teru",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": "wikidata",
+    "wikidata_id": "Q12521047",
+    "wikidata_description": "village in Central Bangka Regency, Bangka Belitung Islands, Indonesia"
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1783
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Glass",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Glass</span> is an amorphous (non-crystalline) solid. Because it is often transparent and chemically inert, <span class=\"searchmatch\">glass</span> has found widespread practical, technological"
+  },
+  {
+    "id": "comb",
+    "name": "Comb",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1782
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Comb",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "Shang dynasty <span class=\"searchmatch\">comb</span> Qin dynasty <span class=\"searchmatch\">comb</span> Western Han jade <span class=\"searchmatch\">comb</span> Tang dynasty <span class=\"searchmatch\">comb</span> Changzhou <span class=\"searchmatch\">comb</span>, double-edged fine-toothed <span class=\"searchmatch\">comb</span> In Japan, <span class=\"searchmatch\">combs</span> are referred"
+  },
+  {
+    "id": "trap-tower",
+    "name": "Trap Tower",
+    "sea": null,
+    "lat": 51.514,
+    "lon": -0.2158,
+    "arc": null,
+    "episodes": [
+      1,
+      1735
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trap_Tower",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": "wikipedia",
+    "wiki_snippet": "Hunt, Elle (13 June 2017). &quot;London fire: fears of people <span class=\"searchmatch\">trapped</span> as major blaze engulfs <span class=\"searchmatch\">tower</span> block – latest&quot;. The Guardian. Archived from the original"
+  },
+  {
+    "id": "week",
+    "name": "Week",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1682
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Week",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "A <span class=\"searchmatch\">week</span> is a unit of time equal to seven days. It is the standard time period used for short cycles of days in most parts of the world. The days are often"
+  },
+  {
+    "id": "horo",
+    "name": "Horo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1680
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Horo",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Horo</span> may refer to: <span class=\"searchmatch\">Horo</span> (woreda), a woreda in Ethiopia <span class=\"searchmatch\">Horo</span> (Eswatini), a village in Eswatini Justin <span class=\"searchmatch\">Horo</span>, New Zealand Rugby League player, son of Mark"
+  },
+  {
+    "id": "wombat",
+    "name": "Wombat",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1637
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Wombat",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Wombats</span> are short-legged, muscular quadrupedal marsupials of the family Vombatidae that are native to Australia. Living species are about 1 m (40 in)"
+  },
+  {
+    "id": "nanatsu-islands",
+    "name": "Nanatsu Islands",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1608
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nanatsu_Islands",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "original on February 10, 2003. Retrieved September 29, 2008. &quot;One Piece: <span class=\"searchmatch\">Nanatsu</span> Shima no Daihihou for Game Boy Advance&quot;. GameSpot. Archived from the original"
+  },
+  {
+    "id": "nyornyo-nyarmani",
+    "name": "Nyornyo Nyarmani",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1606
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nyornyo_Nyarmani",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null
+  },
+  {
+    "id": "mooji",
+    "name": "Mooji",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1599
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mooji",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Mooji</span> (born Anthony Paul Moo-Young, January 29, 1954) is a Jamaican spiritual teacher of Advaita based in the UK and Portugal. He gives talks (satsang)"
+  },
+  {
+    "id": "one-piece-unlimited-world-red",
+    "name": "One Piece: Unlimited World Red",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1582
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_Unlimited_World_Red",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">One</span> <span class=\"searchmatch\">Piece</span>: <span class=\"searchmatch\">Unlimited</span> <span class=\"searchmatch\">World</span> <span class=\"searchmatch\">Red</span> is an action-adventure game developed by Ganbarion and published by Bandai Namco Games for the Nintendo 3DS. Based on the"
+  },
+  {
+    "id": "nebulandia",
+    "name": "Nebulandia",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1513
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nebulandia",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": " &quot;One Piece Adventure of <span class=\"searchmatch\">Nebulandia</span> TV Special Blu-ray/DVD&quot;. Right Stuf. 16 March 2019. &quot;One Piece Adventure of <span class=\"searchmatch\">Nebulandia</span> - TV Special (Blu-Ray)&quot;. Madman"
+  },
+  {
+    "id": "one-piece-romance-dawn-the-dawn-of-the-adventure",
+    "name": "One Piece Romance Dawn: The Dawn of the Adventure",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1499
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Romance_Dawn:_The_Dawn_of_the_Adventure",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">One</span> <span class=\"searchmatch\">Piece</span>: <span class=\"searchmatch\">Romance</span> <span class=\"searchmatch\">Dawn</span> (<span class=\"searchmatch\">ONE</span> <span class=\"searchmatch\">PIECE</span>(ワンピース) <span class=\"searchmatch\">ROMANCE</span> <span class=\"searchmatch\">DAWN</span>(ロマンスドーン) 冒険の夜明け, Wan Pīsu: Romansu Dōn - Bōken no Yoake; &quot;<span class=\"searchmatch\">One</span> <span class=\"searchmatch\">Piece</span>: <span class=\"searchmatch\">Romance</span> <span class=\"searchmatch\">Dawn</span> - <span class=\"searchmatch\">Dawn</span> <span class=\"searchmatch\">of</span> the"
+  },
+  {
+    "id": "eliza-odyssey",
+    "name": "Eliza (Odyssey)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1457
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Eliza_(Odyssey)",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "Primetime Emmy Award. Soo gained prominence for originating the role of <span class=\"searchmatch\">Eliza</span> Hamilton in the musical Hamilton on Broadway. She earned a nomination for"
+  },
+  {
+    "id": "sada",
+    "name": "Sada",
+    "sea": null,
+    "lat": -12.848888888889,
+    "lon": 45.099722222222,
+    "arc": null,
+    "episodes": [
+      1,
+      1383
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sada",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": "wikidata",
+    "wikidata_id": "Q1920630",
+    "wikidata_description": "commune in Mayotte, France"
+  },
+  {
+    "id": "bounty-maru",
+    "name": "Bounty Maru",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1371
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bounty_Maru",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "colonization. The <span class=\"searchmatch\">Bounty</span> Hunters are a distinct group from the Colonist aliens. Although all Colonist aliens are shape-shifters, the Alien <span class=\"searchmatch\">Bounty</span> Hunters readily"
+  },
+  {
+    "id": "one-piece-grand-adventure",
+    "name": "One Piece: Grand Adventure",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1174
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_Grand_Adventure",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">One</span> <span class=\"searchmatch\">Piece</span>: <span class=\"searchmatch\">Grand</span> <span class=\"searchmatch\">Adventure</span> is a video game for the PlayStation 2 and the GameCube based on the <span class=\"searchmatch\">One</span> <span class=\"searchmatch\">Piece</span> manga series and its anime adaptation. It was"
+  },
+  {
+    "id": "chapter-1157",
+    "name": "Chapter 1157",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1170
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Chapter_1157",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "Year <span class=\"searchmatch\">1157</span> (MCLVII) was a common year starting on Tuesday of the Julian calendar. January 12–March 16 – Caliph Al-Muqtafi successfully defends Baghdad against"
+  },
+  {
+    "id": "one-piece-burning-blood",
+    "name": "One Piece: Burning Blood",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1170
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_Burning_Blood",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">One</span> <span class=\"searchmatch\">Piece</span>: <span class=\"searchmatch\">Burning</span> <span class=\"searchmatch\">Blood</span> is a fighting video game developed by Spike Chunsoft and published by Bandai Namco Entertainment. Based on the <span class=\"searchmatch\">One</span> <span class=\"searchmatch\">Piece</span> franchise"
+  },
+  {
+    "id": "episode-guide-final-saga",
+    "name": "Episode Guide/Final Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_Guide/Final_Saga",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "cut of the Buu <span class=\"searchmatch\">Saga</span> (The <span class=\"searchmatch\">Final</span> Chapters) features 8 <span class=\"searchmatch\">episodes</span> worth of extra footage that was removed in the Japanese cut. The <span class=\"searchmatch\">episodes</span> listed without"
+  },
+  {
+    "id": "sabo",
+    "name": "Sabo",
+    "sea": null,
+    "lat": -1.123593909755042,
+    "lon": 121.80821895600444,
+    "arc": null,
+    "episodes": [
+      2,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sabo",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": "wikidata",
+    "wikidata_id": "Q12511404",
+    "wikidata_description": "village in Tojo Una Una Regency, Central Sulawesi, Indonesia"
+  },
+  {
+    "id": "koby",
+    "name": "Koby",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1153
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Koby",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "or <span class=\"searchmatch\">Koby</span> is a male and female name, a surname, or a nickname originating from the name &quot;Jacob&quot; or &quot;Jakob&quot;. Top A B C D F H I J K L M O R S V W <span class=\"searchmatch\">Koby</span> Abberton"
+  },
+  {
+    "id": "pirate",
+    "name": "Pirate",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1153
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pirate",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "of <span class=\"searchmatch\">pirates</span> Piracy in the Atlantic World Piracy kidnappings <span class=\"searchmatch\">Pirate</span> code <span class=\"searchmatch\">Pirate</span> game <span class=\"searchmatch\">Pirate</span> Party <span class=\"searchmatch\">Pirate</span> Round <span class=\"searchmatch\">Pirate</span> studies <span class=\"searchmatch\">Pirate</span> utopia <span class=\"searchmatch\">Pirates</span> World"
+  },
+  {
+    "id": "will-of-d",
+    "name": "Will of D.",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1152
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Will_of_D.",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "denarius) <span class=\"searchmatch\">Ɖ</span> <span class=\"searchmatch\">ɖ</span> : African <span class=\"searchmatch\">D</span> <span class=\"searchmatch\">Ð</span> <span class=\"searchmatch\">ð</span> : Latin letter Eth <span class=\"searchmatch\">D</span> with diacritics: <span class=\"searchmatch\">Đ</span> <span class=\"searchmatch\">đ</span> Ꟈ ꟈ <span class=\"searchmatch\">Ɗ</span> <span class=\"searchmatch\">ɗ</span> <span class=\"searchmatch\">Ḋ</span> <span class=\"searchmatch\">ḋ</span> <span class=\"searchmatch\">Ḍ</span> <span class=\"searchmatch\">ḍ</span> <span class=\"searchmatch\">Ḑ</span> <span class=\"searchmatch\">ḑ</span> <span class=\"searchmatch\">Ḓ</span> <span class=\"searchmatch\">ḓ</span> <span class=\"searchmatch\">Ď</span> <span class=\"searchmatch\">ď</span> <span class=\"searchmatch\">Ḏ</span> <span class=\"searchmatch\">ḏ</span> Phonetic symbols related to <span class=\"searchmatch\">D</span>: Symbols related to <span class=\"searchmatch\">D</span> used"
+  },
+  {
+    "id": "shanks-history",
+    "name": "Shanks/History",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      4,
+      1153
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shanks/History",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "2007, <span class=\"searchmatch\">Shanks</span> joined the Fox Network series 24, guest-starring as lobbyist Mark Bishop in a three-episode arc for season 6. In 2008–2009, <span class=\"searchmatch\">Shanks</span> had a"
+  },
+  {
+    "id": "helmeppo",
+    "name": "Helmeppo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      1150
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Helmeppo",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "(海賊狩りのゾロ, Kaizoku-Gari no Zoro). Eventually, he comes into conflict with <span class=\"searchmatch\">Helmeppo</span>, the spoiled son of a navy officer. To prevent the harm of innocent civilians"
+  },
+  {
+    "id": "gomu-gomu-no-mi",
+    "name": "Gomu Gomu no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "km and 24 hours. The Global Organization of Multi-Day Ultramarathoners (<span class=\"searchmatch\">GOMU</span>) holds World Championships for 48 hours and six days. World records are ratified"
+  },
+  {
+    "id": "usopp-history-during-and-after-the-timeskip",
+    "name": "Usopp/History/During and After the Timeskip",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      8,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Usopp/History/During_and_After_the_Timeskip",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "famous nose of his mother, while <span class=\"searchmatch\">the</span> rest of his face resembles that of his father. <span class=\"searchmatch\">After</span> <span class=\"searchmatch\">the</span> two-year <span class=\"searchmatch\">timeskip</span>, <span class=\"searchmatch\">Usopp</span> undergoes a dramatic physical transformation"
+  },
+  {
+    "id": "boodle",
+    "name": "Boodle",
+    "sea": null,
+    "lat": 51.50694444,
+    "lon": -0.13944444,
+    "arc": null,
+    "episodes": [
+      6,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Boodle",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": "wikipedia",
+    "wiki_snippet": "<span class=\"searchmatch\">Boodle&#039;s</span> is a gentlemen&#039;s club in London, England, with its clubhouse located at 28 St James&#039;s Street. Founded in January 1762 by Lord Shelburne, who later"
+  },
+  {
+    "id": "bufflo",
+    "name": "Bufflo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1142
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bufflo",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "BAA Buffalo was a planned basketball franchise in the Basketball Association of America (BAA), one of the forerunners of the modern National Basketball"
+  },
+  {
+    "id": "kaya",
+    "name": "Kaya",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      9,
+      1147
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kaya",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "Look up <span class=\"searchmatch\">Kaya</span> or <span class=\"searchmatch\">kaya</span> in Wiktionary, the free dictionary. <span class=\"searchmatch\">Kaya</span> may refer to: <span class=\"searchmatch\">Kaya</span> (given name) <span class=\"searchmatch\">Kaya</span> (surname) <span class=\"searchmatch\">Kaya</span>, Burkina Faso, a town in Burkina Faso"
+  },
+  {
+    "id": "ninjin",
+    "name": "Ninjin",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      9,
+      1147
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ninjin",
+    "note": "auto-generated draft; verify and enrich before committing",
+    "coord_source": null,
+    "wiki_snippet": "<span class=\"searchmatch\">Ninjin</span> is the second original animated series from Cartoon Network Brazil (after Jorel&#039;s Brother), co-produced by Pocket Trap and Birdo Studio, based on"
+  }
+]

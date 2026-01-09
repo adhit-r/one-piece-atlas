@@ -1,0 +1,8281 @@
+[
+  {
+    "id": "loguetown",
+    "name": "Loguetown",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      48,
+      1152
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Loguetown",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shimashima-shopping",
+    "name": "Shimashima Shopping",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      30,
+      35
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shimashima_Shopping",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "usopp-history-non-canon",
+    "name": "Usopp/History/Non-Canon",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      8,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Usopp/History/Non-Canon",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-episode-a",
+    "name": "One Piece episode A",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_episode_A",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jalmack",
+    "name": "Jalmack",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      502,
+      502
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jalmack",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "solo-journey-of-jinbe-knight-of-the-sea",
+    "name": "Solo Journey of Jinbe, Knight of the Sea",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Solo_Journey_of_Jinbe,_Knight_of_the_Sea",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gomu-gomu-no-mi",
+    "name": "Gomu Gomu no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nanohana",
+    "name": "Nanohana",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      92,
+      95
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nanohana",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "romance-dawn-arc",
+    "name": "Romance Dawn Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      1071
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Romance_Dawn_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "chapter-1157",
+    "name": "Chapter 1157",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1170
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Chapter_1157",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "suna-suna-no-mi",
+    "name": "Suna Suna no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      77,
+      487
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jail-island",
+    "name": "Jail Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1911
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jail_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "asuka-island",
+    "name": "Asuka Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1069
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Asuka_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "royal-sun-island",
+    "name": "Royal Sun Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1955
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Royal_Sun_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "list-of-locations",
+    "name": "List of Locations",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/List_of_Locations",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "great-ground",
+    "name": "Great Ground",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      967
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Great_Ground",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jango-s-dance-paradise",
+    "name": "Jango's Dance Paradise",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jango's_Dance_Paradise",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "dead-end-adventure",
+    "name": "Dead End Adventure",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Dead_End_Adventure",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sky-island-saga",
+    "name": "Sky Island Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sky_Island_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "warship-island-arc",
+    "name": "Warship Island Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      50,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Warship_Island_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "orange-town",
+    "name": "Orange Town",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      4,
+      6
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Orange_Town",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "the-great-treasure-of-tongari-island",
+    "name": "The Great Treasure of Tongari Island",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/The_Great_Treasure_of_Tongari_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-guide-final-saga",
+    "name": "Episode Guide/Final Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_Guide/Final_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "marine-rookie-arc",
+    "name": "Marine Rookie Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marine_Rookie_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "arabasta-saga",
+    "name": "Arabasta Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Arabasta_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "wano-country-saga",
+    "name": "Wano Country Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Wano_Country_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "little-garden-arc",
+    "name": "Little Garden Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      70,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Little_Garden_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "summit-war-saga",
+    "name": "Summit War Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Summit_War_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "return-to-sabaody-arc",
+    "name": "Return to Sabaody Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Return_to_Sabaody_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "g-8-arc",
+    "name": "G-8 Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      195,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/G-8_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "water-7-saga",
+    "name": "Water 7 Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Water_7_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "dressrosa-saga",
+    "name": "Dressrosa Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Dressrosa_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "final-saga",
+    "name": "Final Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Final_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "thriller-bark-saga",
+    "name": "Thriller Bark Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Thriller_Bark_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gang-bege-s-oh-my-family",
+    "name": "\"Gang\" Bege's Oh My Family",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/\"Gang\"_Bege's_Oh_My_Family",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "kuri",
+    "name": "Kuri",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      598,
+      960
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kuri",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nami-gallery",
+    "name": "Nami/Gallery",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nami/Gallery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "east-blue-saga",
+    "name": "East Blue Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/East_Blue_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "miss-goldenweek-s-operation-meet-baroque-works",
+    "name": "Miss Goldenweek's \"Operation: Meet Baroque Works\"",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Miss_Goldenweek's_\"Operation:_Meet_Baroque_Works\"",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "the-cursed-holy-sword",
+    "name": "The Cursed Holy Sword",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/The_Cursed_Holy_Sword",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "straw-hat-s-separation-serial",
+    "name": "Straw Hat's Separation Serial",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      418,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Straw_Hat's_Separation_Serial",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "3d2y",
+    "name": "3D2Y",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      3,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/3D2Y",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-fan-letter",
+    "name": "One Piece Fan Letter",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      1123
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Fan_Letter",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "diary-of-koby-meppo",
+    "name": "Diary of Koby-Meppo",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      68,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Diary_of_Koby-Meppo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shusui",
+    "name": "Shusui",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      342,
+      956
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shusui",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sorbet-kingdom",
+    "name": "Sorbet Kingdom",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      888,
+      1134
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sorbet_Kingdom",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "island-clouds",
+    "name": "Island Clouds",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      154,
+      1128
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Island_Clouds",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "judo-island",
+    "name": "Judo Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Judo_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "2000-year-island",
+    "name": "2000 Year Island",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/2000_Year_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vearth",
+    "name": "Vearth",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      155,
+      189
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vearth",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bepo",
+    "name": "Bepo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      392,
+      1150
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bepo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "straw-hat-pirates-actions-and-locations-visited",
+    "name": "Straw Hat Pirates/Actions and Locations Visited",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      3,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Straw_Hat_Pirates/Actions_and_Locations_Visited",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "koby",
+    "name": "Koby",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1153
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Koby",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sun-pirates",
+    "name": "Sun Pirates",
+    "sea": null,
+    "lat": 14.0,
+    "lon": 14.1,
+    "arc": null,
+    "episodes": [
+      31,
+      981
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sun_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "avalo-pizarro",
+    "name": "Avalo Pizarro",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      484,
+      1122
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Avalo_Pizarro",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bartholomew-kuma-history",
+    "name": "Bartholomew Kuma/History",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      151,
+      1154
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bartholomew_Kuma/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sphinx-location",
+    "name": "Sphinx (Location)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      890,
+      1152
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sphinx_(Location)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "roronoa-zoro-gallery",
+    "name": "Roronoa Zoro/Gallery",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      456,
+      456
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Roronoa_Zoro/Gallery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "monkey-d-luffy-gallery",
+    "name": "Monkey D. Luffy/Gallery",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      542,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Gallery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rika",
+    "name": "Rika",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      69
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rika",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-guide-summit-war-saga",
+    "name": "Episode Guide/Summit War Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      22,
+      516
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_Guide/Summit_War_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ripper",
+    "name": "Ripper",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      3,
+      68
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ripper",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "fleet",
+    "name": "Fleet",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      21,
+      1150
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Fleet",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "maynard",
+    "name": "Maynard",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      511,
+      741
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Maynard",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tomac",
+    "name": "Tomac",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1989
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tomac",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shells-town",
+    "name": "Shells Town",
+    "sea": null,
+    "lat": 4.0,
+    "lon": 4.1,
+    "arc": null,
+    "episodes": [
+      1,
+      3
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Shells_Town",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "conomi-islands",
+    "name": "Conomi Islands",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      30,
+      44
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Conomi_Islands",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gecko-islands",
+    "name": "Gecko Islands",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      8,
+      17
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gecko_Islands",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nanatsu-islands",
+    "name": "Nanatsu Islands",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1608
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nanatsu_Islands",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trans-town",
+    "name": "Trans Town",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Trans_Town",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "organ-islands",
+    "name": "Organ Islands",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      4,
+      6
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Organ_Islands",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "goa-kingdom",
+    "name": "Goa Kingdom",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      496,
+      496
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Goa_Kingdom",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rocky-port-incident",
+    "name": "Rocky Port Incident",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      629,
+      1115
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Rocky_Port_Incident",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "karakuri-island",
+    "name": "Karakuri Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      418,
+      1147
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Karakuri_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ryugu-kingdom",
+    "name": "Ryugu Kingdom",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      528,
+      528
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ryugu_Kingdom",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mock-town",
+    "name": "Mock Town",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      146,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Mock_Town",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tontatta-kingdom",
+    "name": "Tontatta Kingdom",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      641,
+      879
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tontatta_Kingdom",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gartel-island",
+    "name": "Gartel Island",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      885,
+      1081
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gartel_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "swallow-island",
+    "name": "Swallow Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      704,
+      704
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Swallow_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tongari-island",
+    "name": "Tongari Island",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      930
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tongari_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "firs-island",
+    "name": "Firs Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      578,
+      578
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Firs_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "carbador-island",
+    "name": "Carbador Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Carbador_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "fron-island",
+    "name": "Fron Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      775,
+      782
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Fron_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hand-island",
+    "name": "Hand Island",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      820
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hand_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nagagutsu-kingdom",
+    "name": "Nagagutsu Kingdom",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      884,
+      884
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nagagutsu_Kingdom",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "navarone-island",
+    "name": "Navarone Island",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      195,
+      197
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Navarone_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "paradise-island",
+    "name": "Paradise Island",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      702
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Paradise_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "arabasta-arc",
+    "name": "Arabasta Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      91,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Arabasta_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "beasts-pirates",
+    "name": "Beasts Pirates",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      373,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Beasts_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "wano-country",
+    "name": "Wano Country",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      344,
+      1123
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Wano_Country",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "long-ring-long-land-arc",
+    "name": "Long Ring Long Land Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      68,
+      918
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Long_Ring_Long_Land_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jaya-arc",
+    "name": "Jaya Arc",
+    "sea": null,
+    "lat": 5.0,
+    "lon": 5.1,
+    "arc": null,
+    "episodes": [
+      63,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jaya_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "loguetown-arc",
+    "name": "Loguetown Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Loguetown_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "amazon-lily",
+    "name": "Amazon Lily",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      408,
+      1088
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Amazon_Lily",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "marineford",
+    "name": "Marineford",
+    "sea": null,
+    "lat": 4.0,
+    "lon": 4.1,
+    "arc": null,
+    "episodes": [
+      43,
+      836
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marineford",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-of-luffy",
+    "name": "Episode of Luffy",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_of_Luffy",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-guide-wano-country-saga",
+    "name": "Episode Guide/Wano Country Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      19,
+      1085
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_Guide/Wano_Country_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-guide-arabasta-saga",
+    "name": "Episode Guide/Arabasta Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      34,
+      135
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_Guide/Arabasta_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "dias",
+    "name": "Dias",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      844
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Dias",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "zou-arc",
+    "name": "Zou Arc",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      492,
+      1083
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Zou_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "baratie-arc",
+    "name": "Baratie Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      18,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Baratie_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "punk-hazard",
+    "name": "Punk Hazard",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      570,
+      1152
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Punk_Hazard",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "saga",
+    "name": "Saga",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      931
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "acacia",
+    "name": "Acacia",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      630,
+      630
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Acacia",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "donquixote-family",
+    "name": "Donquixote Family",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      151,
+      1120
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Donquixote_Family",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "marine-x",
+    "name": "Marine X",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      947
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marine_X",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "poro",
+    "name": "Poro",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      5,
+      8
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Poro",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "regis",
+    "name": "Regis",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Regis",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "kuroba",
+    "name": "Kuroba",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kuroba",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bismarck",
+    "name": "Bismarck",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      923
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bismarck",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "levely-arc",
+    "name": "Levely Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      492,
+      1091
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Levely_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sterry",
+    "name": "Sterry",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      500,
+      1120
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sterry",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hot-wind-marines",
+    "name": "Hot Wind Marines",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      201,
+      201
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hot_Wind_Marines",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "kobato",
+    "name": "Kobato",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      198,
+      202
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kobato",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sada",
+    "name": "Sada",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1383
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sada",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shirotsu",
+    "name": "Shirotsu",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      861
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shirotsu",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "fish-men",
+    "name": "Fish-Men",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      786
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Fish-Men",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pandaman",
+    "name": "Pandaman",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1123
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pandaman",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "boodle",
+    "name": "Boodle",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      6,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Boodle",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sabo",
+    "name": "Sabo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sabo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shimotsuki-yasuie",
+    "name": "Shimotsuki Yasuie",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      916,
+      1079
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shimotsuki_Yasuie",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "new-fish-man-pirates",
+    "name": "New Fish-Man Pirates",
+    "sea": null,
+    "lat": 4.0,
+    "lon": 4.1,
+    "arc": null,
+    "episodes": [
+      527,
+      570
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/New_Fish-Man_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "drake-non-canon",
+    "name": "Drake (Non-Canon)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      196,
+      205
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Drake_(Non-Canon)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "dressrosa",
+    "name": "Dressrosa",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      598,
+      1143
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Dressrosa",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "wadatsumi",
+    "name": "Wadatsumi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      525,
+      876
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Wadatsumi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "spider-miles",
+    "name": "Spider Miles",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      689,
+      689
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Spider_Miles",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "egghead",
+    "name": "Egghead",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1083,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Egghead",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jonathan",
+    "name": "Jonathan",
+    "sea": null,
+    "lat": 8.0,
+    "lon": 8.1,
+    "arc": null,
+    "episodes": [
+      196,
+      511
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jonathan",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "new-marineford",
+    "name": "New Marineford",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      517,
+      958
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/New_Marineford",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "billy-cook",
+    "name": "Billy (Cook)",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      196,
+      206
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Billy_(Cook)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "toma",
+    "name": "Toma",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      897
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Toma",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "peppoko",
+    "name": "Peppoko",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      48
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Peppoko",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "poppoko",
+    "name": "Poppoko",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      48
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Poppoko",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "horo",
+    "name": "Horo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1680
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Horo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nasugasira",
+    "name": "Nasugasira",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1138
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nasugasira",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "aramaki",
+    "name": "Aramaki",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      227,
+      1121
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Aramaki",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "aladine",
+    "name": "Aladine",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      540,
+      877
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Aladine",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "boo-kong",
+    "name": "Boo Kong",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      828
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Boo_Kong",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "marley-brothers",
+    "name": "Marley Brothers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      197,
+      202
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marley_Brothers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "153rd-branch",
+    "name": "153rd Branch",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      10
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/153rd_Branch",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "marron",
+    "name": "Marron",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1993
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marron",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sarie-nantokanette",
+    "name": "Sarie Nantokanette",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      777,
+      1120
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sarie_Nantokanette",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tom-non-canon",
+    "name": "Tom (Non-Canon)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      196,
+      197
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tom_(Non-Canon)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "revolutionary-army",
+    "name": "Revolutionary Army",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      45,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Revolutionary_Army",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "green-bit",
+    "name": "Green Bit",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      623,
+      648
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Green_Bit",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shinpachi",
+    "name": "Shinpachi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      196,
+      196
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shinpachi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rokkaku",
+    "name": "Rokkaku",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      2
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rokkaku",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gyaro",
+    "name": "Gyaro",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      386,
+      544
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gyaro",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "promise-land",
+    "name": "Promise Land",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1855
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Promise_Land",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ginny",
+    "name": "Ginny",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      415,
+      1138
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ginny",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "macro",
+    "name": "Macro",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      386,
+      544
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Macro",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hakugan",
+    "name": "Hakugan",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      629,
+      1115
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hakugan",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mekao",
+    "name": "Mekao",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      196,
+      196
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mekao",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tansui",
+    "name": "Tansui",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      386,
+      544
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tansui",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "arsel",
+    "name": "Arsel",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1908
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Arsel",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nebulandia",
+    "name": "Nebulandia",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1513
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nebulandia",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "morgan",
+    "name": "Morgan",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      68
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Morgan",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "whisky-peak-arc",
+    "name": "Whisky Peak Arc",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      64,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Whisky_Peak_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "amazon-lily-arc",
+    "name": "Amazon Lily Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      408,
+      1087
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Amazon_Lily_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nefertari-vivi-history",
+    "name": "Nefertari Vivi/History",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      62,
+      1154
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nefertari_Vivi/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jessica",
+    "name": "Jessica",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      196,
+      202
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jessica",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "smile-factory",
+    "name": "SMILE Factory",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      630,
+      734
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/SMILE_Factory",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "donquixote-pirates",
+    "name": "Donquixote Pirates",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      151,
+      736
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Donquixote_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "camie",
+    "name": "Camie",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      385,
+      546
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Camie",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hack",
+    "name": "Hack",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      633,
+      1134
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hack",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sargus",
+    "name": "Sargus",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1909
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sargus",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "homey-premier-show",
+    "name": "Homey (Premier Show)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1841
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Homey_(Premier_Show)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ukkari",
+    "name": "Ukkari",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      2
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ukkari",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "koala",
+    "name": "Koala",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      541,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Koala",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "marine-gs-general-hospital",
+    "name": "Marine GS General Hospital",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1150,
+      1150
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marine_GS_General_Hospital",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bell-m-re",
+    "name": "Bell-mère",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      32,
+      44
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bell-mère",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "diez-barrels",
+    "name": "Diez Barrels",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      704,
+      736
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Diez_Barrels",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gates-of-justice",
+    "name": "Gates of Justice",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      264,
+      485
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gates_of_Justice",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "arlong-park-arc",
+    "name": "Arlong Park Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      5,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Arlong_Park_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "straw-hat",
+    "name": "Straw Hat",
+    "sea": null,
+    "lat": 8.0,
+    "lon": 8.1,
+    "arc": null,
+    "episodes": [
+      1,
+      897
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Straw_Hat",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sister-anko",
+    "name": "Sister Anko",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      792
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sister_Anko",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rakesh",
+    "name": "Rakesh",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      701,
+      701
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rakesh",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "helmeppo",
+    "name": "Helmeppo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      1150
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Helmeppo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "g-2",
+    "name": "G-2",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      421,
+      880
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/G-2",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "s-mart",
+    "name": "S.Mart",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      2000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/S.Mart",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "paradise",
+    "name": "Paradise",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1121
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Paradise",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "monkey-d-garp-history",
+    "name": "Monkey D. Garp/History",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      68,
+      1130
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Monkey_D._Garp/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "uta-s-past-arc",
+    "name": "Uta's Past Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      4,
+      1030
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Uta's_Past_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "caribou-s-kehihihihi-in-the-new-world",
+    "name": "Caribou's Kehihihihi in the New World",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      921
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Caribou's_Kehihihihi_in_the_New_World",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-stampede",
+    "name": "One Piece: Stampede",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_Stampede",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "isoka",
+    "name": "Isoka",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      139,
+      143
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Isoka",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "16th-branch",
+    "name": "16th Branch",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      490
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/16th_Branch",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "g-14",
+    "name": "G-14",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1090,
+      1103
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/G-14",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "baby-5",
+    "name": "Baby 5",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      608,
+      722
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Baby_5",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "randolph-non-canon",
+    "name": "Randolph (Non-Canon)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      971
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Randolph_(Non-Canon)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "karoo",
+    "name": "Karoo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      65,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Karoo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "post-enies-lobby-arc",
+    "name": "Post-Enies Lobby Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      53,
+      1053
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Post-Enies_Lobby_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trap-tower",
+    "name": "Trap Tower",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1735
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trap_Tower",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "daddy-masterson",
+    "name": "Daddy Masterson",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      50,
+      50
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Daddy_Masterson",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "peachbeard",
+    "name": "Peachbeard",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      880,
+      880
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Peachbeard",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "akibi",
+    "name": "Akibi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      139,
+      143
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Akibi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pukau",
+    "name": "Pukau",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      139,
+      139
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pukau",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nine-red-scabbards",
+    "name": "Nine Red Scabbards",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      580,
+      1083
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nine_Red_Scabbards",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "usopp-gallery",
+    "name": "Usopp/Gallery",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      995
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Usopp/Gallery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rapanui-pasqua",
+    "name": "Rapanui Pasqua",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      139,
+      143
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rapanui_Pasqua",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sanji-history-non-canon",
+    "name": "Sanji/History/Non-Canon",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      20,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sanji/History/Non-Canon",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-of-merry",
+    "name": "Episode of Merry",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_of_Merry",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jinbe-gallery",
+    "name": "Jinbe/Gallery",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      968
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jinbe/Gallery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rurubu-one-piece",
+    "name": "Rurubu One Piece",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1977
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rurubu_One_Piece",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "germa-66-s-ahh-an-emotionless-excursion",
+    "name": "Germa 66's Ahh... An Emotionless Excursion",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      1114
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Germa_66's_Ahh..._An_Emotionless_Excursion",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "baratie",
+    "name": "Baratie",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      20,
+      877
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Baratie",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rongo",
+    "name": "Rongo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      139,
+      139
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rongo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "post-war-arc",
+    "name": "Post-War Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      490,
+      917
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Post-War_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "three-great-powers",
+    "name": "Three Great Powers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Three_Great_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-3d-straw-hat-chase",
+    "name": "One Piece 3D: Straw Hat Chase",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_3D:_Straw_Hat_Chase",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-film-z",
+    "name": "One Piece Film: Z",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Film:_Z",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jinbe",
+    "name": "Jinbe",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jinbe",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jinbe-abilities-and-powers",
+    "name": "Jinbe/Abilities and Powers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1145
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jinbe/Abilities_and_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jinbe-history",
+    "name": "Jinbe/History",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1136
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jinbe/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jinbe-personality-and-relationships",
+    "name": "Jinbe/Personality and Relationships",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1124
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jinbe/Personality_and_Relationships",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jinbe-misc",
+    "name": "Jinbe/Misc.",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jinbe/Misc.",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "charlotte-linlin-abilities-and-powers",
+    "name": "Charlotte Linlin/Abilities and Powers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      314,
+      1067
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Charlotte_Linlin/Abilities_and_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pacifista",
+    "name": "Pacifista",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      375,
+      1146
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pacifista",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "underworld",
+    "name": "Underworld",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      62,
+      876
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Underworld",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gran-tesoro",
+    "name": "Gran Tesoro",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      750,
+      750
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gran_Tesoro",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "heart-pirates",
+    "name": "Heart Pirates",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      392,
+      1115
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Heart_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "from-the-decks-of-the-world-the-500-000-000-man-arc",
+    "name": "From the Decks of the World: The 500,000,000 Man Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/From_the_Decks_of_the_World:_The_500,000,000_Man_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "usopp",
+    "name": "Usopp",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      8,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Usopp",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-the-movie",
+    "name": "One Piece: The Movie",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      17,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_The_Movie",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "usopp-history-during-and-after-the-timeskip",
+    "name": "Usopp/History/During and After the Timeskip",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      8,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Usopp/History/During_and_After_the_Timeskip",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "kyuji",
+    "name": "Kyuji",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      381,
+      381
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kyuji",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trafalgar-d-water-law",
+    "name": "Trafalgar D. Water Law",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      392,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trafalgar-d-water-law-abilities-and-powers",
+    "name": "Trafalgar D. Water Law/Abilities and Powers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      392,
+      1093
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law/Abilities_and_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trafalgar-d-water-law-history",
+    "name": "Trafalgar D. Water Law/History",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      392,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trafalgar-d-water-law-misc",
+    "name": "Trafalgar D. Water Law/Misc.",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      392,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law/Misc.",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "koda",
+    "name": "Koda",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      381,
+      381
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Koda",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ace-s-great-blackbeard-search",
+    "name": "Ace's Great Blackbeard Search",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      381,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ace's_Great_Blackbeard_Search",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "going-merry",
+    "name": "Going Merry",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      17,
+      321
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Going_Merry",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-novel-law-the-hour-of-kikoku",
+    "name": "One Piece novel Law: The Hour of Kikoku",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_novel_Law:_The_Hour_of_Kikoku",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nami-history-non-canon",
+    "name": "Nami/History/Non-Canon",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nami/History/Non-Canon",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "levely",
+    "name": "Levely",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      91,
+      1120
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Levely",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nezumi",
+    "name": "Nezumi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      45
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nezumi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "buster-call",
+    "name": "Buster Call",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      254,
+      1139
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Buster_Call",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "comil",
+    "name": "Comil",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      421,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Comil",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-of-nami",
+    "name": "Episode of Nami",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      31,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_of_Nami",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hattori",
+    "name": "Hattori",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      230,
+      1104
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hattori",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "human-auctioning-house",
+    "name": "Human Auctioning House",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      394,
+      531
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Human_Auctioning_House",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "the-stories-of-the-self-proclaimed-straw-hat-grand-fleet",
+    "name": "The Stories of the Self-Proclaimed Straw Hat Grand Fleet",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      1081
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/The_Stories_of_the_Self-Proclaimed_Straw_Hat_Grand_Fleet",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "disco",
+    "name": "Disco",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      394,
+      398
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Disco",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "numancia-flamingo",
+    "name": "Numancia Flamingo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      702,
+      706
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Numancia_Flamingo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gorilla",
+    "name": "Gorilla",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      514,
+      514
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gorilla",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "comb",
+    "name": "Comb",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1782
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Comb",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-unlimited-world-red",
+    "name": "One Piece: Unlimited World Red",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1582
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_Unlimited_World_Red",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "red-hair-pirates",
+    "name": "Red Hair Pirates",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      4,
+      1116
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Red_Hair_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hina",
+    "name": "Hina",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      127,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hina",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "roronoa-zoro",
+    "name": "Roronoa Zoro",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1127
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Roronoa_Zoro",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mary-geoise",
+    "name": "Mary Geoise",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      91,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mary_Geoise",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "summit-war-of-marineford",
+    "name": "Summit War of Marineford",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      410,
+      489
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Summit_War_of_Marineford",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "roronoa-zoro-misc",
+    "name": "Roronoa Zoro/Misc.",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Roronoa_Zoro/Misc.",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "roronoa-zoro-history-non-canon",
+    "name": "Roronoa Zoro/History/Non-Canon",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Roronoa_Zoro/History/Non-Canon",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "glass",
+    "name": "Glass",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1783
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Glass",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hie-hie-no-mi",
+    "name": "Hie Hie no Mi",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      225,
+      1121
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hie_Hie_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "soran",
+    "name": "Soran",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      420,
+      455
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Soran",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "t-bone",
+    "name": "T Bone",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      253,
+      1116
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/T_Bone",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sea-beast-weapons",
+    "name": "Sea Beast Weapons",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1091,
+      1151
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sea_Beast_Weapons",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "god-valley-incident",
+    "name": "God Valley Incident",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      958,
+      1131
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/God_Valley_Incident",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "fish-man-karate",
+    "name": "Fish-Man Karate",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      39,
+      1145
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Fish-Man_Karate",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "smash",
+    "name": "Smash",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Smash",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "monkey-d-luffy-history-new-world",
+    "name": "Monkey D. Luffy/History/New World",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy/History/New_World",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-novel-law",
+    "name": "One Piece novel Law",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_novel_Law",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "monkey-d-luffy-history-non-canon",
+    "name": "Monkey D. Luffy/History/Non-Canon",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy/History/Non-Canon",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "monkey-d-luffy-history-paradise",
+    "name": "Monkey D. Luffy/History/Paradise",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy/History/Paradise",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "monkey-d-luffy-relationships-citizens",
+    "name": "Monkey D. Luffy/Relationships/Citizens",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1080
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Relationships/Citizens",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "g-5",
+    "name": "G-5",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      511,
+      624
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/G-5",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "seastone",
+    "name": "Seastone",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      53,
+      1104
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Seastone",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "will-of-d",
+    "name": "Will of D.",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1152
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Will_of_D.",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ninja-pirate-mink-samurai-alliance",
+    "name": "Ninja-Pirate-Mink-Samurai Alliance",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      754,
+      1083
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ninja-Pirate-Mink-Samurai_Alliance",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "admiral",
+    "name": "Admiral",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      127,
+      1121
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Admiral",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-film-red",
+    "name": "One Piece Film: Red",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1029
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Film:_Red",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-of-sabo",
+    "name": "Episode of Sabo",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_of_Sabo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "water-7-arc",
+    "name": "Water 7 Arc",
+    "sea": null,
+    "lat": 4.0,
+    "lon": 4.1,
+    "arc": null,
+    "episodes": [
+      228,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Water_7_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "north-blue",
+    "name": "North Blue",
+    "sea": null,
+    "lat": 5.0,
+    "lon": 5.1,
+    "arc": null,
+    "episodes": [
+      24,
+      1119
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/North_Blue",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "caribou",
+    "name": "Caribou",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      517,
+      1142
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Caribou",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "van-augur",
+    "name": "Van Augur",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      80,
+      1142
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Van_Augur",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "magu-magu-no-mi",
+    "name": "Magu Magu no Mi",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      463,
+      1126
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "stansen",
+    "name": "Stansen",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      394,
+      836
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Stansen",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "flevance",
+    "name": "Flevance",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      701,
+      703
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Flevance",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "marine-headquarters",
+    "name": "Marine Headquarters",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      20,
+      1108
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Marine_Headquarters",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-novel-a",
+    "name": "One Piece novel A",
+    "sea": null,
+    "lat": 7.0,
+    "lon": 7.1,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_novel_A",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shine",
+    "name": "Shine",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      128,
+      421
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shine",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "inuarashi",
+    "name": "Inuarashi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      756,
+      1085
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Inuarashi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tsuru",
+    "name": "Tsuru",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      151,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tsuru",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "chapter-0",
+    "name": "Chapter 0",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Chapter_0",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sentomaru",
+    "name": "Sentomaru",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      391,
+      1154
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sentomaru",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "yehudi",
+    "name": "Yehudi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Yehudi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "yami-yami-no-mi",
+    "name": "Yami Yami no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      39,
+      486
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "barricade",
+    "name": "Barricade",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1898
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Barricade",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shanks-history",
+    "name": "Shanks/History",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      4,
+      1153
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shanks/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "drake-pirates",
+    "name": "Drake Pirates",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      392,
+      923
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Drake_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sicily",
+    "name": "Sicily",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      398,
+      398
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sicily",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "cp9-s-independent-report",
+    "name": "CP9's Independent Report",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/CP9's_Independent_Report",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "explosive",
+    "name": "Explosive",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      4,
+      1101
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Explosive",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "epithet",
+    "name": "Epithet",
+    "sea": null,
+    "lat": 4.0,
+    "lon": 4.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1095
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Epithet",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "balzac",
+    "name": "Balzac",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      511,
+      511
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Balzac",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mooji",
+    "name": "Mooji",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1599
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mooji",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "wilder",
+    "name": "Wilder",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Wilder",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "smoker-history",
+    "name": "Smoker/History",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      48,
+      1150
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Smoker/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hajrudin",
+    "name": "Hajrudin",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      634,
+      1097
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hajrudin",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "portgas-d-ace-history",
+    "name": "Portgas D. Ace/History",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      91,
+      1136
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Portgas_D._Ace/History",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mashikaku",
+    "name": "Mashikaku",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      48,
+      127
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mashikaku",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "fullbody",
+    "name": "Fullbody",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      20,
+      1121
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Fullbody",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "agray",
+    "name": "Agray",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1053
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Agray",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-of-east-blue",
+    "name": "Episode of East Blue",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_of_East_Blue",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "super-rookie",
+    "name": "Super Rookie",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      151,
+      636
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Super_Rookie",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tequila-wolf",
+    "name": "Tequila Wolf",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      420,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tequila_Wolf",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ssg",
+    "name": "SSG",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      523,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/SSG",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vegapunk-pythagoras",
+    "name": "Vegapunk/Pythagoras",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1092,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vegapunk/Pythagoras",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "macro-pirates",
+    "name": "Macro Pirates",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      386,
+      544
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Macro_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "week",
+    "name": "Week",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1682
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Week",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "herring",
+    "name": "Herring",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      894
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Herring",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vegaforce-01",
+    "name": "Vegaforce-01",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1090,
+      1126
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vegaforce-01",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gage",
+    "name": "Gage",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1900
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gage",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "s-bear",
+    "name": "S-Bear",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1092,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/S-Bear",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-film-strong-world",
+    "name": "One Piece Film: Strong World",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      388,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Film:_Strong_World",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "guard",
+    "name": "Guard",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1053
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Guard",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "eliza-odyssey",
+    "name": "Eliza (Odyssey)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1457
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Eliza_(Odyssey)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-magazine-vol-8",
+    "name": "One Piece Magazine Vol.8",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1000
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Magazine_Vol.8",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "voice-of-all-things",
+    "name": "Voice of All Things",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      400,
+      1036
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Voice_of_All_Things",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "donquixote-doflamingo-abilities-and-powers",
+    "name": "Donquixote Doflamingo/Abilities and Powers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      151,
+      736
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo/Abilities_and_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "kong",
+    "name": "Kong",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      511,
+      1130
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kong",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vergo",
+    "name": "Vergo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      511,
+      724
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vergo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vegapunk-edison",
+    "name": "Vegapunk/Edison",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1092,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vegapunk/Edison",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sabagashira-i",
+    "name": "Sabagashira I",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      20,
+      30
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sabagashira_I",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pirate",
+    "name": "Pirate",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1153
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pirate",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "snitcher",
+    "name": "Snitcher",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      511,
+      511
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Snitcher",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pika-pika-no-mi",
+    "name": "Pika Pika no Mi",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      400,
+      1127
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "prince-grus",
+    "name": "Prince Grus",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1090,
+      1150
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Prince_Grus",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vegapunk-lilith",
+    "name": "Vegapunk/Lilith",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1090,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vegapunk/Lilith",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jaguar-d-saul",
+    "name": "Jaguar D. Saul",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      275,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jaguar_D._Saul",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sora-fictional",
+    "name": "Sora (fictional)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      783,
+      783
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sora_(fictional)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "shinobu",
+    "name": "Shinobu",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      911,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Shinobu",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "diamante",
+    "name": "Diamante",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      629,
+      735
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Diamante",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-film-strong-world-episode-0",
+    "name": "One Piece Film Strong World: Episode 0",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Film_Strong_World:_Episode_0",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "corrida-colosseum",
+    "name": "Corrida Colosseum",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      629,
+      729
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Corrida_Colosseum",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "seraphim",
+    "name": "Seraphim",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      958,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Seraphim",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "buffalo",
+    "name": "Buffalo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      608,
+      735
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Buffalo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "slavery",
+    "name": "Slavery",
+    "sea": null,
+    "lat": 5.0,
+    "lon": 5.1,
+    "arc": null,
+    "episodes": [
+      391,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Slavery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vegapunk-atlas",
+    "name": "Vegapunk/Atlas",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1091,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vegapunk/Atlas",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mera-mera-no-mi",
+    "name": "Mera Mera no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      3,
+      1119
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "woshu-woshu-no-mi",
+    "name": "Woshu Woshu no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      465,
+      465
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Woshu_Woshu_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "vegapunk-york",
+    "name": "Vegapunk/York",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1092,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Vegapunk/York",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "dellinger",
+    "name": "Dellinger",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      632,
+      735
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Dellinger",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "donquixote-doflamingo",
+    "name": "Donquixote Doflamingo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      151,
+      1120
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "riba-riba-no-mi",
+    "name": "Riba Riba no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1982
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Riba_Riba_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "broker",
+    "name": "Broker",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      151,
+      618
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Broker",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gomu-gomu-no-mi-team-combinations",
+    "name": "Gomu Gomu no Mi/Team Combinations",
+    "sea": null,
+    "lat": 16.0,
+    "lon": 16.1,
+    "arc": null,
+    "episodes": [
+      87,
+      948
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Team_Combinations",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nomi-nomi-no-mi",
+    "name": "Nomi Nomi no Mi",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      1096,
+      1124
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nomi_Nomi_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ori-ori-no-mi",
+    "name": "Ori Ori no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      130,
+      467
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ori_Ori_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "g-4",
+    "name": "G-4",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1148,
+      1148
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/G-4",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "sea": null,
+    "lat": 5.0,
+    "lon": 5.1,
+    "arc": null,
+    "episodes": [
+      3,
+      781
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Justice",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "g-3",
+    "name": "G-3",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      490,
+      490
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/G-3",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rokushiki",
+    "name": "Rokushiki",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      242,
+      613
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rokushiki",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "donquixote-doflamingo-misc",
+    "name": "Donquixote Doflamingo/Misc.",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      151,
+      736
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo/Misc.",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "wombat",
+    "name": "Wombat",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1637
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Wombat",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "senor-pink",
+    "name": "Senor Pink",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      632,
+      1101
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Senor_Pink",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "77th-branch",
+    "name": "77th Branch",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      34,
+      34
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/77th_Branch",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nagi-nagi-no-mi",
+    "name": "Nagi Nagi no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      703,
+      1067
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nagi_Nagi_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hito-hito-no-mi-model-daibutsu",
+    "name": "Hito Hito no Mi, Model: Daibutsu",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      480,
+      488
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Daibutsu",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "recycle-wan",
+    "name": "Recycle-Wan",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1092,
+      1092
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Recycle-Wan",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "enma",
+    "name": "Enma",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      4,
+      1062
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Enma",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ryu-ryu-no-mi-model-allosaurus",
+    "name": "Ryu Ryu no Mi, Model: Allosaurus",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      402,
+      1001
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Allosaurus",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-grand-adventure",
+    "name": "One Piece: Grand Adventure",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1174
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_Grand_Adventure",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "blueno",
+    "name": "Blueno",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      230,
+      1119
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Blueno",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tajio",
+    "name": "Tajio",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      133,
+      133
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tajio",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mecha-shark",
+    "name": "Mecha-Shark",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1089,
+      1090
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mecha-Shark",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trebol",
+    "name": "Trebol",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      629,
+      735
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trebol",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "daigin",
+    "name": "Daigin",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      432,
+      449
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Daigin",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ito-ito-no-mi",
+    "name": "Ito Ito no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      151,
+      734
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ito_Ito_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "wado-ichimonji",
+    "name": "Wado Ichimonji",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      1027
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Wado_Ichimonji",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "trap",
+    "name": "Trap",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      959
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Trap",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gasu-gasu-no-mi",
+    "name": "Gasu Gasu no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      581,
+      761
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gasu_Gasu_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "kashu",
+    "name": "Kashu",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      79,
+      79
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kashu",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nico-robin-abilities-and-powers",
+    "name": "Nico Robin/Abilities and Powers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      67,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nico_Robin/Abilities_and_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "s-shark",
+    "name": "S-Shark",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1094,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/S-Shark",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bari-bari-no-mi",
+    "name": "Bari Bari no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      636,
+      972
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "moku-moku-no-mi",
+    "name": "Moku Moku no Mi",
+    "sea": null,
+    "lat": 5.0,
+    "lon": 5.1,
+    "arc": null,
+    "episodes": [
+      48,
+      468
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Moku_Moku_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "s-snake",
+    "name": "S-Snake",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1087,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/S-Snake",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bufflo",
+    "name": "Bufflo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1142
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bufflo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pokke",
+    "name": "Pokke",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pokke",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bara-bara-no-mi",
+    "name": "Bara Bara no Mi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      5,
+      752
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bara_Bara_no_Mi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "rocks-pirates",
+    "name": "Rocks Pirates",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      887,
+      1130
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Rocks_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tamarisk",
+    "name": "Tamarisk",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      127,
+      130
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tamarisk",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "fireworks",
+    "name": "Fireworks",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      134,
+      134
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Fireworks",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-burning-blood",
+    "name": "One Piece: Burning Blood",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1170
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece:_Burning_Blood",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "carta",
+    "name": "Carta",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      677,
+      677
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Carta",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "katorea",
+    "name": "Katorea",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      93,
+      107
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Katorea",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "erumalu",
+    "name": "Erumalu",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      96,
+      123
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Erumalu",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "cocoa-weed",
+    "name": "Cocoa Weed",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      81,
+      81
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Cocoa_Weed",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "peachbeard-pirates",
+    "name": "Peachbeard Pirates",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      880,
+      880
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Peachbeard_Pirates",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bandits",
+    "name": "Bandits",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      4,
+      529
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bandits",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "lord-of-the-coast",
+    "name": "Lord of the Coast",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      4,
+      1030
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Lord_of_the_Coast",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "chapter-778",
+    "name": "Chapter 778",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      629,
+      746
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Chapter_778",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jinbe-history-during-and-after-the-timeskip",
+    "name": "Jinbe/History/During and After the Timeskip",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jinbe/History/During_and_After_the_Timeskip",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-new-year-special-special-report-secret-of-the-straw-hat-pirates",
+    "name": "One Piece New Year Special: Special Report - Secret of the Straw Hat Pirates!",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      253,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_New_Year_Special:_Special_Report_-_Secret_of_the_Straw_Hat_Pirates!",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tony-tony-chopper-history-during-and-after-the-timeskip",
+    "name": "Tony Tony Chopper/History/During and After the Timeskip",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      81,
+      1154
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper/History/During_and_After_the_Timeskip",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "daz-bonez",
+    "name": "Daz Bonez",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      103,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Daz_Bonez",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "zala",
+    "name": "Zala",
+    "sea": null,
+    "lat": 3.0,
+    "lon": 3.1,
+    "arc": null,
+    "episodes": [
+      103,
+      127
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Zala",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "lulusia-kingdom",
+    "name": "Lulusia Kingdom",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      879,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Lulusia_Kingdom",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "chapter-609",
+    "name": "Chapter 609",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      3,
+      574
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Chapter_609",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "post-arabasta-arc",
+    "name": "Post-Arabasta Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      131,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Post-Arabasta_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ririka",
+    "name": "Ririka",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      69
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ririka",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ishilly",
+    "name": "Ishilly",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      527,
+      573
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ishilly",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "soro",
+    "name": "Soro",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      2,
+      2
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Soro",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pinky",
+    "name": "Pinky",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      4,
+      4
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pinky",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nyornyo-nyarmani",
+    "name": "Nyornyo Nyarmani",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1606
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nyornyo_Nyarmani",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sanji-history-during-and-after-the-timeskip",
+    "name": "Sanji/History/During and After the Timeskip",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      20,
+      1155
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sanji/History/During_and_After_the_Timeskip",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "roxanne",
+    "name": "Roxanne",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      971
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Roxanne",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "pete",
+    "name": "Pete",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      50,
+      50
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Pete",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "anjo",
+    "name": "Anjo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      400,
+      400
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Anjo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "riley-brothers",
+    "name": "Riley Brothers",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      50,
+      50
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Riley_Brothers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tobio",
+    "name": "Tobio",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      975
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tobio",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-romance-dawn-the-dawn-of-the-adventure",
+    "name": "One Piece Romance Dawn: The Dawn of the Adventure",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      1499
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Romance_Dawn:_The_Dawn_of_the_Adventure",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "abi",
+    "name": "Abi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      317,
+      317
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Abi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "moodie",
+    "name": "Moodie",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      20,
+      20
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Moodie",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "dick",
+    "name": "Dick",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      135,
+      135
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Dick",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-528",
+    "name": "Episode 528",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      3,
+      574
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_528",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bushon",
+    "name": "Bushon",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      251,
+      316
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bushon",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "stevie",
+    "name": "Stevie",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      251,
+      316
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Stevie",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "carol",
+    "name": "Carol",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      50,
+      50
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Carol",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "yu",
+    "name": "Yu",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      52,
+      52
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Yu",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hanger",
+    "name": "Hanger",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      48,
+      48
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hanger",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "raoul",
+    "name": "Raoul",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      48,
+      48
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Raoul",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jose",
+    "name": "Jose",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      51,
+      51
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jose",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ed-loguetown",
+    "name": "Ed (Loguetown)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      48,
+      48
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "city",
+    "source": "https://onepiece.fandom.com/wiki/Ed_(Loguetown)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gomu-gomu-no-mi-techniques",
+    "name": "Gomu Gomu no Mi/Techniques",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      902
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Techniques",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "leo-non-canon",
+    "name": "Leo (Non-Canon)",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      51,
+      51
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Leo_(Non-Canon)",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "sapi",
+    "name": "Sapi",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      51,
+      51
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Sapi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ganzo",
+    "name": "Ganzo",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      955
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ganzo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "eccoli",
+    "name": "Eccoli",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.01,
+    "arc": null,
+    "episodes": [
+      51,
+      51
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Eccoli",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mounblutain",
+    "name": "Mounblutain",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      517,
+      523
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mounblutain",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-bon-bon-journey",
+    "name": "One Piece Bon! Bon! Journey!!",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Bon!_Bon!_Journey!!",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "carmen",
+    "name": "Carmen",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      51,
+      51
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Carmen",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "chopper-s-kingdom-on-the-island-of-strange-animals",
+    "name": "Chopper's Kingdom on the Island of Strange Animals",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Chopper's_Kingdom_on_the_Island_of_Strange_Animals",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "whole-cake-island-saga",
+    "name": "Whole Cake Island Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Whole_Cake_Island_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ruluka-island-arc",
+    "name": "Ruluka Island Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      139,
+      911
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ruluka_Island_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "goat-island-arc",
+    "name": "Goat Island Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      136,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Goat_Island_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "glorious-island",
+    "name": "Glorious Island",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Glorious_Island",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "satsuruzo-kingdom",
+    "name": "Satsuruzo Kingdom",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Satsuruzo_Kingdom",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "east-blue",
+    "name": "East Blue",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1060
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/East_Blue",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "zabal",
+    "name": "Zabal",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      990
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Zabal",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "z-s-ambition-arc",
+    "name": "Z's Ambition Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      1072
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Z's_Ambition_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "teru",
+    "name": "Teru",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1840
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Teru",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "kaya",
+    "name": "Kaya",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      9,
+      1147
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Kaya",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nako",
+    "name": "Nako",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      32,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nako",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ahho-zurako",
+    "name": "Ahho Zurako",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      501,
+      501
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ahho_Zurako",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "skypiea-arc",
+    "name": "Skypiea Arc",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      53,
+      968
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Skypiea_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "luffy-law",
+    "name": "Luffy, Law",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Luffy,_Law",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "outlook-iii",
+    "name": "Outlook III",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      496,
+      503
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Outlook_III",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ninjin",
+    "name": "Ninjin",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      9,
+      1147
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ninjin",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "tamanegi",
+    "name": "Tamanegi",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      9,
+      1147
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Tamanegi",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "story-arcs",
+    "name": "Story Arcs",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      4,
+      1122
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Story_Arcs",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "yasopp",
+    "name": "Yasopp",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      4,
+      1112
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Yasopp",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ahho-desunen-ix",
+    "name": "Ahho Desunen IX",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      501,
+      501
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ahho_Desunen_IX",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "daddy-dee",
+    "name": "Daddy Dee",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      35,
+      35
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Daddy_Dee",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "piiman",
+    "name": "Piiman",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      9,
+      1147
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Piiman",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "chabo",
+    "name": "Chabo",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      31,
+      1149
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Chabo",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mummy-mee",
+    "name": "Mummy Mee",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      35,
+      35
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mummy_Mee",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "ice-hunter-arc",
+    "name": "Ice Hunter Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      326,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Ice_Hunter_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "dream-soccer-king",
+    "name": "Dream Soccer King",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Dream_Soccer_King",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "jango-s-dance-carnival",
+    "name": "Jango's Dance Carnival",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Jango's_Dance_Carnival",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "bounty-maru",
+    "name": "Bounty Maru",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      1,
+      1371
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Bounty_Maru",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "brook-gallery",
+    "name": "Brook/Gallery",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Brook/Gallery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "the-final-sea-the-new-world-saga",
+    "name": "The Final Sea: The New World Saga",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      14,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/The_Final_Sea:_The_New_World_Saga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "silver-mine-arc",
+    "name": "Silver Mine Arc",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Silver_Mine_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-3d-trap-coaster",
+    "name": "ONE PIECE 3D! Trap Coaster",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/ONE_PIECE_3D!_Trap_Coaster",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "the-true-food-devil-fruit",
+    "name": "The True Food! Devil Fruit!!",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/The_True_Food!_Devil_Fruit!!",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "gedatsu-s-accidental-blue-sea-life",
+    "name": "Gedatsu's Accidental Blue-Sea Life",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Gedatsu's_Accidental_Blue-Sea_Life",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "special-episode-luff",
+    "name": "Special Episode \"Luff\"",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Special_Episode_\"Luff\"",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "cidre-guild-arc",
+    "name": "Cidre Guild Arc",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Cidre_Guild_Arc",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "episode-special-2",
+    "name": "Episode Special 2",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      149,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Episode_Special_2",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "usopp-abilities-and-powers",
+    "name": "Usopp/Abilities and Powers",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      8,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Usopp/Abilities_and_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "usopp-misc",
+    "name": "Usopp/Misc.",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      8,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Usopp/Misc.",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "heart-of-gold",
+    "name": "Heart of Gold",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      279,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Heart_of_Gold",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "where-they-are-now",
+    "name": "Where They Are Now",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      381,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Where_They_Are_Now",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "brook",
+    "name": "Brook",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      337,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Brook",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "brook-abilities-and-powers",
+    "name": "Brook/Abilities and Powers",
+    "sea": null,
+    "lat": 2.0,
+    "lon": 2.1,
+    "arc": null,
+    "episodes": [
+      337,
+      1086
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Brook/Abilities_and_Powers",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "one-piece-movies",
+    "name": "One Piece Movies",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      388,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Movies",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "hitsugibune",
+    "name": "Hitsugibune",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      23,
+      151
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Hitsugibune",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "nico-robin-gallery",
+    "name": "Nico Robin/Gallery",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      1,
+      999
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Nico_Robin/Gallery",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "73rd-nhk-kohaku-uta-gassen-collaboration-special-manga",
+    "name": "73rd NHK Kohaku Uta Gassen Collaboration Special Manga",
+    "sea": null,
+    "lat": 1.0,
+    "lon": 1.1,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/73rd_NHK_Kohaku_Uta_Gassen_Collaboration_Special_Manga",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "the-giant-mechanical-soldier-of-karakuri-castle",
+    "name": "The Giant Mechanical Soldier of Karakuri Castle",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      492,
+      907
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/The_Giant_Mechanical_Soldier_of_Karakuri_Castle",
+    "note": "auto-generated draft; verify and enrich before committing"
+  },
+  {
+    "id": "mini-merry-ii",
+    "name": "Mini Merry II",
+    "sea": null,
+    "lat": null,
+    "lon": null,
+    "arc": null,
+    "episodes": [
+      329,
+      624
+    ],
+    "characters": [],
+    "importance": "Minor",
+    "visual": "island",
+    "source": "https://onepiece.fandom.com/wiki/Mini_Merry_II",
+    "note": "auto-generated draft; verify and enrich before committing"
+  }
+]

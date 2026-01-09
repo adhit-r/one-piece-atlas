@@ -1,0 +1,501 @@
+candidate_id,candidate_name,candidate_episodes,candidate_lat,candidate_lon,matched_id,matched_name,matched_episodes,match_score,suggested_action,source
+loguetown,Loguetown,"[48, 1152]",3.0,3.1,foosha,Foosha Village,,0.267,add,https://onepiece.fandom.com/wiki/Loguetown
+shimashima-shopping,Shimashima Shopping,"[30, 35]",,,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Shimashima_Shopping
+usopp-history-non-canon,Usopp/History/Non-Canon,"[8, 1086]",2.0,2.1,foosha,Foosha Village,,0.216,add,https://onepiece.fandom.com/wiki/Usopp/History/Non-Canon
+one-piece-episode-a,One Piece episode A,"[492, 907]",,,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/One_Piece_episode_A
+jalmack,Jalmack,"[502, 502]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Jalmack
+solo-journey-of-jinbe-knight-of-the-sea,"Solo Journey of Jinbe, Knight of the Sea","[492, 907]",,,foosha,Foosha Village,,0.13,add,"https://onepiece.fandom.com/wiki/Solo_Journey_of_Jinbe,_Knight_of_the_Sea"
+gomu-gomu-no-mi,Gomu Gomu no Mi,"[1, 1148]",1.0,1.1,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi
+nanohana,Nanohana,"[92, 95]",1.0,1.1,foosha,Foosha Village,,0.429,add,https://onepiece.fandom.com/wiki/Nanohana
+romance-dawn-arc,Romance Dawn Arc,"[1, 1071]",1.0,1.01,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Romance_Dawn_Arc
+chapter-1157,Chapter 1157,"[1, 1170]",,,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/Chapter_1157
+suna-suna-no-mi,Suna Suna no Mi,"[77, 487]",1.0,1.1,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Suna_Suna_no_Mi
+jail-island,Jail Island,"[1, 1911]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Jail_Island
+asuka-island,Asuka Island,"[1, 1069]",1.0,1.1,foosha,Foosha Village,,0.462,add,https://onepiece.fandom.com/wiki/Asuka_Island
+royal-sun-island,Royal Sun Island,"[1, 1955]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Royal_Sun_Island
+list-of-locations,List of Locations,"[1, 2000]",,,foosha,Foosha Village,,0.194,add,https://onepiece.fandom.com/wiki/List_of_Locations
+festa-circle,Festa Circle,"[1, 1993]",1.0,1.1,foosha,Foosha Village,,0.538,review,https://onepiece.fandom.com/wiki/Festa_Circle
+great-ground,Great Ground,"[1, 967]",1.0,1.1,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Great_Ground
+jango-s-dance-paradise,Jango's Dance Paradise,"[492, 907]",,,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Jango's_Dance_Paradise
+dead-end-adventure,Dead End Adventure,"[492, 907]",,,foosha,Foosha Village,,0.083,add,https://onepiece.fandom.com/wiki/Dead_End_Adventure
+foosha-village,Foosha Village,"[4, 1143]",1.0,1.1,foosha,Foosha Village,,1.0,update,https://onepiece.fandom.com/wiki/Foosha_Village
+sky-island-saga,Sky Island Saga,"[492, 907]",,,foosha,Foosha Village,,0.414,add,https://onepiece.fandom.com/wiki/Sky_Island_Saga
+warship-island-arc,Warship Island Arc,"[50, 907]",,,foosha,Foosha Village,,0.312,add,https://onepiece.fandom.com/wiki/Warship_Island_Arc
+fish-man-island-saga,Fish-Man Island Saga,"[492, 907]",,,foosha,Foosha Village,,0.529,review,https://onepiece.fandom.com/wiki/Fish-Man_Island_Saga
+orange-town,Orange Town,"[4, 6]",1.0,1.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Orange_Town
+the-great-treasure-of-tongari-island,The Great Treasure of Tongari Island,"[279, 907]",,,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/The_Great_Treasure_of_Tongari_Island
+episode-guide-final-saga,Episode Guide/Final Saga,"[1, 1155]",,,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Episode_Guide/Final_Saga
+marine-rookie-arc,Marine Rookie Arc,"[492, 907]",1.0,1.1,foosha,Foosha Village,,0.261,add,https://onepiece.fandom.com/wiki/Marine_Rookie_Arc
+arabasta-saga,Arabasta Saga,"[492, 907]",,,foosha,Foosha Village,,0.37,add,https://onepiece.fandom.com/wiki/Arabasta_Saga
+wano-country-saga,Wano Country Saga,"[492, 907]",,,foosha,Foosha Village,,0.258,add,https://onepiece.fandom.com/wiki/Wano_Country_Saga
+little-garden-arc,Little Garden Arc,"[70, 907]",1.0,1.1,foosha,Foosha Village,,0.194,add,https://onepiece.fandom.com/wiki/Little_Garden_Arc
+summit-war-saga,Summit War Saga,"[492, 907]",,,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Summit_War_Saga
+return-to-sabaody-arc,Return to Sabaody Arc,"[1, 907]",1.0,1.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Return_to_Sabaody_Arc
+g-8-arc,G-8 Arc,"[195, 907]",,,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/G-8_Arc
+water-7-saga,Water 7 Saga,"[492, 907]",,,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Water_7_Saga
+dressrosa-saga,Dressrosa Saga,"[492, 907]",,,foosha,Foosha Village,,0.429,add,https://onepiece.fandom.com/wiki/Dressrosa_Saga
+final-saga,Final Saga,"[492, 907]",,,foosha,Foosha Village,,0.417,add,https://onepiece.fandom.com/wiki/Final_Saga
+thriller-bark-saga,Thriller Bark Saga,"[492, 907]",,,foosha,Foosha Village,,0.375,add,https://onepiece.fandom.com/wiki/Thriller_Bark_Saga
+gang-bege-s-oh-my-family,"""Gang"" Bege's Oh My Family","[492, 907]",,,foosha,Foosha Village,,0.2,add,"https://onepiece.fandom.com/wiki/""Gang""_Bege's_Oh_My_Family"
+kuri,Kuri,"[598, 960]",1.0,1.1,foosha,Foosha Village,,0.111,add,https://onepiece.fandom.com/wiki/Kuri
+nami-gallery,Nami/Gallery,"[1, 1]",,,foosha,Foosha Village,,0.385,add,https://onepiece.fandom.com/wiki/Nami/Gallery
+east-blue-saga,East Blue Saga,"[492, 907]",,,foosha,Foosha Village,,0.357,add,https://onepiece.fandom.com/wiki/East_Blue_Saga
+miss-goldenweek-s-operation-meet-baroque-works,"Miss Goldenweek's ""Operation: Meet Baroque Works""","[492, 907]",,,foosha,Foosha Village,,0.095,add,"https://onepiece.fandom.com/wiki/Miss_Goldenweek's_""Operation:_Meet_Baroque_Works"""
+the-cursed-holy-sword,The Cursed Holy Sword,"[492, 907]",,,foosha,Foosha Village,,0.114,add,https://onepiece.fandom.com/wiki/The_Cursed_Holy_Sword
+straw-hat-s-separation-serial,Straw Hat's Separation Serial,"[418, 907]",,,foosha,Foosha Village,,0.233,add,https://onepiece.fandom.com/wiki/Straw_Hat's_Separation_Serial
+3d2y,3D2Y,"[3, 907]",,,,,,0.0,add,https://onepiece.fandom.com/wiki/3D2Y
+one-piece-fan-letter,One Piece Fan Letter,"[279, 1123]",,,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/One_Piece_Fan_Letter
+diary-of-koby-meppo,Diary of Koby-Meppo,"[68, 907]",,,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Diary_of_Koby-Meppo
+shusui,Shusui,"[342, 956]",2.0,2.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Shusui
+sorbet-kingdom,Sorbet Kingdom,"[888, 1134]",1.0,1.1,foosha,Foosha Village,,0.143,add,https://onepiece.fandom.com/wiki/Sorbet_Kingdom
+island-clouds,Island Clouds,"[154, 1128]",,,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Island_Clouds
+judo-island,Judo Island,"[1, 2000]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Judo_Island
+2000-year-island,2000 Year Island,"[1, 2000]",,,foosha,Foosha Village,,0.267,add,https://onepiece.fandom.com/wiki/2000_Year_Island
+vearth,Vearth,"[155, 189]",,,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Vearth
+bepo,Bepo,"[392, 1150]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Bepo
+straw-hat-pirates-actions-and-locations-visited,Straw Hat Pirates/Actions and Locations Visited,"[3, 1086]",3.0,3.1,foosha,Foosha Village,,0.23,add,https://onepiece.fandom.com/wiki/Straw_Hat_Pirates/Actions_and_Locations_Visited
+koby,Koby,"[1, 1153]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Koby
+sun-pirates,Sun Pirates,"[31, 981]",14.0,14.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Sun_Pirates
+avalo-pizarro,Avalo Pizarro,"[484, 1122]",1.0,1.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Avalo_Pizarro
+bartholomew-kuma-history,Bartholomew Kuma/History,"[151, 1154]",1.0,1.1,foosha,Foosha Village,,0.158,add,https://onepiece.fandom.com/wiki/Bartholomew_Kuma/History
+sphinx-location,Sphinx (Location),"[890, 1152]",1.0,1.1,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Sphinx_(Location)
+roronoa-zoro-gallery,Roronoa Zoro/Gallery,"[456, 456]",,,foosha,Foosha Village,,0.412,add,https://onepiece.fandom.com/wiki/Roronoa_Zoro/Gallery
+monkey-d-luffy-gallery,Monkey D. Luffy/Gallery,"[542, 907]",,,foosha,Foosha Village,,0.27,add,https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Gallery
+rika,Rika,"[2, 69]",1.0,1.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Rika
+episode-guide-summit-war-saga,Episode Guide/Summit War Saga,"[22, 516]",,,foosha,Foosha Village,,0.14,add,https://onepiece.fandom.com/wiki/Episode_Guide/Summit_War_Saga
+ripper,Ripper,"[3, 68]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Ripper
+fleet,Fleet,"[21, 1150]",1.0,1.1,foosha,Foosha Village,,0.316,add,https://onepiece.fandom.com/wiki/Fleet
+maynard,Maynard,"[511, 741]",1.0,1.1,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Maynard
+tomac,Tomac,"[1, 1989]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Tomac
+fish-man-island,Fish-Man Island,"[30, 957]",,,foosha,Foosha Village,,0.552,review,https://onepiece.fandom.com/wiki/Fish-Man_Island
+shells-town,Shells Town,"[1, 3]",4.0,4.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Shells_Town
+conomi-islands,Conomi Islands,"[30, 44]",,,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Conomi_Islands
+gecko-islands,Gecko Islands,"[8, 17]",1.0,1.1,foosha,Foosha Village,,0.316,add,https://onepiece.fandom.com/wiki/Gecko_Islands
+nanatsu-islands,Nanatsu Islands,"[1, 1608]",1.0,1.1,foosha,Foosha Village,,0.345,add,https://onepiece.fandom.com/wiki/Nanatsu_Islands
+trans-town,Trans Town,"[1, 2000]",,,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Trans_Town
+organ-islands,Organ Islands,"[4, 6]",,,foosha,Foosha Village,,0.444,add,https://onepiece.fandom.com/wiki/Organ_Islands
+goa-kingdom,Goa Kingdom,"[496, 496]",,,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Goa_Kingdom
+rocky-port-incident,Rocky Port Incident,"[629, 1115]",1.0,1.1,foosha,Foosha Village,,0.242,add,https://onepiece.fandom.com/wiki/Rocky_Port_Incident
+karakuri-island,Karakuri Island,"[418, 1147]",1.0,1.1,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Karakuri_Island
+ryugu-kingdom,Ryugu Kingdom,"[528, 528]",,,foosha,Foosha Village,,0.105,add,https://onepiece.fandom.com/wiki/Ryugu_Kingdom
+mock-town,Mock Town,"[146, 1148]",1.0,1.1,foosha,Foosha Village,,0.267,add,https://onepiece.fandom.com/wiki/Mock_Town
+tontatta-kingdom,Tontatta Kingdom,"[641, 879]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Tontatta_Kingdom
+gartel-island,Gartel Island,"[885, 1081]",2.0,2.1,foosha,Foosha Village,,0.296,add,https://onepiece.fandom.com/wiki/Gartel_Island
+swallow-island,Swallow Island,"[704, 704]",1.0,1.1,foosha,Foosha Village,,0.357,add,https://onepiece.fandom.com/wiki/Swallow_Island
+tongari-island,Tongari Island,"[1, 930]",2.0,2.1,foosha,Foosha Village,,0.357,add,https://onepiece.fandom.com/wiki/Tongari_Island
+firs-island,Firs Island,"[578, 578]",1.0,1.1,foosha,Foosha Village,,0.353,add,https://onepiece.fandom.com/wiki/Firs_Island
+carbador-island,Carbador Island,"[1, 2000]",1.0,1.1,foosha,Foosha Village,,0.345,add,https://onepiece.fandom.com/wiki/Carbador_Island
+fron-island,Fron Island,"[775, 782]",1.0,1.1,foosha,Foosha Village,,0.48,add,https://onepiece.fandom.com/wiki/Fron_Island
+hand-island,Hand Island,"[1, 820]",,,foosha,Foosha Village,,0.48,add,https://onepiece.fandom.com/wiki/Hand_Island
+nagagutsu-kingdom,Nagagutsu Kingdom,"[884, 884]",1.0,1.1,foosha,Foosha Village,,0.129,add,https://onepiece.fandom.com/wiki/Nagagutsu_Kingdom
+navarone-island,Navarone Island,"[195, 197]",,,foosha,Foosha Village,,0.345,add,https://onepiece.fandom.com/wiki/Navarone_Island
+paradise-island,Paradise Island,"[1, 702]",1.0,1.01,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Paradise_Island
+arabasta-arc,Arabasta Arc,"[91, 1080]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Arabasta_Arc
+beasts-pirates,Beasts Pirates,"[373, 1080]",2.0,2.1,foosha,Foosha Village,,0.1,add,https://onepiece.fandom.com/wiki/Beasts_Pirates
+wano-country,Wano Country,"[344, 1123]",1.0,1.1,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Wano_Country
+long-ring-long-land-arc,Long Ring Long Land Arc,"[68, 918]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Long_Ring_Long_Land_Arc
+jaya-arc,Jaya Arc,"[63, 907]",5.0,5.1,foosha,Foosha Village,,0.273,add,https://onepiece.fandom.com/wiki/Jaya_Arc
+loguetown-arc,Loguetown Arc,"[1, 907]",1.0,1.1,foosha,Foosha Village,,0.316,add,https://onepiece.fandom.com/wiki/Loguetown_Arc
+amazon-lily,Amazon Lily,"[408, 1088]",1.0,1.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Amazon_Lily
+marineford,Marineford,"[43, 836]",4.0,4.1,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Marineford
+episode-of-luffy,Episode of Luffy,"[279, 907]",,,foosha,Foosha Village,,0.091,add,https://onepiece.fandom.com/wiki/Episode_of_Luffy
+episode-guide-wano-country-saga,Episode Guide/Wano Country Saga,"[19, 1085]",,,foosha,Foosha Village,,0.133,add,https://onepiece.fandom.com/wiki/Episode_Guide/Wano_Country_Saga
+episode-guide-arabasta-saga,Episode Guide/Arabasta Saga,"[34, 135]",,,foosha,Foosha Village,,0.244,add,https://onepiece.fandom.com/wiki/Episode_Guide/Arabasta_Saga
+dias,Dias,"[1, 844]",1.0,1.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Dias
+zou-arc,Zou Arc,"[492, 1083]",2.0,2.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Zou_Arc
+baratie-arc,Baratie Arc,"[18, 907]",1.0,1.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Baratie_Arc
+punk-hazard,Punk Hazard,"[570, 1152]",1.0,1.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Punk_Hazard
+saga,Saga,"[1, 931]",1.0,1.01,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Saga
+acacia,Acacia,"[630, 630]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Acacia
+donquixote-family,Donquixote Family,"[151, 1120]",3.0,3.1,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Donquixote_Family
+marine-x,Marine X,"[1, 947]",1.0,1.1,foosha,Foosha Village,,0.273,add,https://onepiece.fandom.com/wiki/Marine_X
+popora,Popora,"[1, 1000]",1.0,1.01,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/Popora
+poro,Poro,"[5, 8]",2.0,2.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Poro
+regis,Regis,"[1, 1000]",,,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Regis
+kuroba,Kuroba,"[1, 999]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Kuroba
+bismarck,Bismarck,"[1, 923]",1.0,1.01,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Bismarck
+levely-arc,Levely Arc,"[492, 1091]",1.0,1.01,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Levely_Arc
+sterry,Sterry,"[500, 1120]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Sterry
+fukaboshi,Fukaboshi,"[528, 1119]",1.0,1.1,foosha,Foosha Village,,0.533,review,https://onepiece.fandom.com/wiki/Fukaboshi
+hot-wind-marines,Hot Wind Marines,"[201, 201]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Hot_Wind_Marines
+kobato,Kobato,"[198, 202]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Kobato
+sada,Sada,"[1, 1383]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Sada
+shirotsu,Shirotsu,"[1, 861]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Shirotsu
+fish-men,Fish-Men,"[31, 786]",1.0,1.1,foosha,Foosha Village,,0.429,add,https://onepiece.fandom.com/wiki/Fish-Men
+pandaman,Pandaman,"[1, 1123]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Pandaman
+boodle,Boodle,"[6, 1148]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Boodle
+sabo,Sabo,"[2, 1155]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Sabo
+shimotsuki-yasuie,Shimotsuki Yasuie,"[916, 1079]",1.0,1.01,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Shimotsuki_Yasuie
+new-fish-man-pirates,New Fish-Man Pirates,"[527, 570]",4.0,4.1,foosha,Foosha Village,,0.471,add,https://onepiece.fandom.com/wiki/New_Fish-Man_Pirates
+woop-slap,Woop Slap,"[4, 1143]",1.0,1.1,foosha,Foosha Village,,0.533,review,https://onepiece.fandom.com/wiki/Woop_Slap
+drake-non-canon,Drake (Non-Canon),"[196, 205]",1.0,1.1,foosha,Foosha Village,,0.129,add,https://onepiece.fandom.com/wiki/Drake_(Non-Canon)
+dressrosa,Dressrosa,"[598, 1143]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Dressrosa
+wadatsumi,Wadatsumi,"[525, 876]",1.0,1.1,foosha,Foosha Village,,0.174,add,https://onepiece.fandom.com/wiki/Wadatsumi
+spider-miles,Spider Miles,"[689, 689]",1.0,1.1,foosha,Foosha Village,,0.385,add,https://onepiece.fandom.com/wiki/Spider_Miles
+egghead,Egghead,"[1083, 1149]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Egghead
+jonathan,Jonathan,"[196, 511]",8.0,8.1,foosha,Foosha Village,,0.429,add,https://onepiece.fandom.com/wiki/Jonathan
+new-marineford,New Marineford,"[517, 958]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/New_Marineford
+billy-cook,Billy (Cook),"[196, 206]",2.0,2.1,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/Billy_(Cook)
+toma,Toma,"[1, 897]",1.0,1.01,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Toma
+peppoko,Peppoko,"[1, 48]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Peppoko
+poppoko,Poppoko,"[1, 48]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Poppoko
+horo,Horo,"[1, 1680]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Horo
+nasugasira,Nasugasira,"[1, 1138]",1.0,1.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Nasugasira
+aramaki,Aramaki,"[227, 1121]",1.0,1.01,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Aramaki
+aladine,Aladine,"[540, 877]",1.0,1.1,foosha,Foosha Village,,0.381,add,https://onepiece.fandom.com/wiki/Aladine
+boo-kong,Boo Kong,"[1, 828]",1.0,1.01,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Boo_Kong
+marley-brothers,Marley Brothers,"[197, 202]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Marley_Brothers
+153rd-branch,153rd Branch,"[2, 10]",1.0,1.1,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/153rd_Branch
+marron,Marron,"[1, 1993]",1.0,1.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Marron
+sarie-nantokanette,Sarie Nantokanette,"[777, 1120]",1.0,1.1,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Sarie_Nantokanette
+tom-non-canon,Tom (Non-Canon),"[196, 197]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Tom_(Non-Canon)
+revolutionary-army,Revolutionary Army,"[45, 1149]",2.0,2.1,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Revolutionary_Army
+green-bit,Green Bit,"[623, 648]",1.0,1.1,foosha,Foosha Village,,0.174,add,https://onepiece.fandom.com/wiki/Green_Bit
+shinpachi,Shinpachi,"[196, 196]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Shinpachi
+rokkaku,Rokkaku,"[2, 2]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Rokkaku
+gyaro,Gyaro,"[386, 544]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Gyaro
+promise-land,Promise Land,"[1, 1855]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Promise_Land
+ginny,Ginny,"[415, 1138]",1.0,1.1,foosha,Foosha Village,,0.105,add,https://onepiece.fandom.com/wiki/Ginny
+macro,Macro,"[386, 544]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Macro
+hakugan,Hakugan,"[629, 1115]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Hakugan
+mekao,Mekao,"[196, 196]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Mekao
+tansui,Tansui,"[386, 544]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Tansui
+arsel,Arsel,"[1, 1908]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Arsel
+nebulandia,Nebulandia,"[1, 1513]",,,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Nebulandia
+morgan,Morgan,"[2, 68]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Morgan
+whisky-peak-arc,Whisky Peak Arc,"[64, 907]",2.0,2.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Whisky_Peak_Arc
+amazon-lily-arc,Amazon Lily Arc,"[408, 1087]",1.0,1.1,foosha,Foosha Village,,0.345,add,https://onepiece.fandom.com/wiki/Amazon_Lily_Arc
+nefertari-vivi-history,Nefertari Vivi/History,"[62, 1154]",1.0,1.1,foosha,Foosha Village,,0.278,add,https://onepiece.fandom.com/wiki/Nefertari_Vivi/History
+jessica,Jessica,"[196, 202]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Jessica
+smile-factory,SMILE Factory,"[630, 734]",1.0,1.1,foosha,Foosha Village,,0.296,add,https://onepiece.fandom.com/wiki/SMILE_Factory
+donquixote-pirates,Donquixote Pirates,"[151, 736]",3.0,3.1,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Donquixote_Pirates
+camie,Camie,"[385, 546]",1.0,1.1,foosha,Foosha Village,,0.316,add,https://onepiece.fandom.com/wiki/Camie
+hack,Hack,"[633, 1134]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Hack
+sargus,Sargus,"[1, 1909]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Sargus
+homey-premier-show,Homey (Premier Show),"[1, 1841]",1.0,1.1,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/Homey_(Premier_Show)
+ukkari,Ukkari,"[2, 2]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Ukkari
+koala,Koala,"[541, 1149]",1.0,1.1,foosha,Foosha Village,,0.421,add,https://onepiece.fandom.com/wiki/Koala
+marine-gs-general-hospital,Marine GS General Hospital,"[1150, 1150]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Marine_GS_General_Hospital
+bell-m-re,Bell-mère,"[32, 44]",1.0,1.1,foosha,Foosha Village,,0.261,add,https://onepiece.fandom.com/wiki/Bell-mère
+diez-barrels,Diez Barrels,"[704, 736]",1.0,1.01,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Diez_Barrels
+gates-of-justice,Gates of Justice,"[264, 485]",,,foosha,Foosha Village,,0.133,add,https://onepiece.fandom.com/wiki/Gates_of_Justice
+arlong-park-arc,Arlong Park Arc,"[5, 907]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Arlong_Park_Arc
+straw-hat,Straw Hat,"[1, 897]",8.0,8.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Straw_Hat
+sister-anko,Sister Anko,"[1, 792]",1.0,1.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Sister_Anko
+rakesh,Rakesh,"[701, 701]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Rakesh
+helmeppo,Helmeppo,"[2, 1150]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Helmeppo
+g-2,G-2,"[421, 880]",2.0,2.1,foosha,Foosha Village,,0.118,add,https://onepiece.fandom.com/wiki/G-2
+s-mart,S.Mart,"[1, 2000]",,,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/S.Mart
+paradise,Paradise,"[31, 1121]",1.0,1.1,foosha,Foosha Village,,0.273,add,https://onepiece.fandom.com/wiki/Paradise
+monkey-d-garp-history,Monkey D. Garp/History,"[68, 1130]",3.0,3.1,foosha,Foosha Village,,0.143,add,https://onepiece.fandom.com/wiki/Monkey_D._Garp/History
+uta-s-past-arc,Uta's Past Arc,"[4, 1030]",,,foosha,Foosha Village,,0.214,add,https://onepiece.fandom.com/wiki/Uta's_Past_Arc
+caribou-s-kehihihihi-in-the-new-world,Caribou's Kehihihihi in the New World,"[492, 921]",,,foosha,Foosha Village,,0.118,add,https://onepiece.fandom.com/wiki/Caribou's_Kehihihihi_in_the_New_World
+one-piece-stampede,One Piece: Stampede,"[492, 907]",3.0,3.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/One_Piece:_Stampede
+fisher-tiger,Fisher Tiger,"[415, 544]",1.0,1.1,foosha,Foosha Village,,0.538,review,https://onepiece.fandom.com/wiki/Fisher_Tiger
+isoka,Isoka,"[139, 143]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Isoka
+16th-branch,16th Branch,"[31, 490]",1.0,1.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/16th_Branch
+g-14,G-14,"[1090, 1103]",1.0,1.1,foosha,Foosha Village,,0.111,add,https://onepiece.fandom.com/wiki/G-14
+baby-5,Baby 5,"[608, 722]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Baby_5
+randolph-non-canon,Randolph (Non-Canon),"[1, 971]",1.0,1.01,foosha,Foosha Village,,0.176,add,https://onepiece.fandom.com/wiki/Randolph_(Non-Canon)
+karoo,Karoo,"[65, 1149]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Karoo
+post-enies-lobby-arc,Post-Enies Lobby Arc,"[53, 1053]",1.0,1.1,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/Post-Enies_Lobby_Arc
+trap-tower,Trap Tower,"[1, 1735]",1.0,1.1,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Trap_Tower
+daddy-masterson,Daddy Masterson,"[50, 50]",1.0,1.01,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Daddy_Masterson
+peachbeard,Peachbeard,"[880, 880]",1.0,1.01,foosha,Foosha Village,,0.125,add,https://onepiece.fandom.com/wiki/Peachbeard
+akibi,Akibi,"[139, 143]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Akibi
+pukau,Pukau,"[139, 139]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Pukau
+nine-red-scabbards,Nine Red Scabbards,"[580, 1083]",2.0,2.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Nine_Red_Scabbards
+usopp-gallery,Usopp/Gallery,"[1, 995]",,,foosha,Foosha Village,,0.37,add,https://onepiece.fandom.com/wiki/Usopp/Gallery
+rapanui-pasqua,Rapanui Pasqua,"[139, 143]",1.0,1.1,foosha,Foosha Village,,0.143,add,https://onepiece.fandom.com/wiki/Rapanui_Pasqua
+sanji-history-non-canon,Sanji/History/Non-Canon,"[20, 1086]",1.0,1.1,foosha,Foosha Village,,0.216,add,https://onepiece.fandom.com/wiki/Sanji/History/Non-Canon
+episode-of-merry,Episode of Merry,"[279, 907]",,,foosha,Foosha Village,,0.091,add,https://onepiece.fandom.com/wiki/Episode_of_Merry
+jinbe-gallery,Jinbe/Gallery,"[1, 968]",,,foosha,Foosha Village,,0.296,add,https://onepiece.fandom.com/wiki/Jinbe/Gallery
+rurubu-one-piece,Rurubu One Piece,"[1, 1977]",1.0,1.1,foosha,Foosha Village,,0.133,add,https://onepiece.fandom.com/wiki/Rurubu_One_Piece
+germa-66-s-ahh-an-emotionless-excursion,Germa 66's Ahh... An Emotionless Excursion,"[492, 1114]",,,foosha,Foosha Village,,0.071,add,https://onepiece.fandom.com/wiki/Germa_66's_Ahh..._An_Emotionless_Excursion
+baratie,Baratie,"[20, 877]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Baratie
+rongo,Rongo,"[139, 139]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Rongo
+post-war-arc,Post-War Arc,"[490, 917]",1.0,1.1,foosha,Foosha Village,,0.385,add,https://onepiece.fandom.com/wiki/Post-War_Arc
+three-great-powers,Three Great Powers,"[31, 1155]",1.0,1.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Three_Great_Powers
+one-piece-3d-straw-hat-chase,One Piece 3D: Straw Hat Chase,"[492, 907]",,,foosha,Foosha Village,,0.326,add,https://onepiece.fandom.com/wiki/One_Piece_3D:_Straw_Hat_Chase
+one-piece-film-z,One Piece Film: Z,"[492, 907]",,,foosha,Foosha Village,,0.258,add,https://onepiece.fandom.com/wiki/One_Piece_Film:_Z
+jinbe,Jinbe,"[31, 1086]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Jinbe
+jinbe-abilities-and-powers,Jinbe/Abilities and Powers,"[31, 1145]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Jinbe/Abilities_and_Powers
+jinbe-history,Jinbe/History,"[31, 1136]",1.0,1.1,foosha,Foosha Village,,0.148,add,https://onepiece.fandom.com/wiki/Jinbe/History
+jinbe-personality-and-relationships,Jinbe/Personality and Relationships,"[31, 1124]",1.0,1.1,foosha,Foosha Village,,0.195,add,https://onepiece.fandom.com/wiki/Jinbe/Personality_and_Relationships
+jinbe-misc,Jinbe/Misc.,"[31, 1086]",1.0,1.1,foosha,Foosha Village,,0.16,add,https://onepiece.fandom.com/wiki/Jinbe/Misc.
+charlotte-linlin-abilities-and-powers,Charlotte Linlin/Abilities and Powers,"[314, 1067]",1.0,1.1,foosha,Foosha Village,,0.235,add,https://onepiece.fandom.com/wiki/Charlotte_Linlin/Abilities_and_Powers
+pacifista,Pacifista,"[375, 1146]",1.0,1.1,foosha,Foosha Village,,0.261,add,https://onepiece.fandom.com/wiki/Pacifista
+underworld,Underworld,"[62, 876]",2.0,2.1,foosha,Foosha Village,,0.125,add,https://onepiece.fandom.com/wiki/Underworld
+gran-tesoro,Gran Tesoro,"[750, 750]",1.0,1.01,foosha,Foosha Village,,0.16,add,https://onepiece.fandom.com/wiki/Gran_Tesoro
+heart-pirates,Heart Pirates,"[392, 1115]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Heart_Pirates
+from-the-decks-of-the-world-the-500-000-000-man-arc,"From the Decks of the World: The 500,000,000 Man Arc","[492, 907]",,,foosha,Foosha Village,,0.138,add,"https://onepiece.fandom.com/wiki/From_the_Decks_of_the_World:_The_500,000,000_Man_Arc"
+usopp,Usopp,"[8, 1086]",2.0,2.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Usopp
+one-piece-the-movie,One Piece: The Movie,"[17, 907]",,,foosha,Foosha Village,,0.294,add,https://onepiece.fandom.com/wiki/One_Piece:_The_Movie
+usopp-history-during-and-after-the-timeskip,Usopp/History/During and After the Timeskip,"[8, 1155]",2.0,2.1,foosha,Foosha Village,,0.175,add,https://onepiece.fandom.com/wiki/Usopp/History/During_and_After_the_Timeskip
+kyuji,Kyuji,"[381, 381]",1.0,1.1,foosha,Foosha Village,,0.105,add,https://onepiece.fandom.com/wiki/Kyuji
+trafalgar-d-water-law,Trafalgar D. Water Law,"[392, 1080]",1.0,1.01,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law
+trafalgar-d-water-law-abilities-and-powers,Trafalgar D. Water Law/Abilities and Powers,"[392, 1093]",1.0,1.1,foosha,Foosha Village,,0.175,add,https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law/Abilities_and_Powers
+trafalgar-d-water-law-history,Trafalgar D. Water Law/History,"[392, 1080]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law/History
+trafalgar-d-water-law-misc,Trafalgar D. Water Law/Misc.,"[392, 1080]",1.0,1.1,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Trafalgar_D._Water_Law/Misc.
+koda,Koda,"[381, 381]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Koda
+ace-s-great-blackbeard-search,Ace's Great Blackbeard Search,"[381, 907]",,,foosha,Foosha Village,,0.233,add,https://onepiece.fandom.com/wiki/Ace's_Great_Blackbeard_Search
+going-merry,Going Merry,"[17, 321]",1.0,1.1,foosha,Foosha Village,,0.16,add,https://onepiece.fandom.com/wiki/Going_Merry
+one-piece-novel-law-the-hour-of-kikoku,One Piece novel Law: The Hour of Kikoku,"[492, 907]",,,foosha,Foosha Village,,0.264,add,https://onepiece.fandom.com/wiki/One_Piece_novel_Law:_The_Hour_of_Kikoku
+nami-history-non-canon,Nami/History/Non-Canon,"[1, 1086]",2.0,2.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Nami/History/Non-Canon
+levely,Levely,"[91, 1120]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Levely
+nezumi,Nezumi,"[31, 45]",1.0,1.1,foosha,Foosha Village,,0.1,add,https://onepiece.fandom.com/wiki/Nezumi
+buster-call,Buster Call,"[254, 1139]",1.0,1.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Buster_Call
+comil,Comil,"[421, 1149]",1.0,1.1,foosha,Foosha Village,,0.316,add,https://onepiece.fandom.com/wiki/Comil
+episode-of-nami,Episode of Nami,"[31, 907]",,,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Episode_of_Nami
+hattori,Hattori,"[230, 1104]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Hattori
+human-auctioning-house,Human Auctioning House,"[394, 531]",2.0,2.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Human_Auctioning_House
+the-stories-of-the-self-proclaimed-straw-hat-grand-fleet,The Stories of the Self-Proclaimed Straw Hat Grand Fleet,"[492, 1081]",,,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/The_Stories_of_the_Self-Proclaimed_Straw_Hat_Grand_Fleet
+disco,Disco,"[394, 398]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Disco
+numancia-flamingo,Numancia Flamingo,"[702, 706]",1.0,1.1,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Numancia_Flamingo
+gorilla,Gorilla,"[514, 514]",1.0,1.1,foosha,Foosha Village,,0.476,add,https://onepiece.fandom.com/wiki/Gorilla
+comb,Comb,"[1, 1782]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Comb
+one-piece-unlimited-world-red,One Piece: Unlimited World Red,"[1, 1582]",,,foosha,Foosha Village,,0.111,add,https://onepiece.fandom.com/wiki/One_Piece:_Unlimited_World_Red
+red-hair-pirates,Red Hair Pirates,"[4, 1116]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Red_Hair_Pirates
+hina,Hina,"[127, 1148]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Hina
+roronoa-zoro,Roronoa Zoro,"[1, 1127]",2.0,2.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Roronoa_Zoro
+mary-geoise,Mary Geoise,"[91, 1155]",1.0,1.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Mary_Geoise
+summit-war-of-marineford,Summit War of Marineford,"[410, 489]",,,foosha,Foosha Village,,0.133,add,https://onepiece.fandom.com/wiki/Summit_War_of_Marineford
+roronoa-zoro-misc,Roronoa Zoro/Misc.,"[1, 1086]",2.0,2.1,foosha,Foosha Village,,0.312,add,https://onepiece.fandom.com/wiki/Roronoa_Zoro/Misc.
+roronoa-zoro-history-non-canon,Roronoa Zoro/History/Non-Canon,"[1, 1086]",2.0,2.1,foosha,Foosha Village,,0.273,add,https://onepiece.fandom.com/wiki/Roronoa_Zoro/History/Non-Canon
+glass,Glass,"[1, 1783]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Glass
+hie-hie-no-mi,Hie Hie no Mi,"[225, 1121]",3.0,3.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Hie_Hie_no_Mi
+soran,Soran,"[420, 455]",1.0,1.01,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Soran
+t-bone,T Bone,"[253, 1116]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/T_Bone
+sea-beast-weapons,Sea Beast Weapons,"[1091, 1151]",1.0,1.1,foosha,Foosha Village,,0.258,add,https://onepiece.fandom.com/wiki/Sea_Beast_Weapons
+god-valley-incident,God Valley Incident,"[958, 1131]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/God_Valley_Incident
+fish-man-karate,Fish-Man Karate,"[39, 1145]",1.0,1.1,foosha,Foosha Village,,0.483,add,https://onepiece.fandom.com/wiki/Fish-Man_Karate
+smash,Smash,"[1, 999]",1.0,1.01,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Smash
+monkey-d-luffy-history-new-world,Monkey D. Luffy/History/New World,"[1, 1080]",1.0,1.1,foosha,Foosha Village,,0.103,add,https://onepiece.fandom.com/wiki/Monkey_D._Luffy/History/New_World
+one-piece-novel-law,One Piece novel Law,"[492, 907]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/One_Piece_novel_Law
+monkey-d-luffy-history-non-canon,Monkey D. Luffy/History/Non-Canon,"[1, 1080]",1.0,1.1,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Monkey_D._Luffy/History/Non-Canon
+monkey-d-luffy-history-paradise,Monkey D. Luffy/History/Paradise,"[1, 1080]",1.0,1.1,foosha,Foosha Village,,0.158,add,https://onepiece.fandom.com/wiki/Monkey_D._Luffy/History/Paradise
+monkey-d-luffy-relationships-citizens,Monkey D. Luffy/Relationships/Citizens,"[1, 1080]",1.0,1.1,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/Monkey_D._Luffy/Relationships/Citizens
+g-5,G-5,"[511, 624]",1.0,1.1,foosha,Foosha Village,,0.118,add,https://onepiece.fandom.com/wiki/G-5
+seastone,Seastone,"[53, 1104]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Seastone
+will-of-d,Will of D.,"[1, 1152]",2.0,2.1,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Will_of_D.
+ninja-pirate-mink-samurai-alliance,Ninja-Pirate-Mink-Samurai Alliance,"[754, 1083]",1.0,1.1,foosha,Foosha Village,,0.208,add,https://onepiece.fandom.com/wiki/Ninja-Pirate-Mink-Samurai_Alliance
+admiral,Admiral,"[127, 1121]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Admiral
+one-piece-film-red,One Piece Film: Red,"[1, 1029]",2.0,2.1,foosha,Foosha Village,,0.303,add,https://onepiece.fandom.com/wiki/One_Piece_Film:_Red
+episode-of-sabo,Episode of Sabo,"[279, 907]",,,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Episode_of_Sabo
+water-7-arc,Water 7 Arc,"[228, 907]",4.0,4.1,foosha,Foosha Village,,0.16,add,https://onepiece.fandom.com/wiki/Water_7_Arc
+north-blue,North Blue,"[24, 1119]",5.0,5.1,foosha,Foosha Village,,0.417,add,https://onepiece.fandom.com/wiki/North_Blue
+caribou,Caribou,"[517, 1142]",1.0,1.01,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Caribou
+van-augur,Van Augur,"[80, 1142]",1.0,1.1,foosha,Foosha Village,,0.261,add,https://onepiece.fandom.com/wiki/Van_Augur
+magu-magu-no-mi,Magu Magu no Mi,"[463, 1126]",2.0,2.1,foosha,Foosha Village,,0.138,add,https://onepiece.fandom.com/wiki/Magu_Magu_no_Mi
+stansen,Stansen,"[394, 836]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Stansen
+flevance,Flevance,"[701, 703]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Flevance
+gloriosa,Gloriosa,"[408, 1134]",1.0,1.1,foosha,Foosha Village,,0.571,review,https://onepiece.fandom.com/wiki/Gloriosa
+marine-headquarters,Marine Headquarters,"[20, 1108]",,,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Marine_Headquarters
+one-piece-novel-a,One Piece novel A,"[492, 907]",7.0,7.1,foosha,Foosha Village,,0.261,add,https://onepiece.fandom.com/wiki/One_Piece_novel_A
+shine,Shine,"[128, 421]",1.0,1.1,foosha,Foosha Village,,0.421,add,https://onepiece.fandom.com/wiki/Shine
+inuarashi,Inuarashi,"[756, 1085]",1.0,1.1,foosha,Foosha Village,,0.267,add,https://onepiece.fandom.com/wiki/Inuarashi
+tsuru,Tsuru,"[151, 1149]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Tsuru
+chapter-0,Chapter 0,"[492, 907]",,,foosha,Foosha Village,,0.267,add,https://onepiece.fandom.com/wiki/Chapter_0
+sentomaru,Sentomaru,"[391, 1154]",1.0,1.1,foosha,Foosha Village,,0.267,add,https://onepiece.fandom.com/wiki/Sentomaru
+yehudi,Yehudi,"[1, 999]",1.0,1.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Yehudi
+yami-yami-no-mi,Yami Yami no Mi,"[39, 486]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi
+barricade,Barricade,"[1, 1898]",1.0,1.1,foosha,Foosha Village,,0.348,add,https://onepiece.fandom.com/wiki/Barricade
+shanks-history,Shanks/History,"[4, 1153]",2.0,2.1,foosha,Foosha Village,,0.3,add,https://onepiece.fandom.com/wiki/Shanks/History
+drake-pirates,Drake Pirates,"[392, 923]",1.0,1.1,foosha,Foosha Village,,0.148,add,https://onepiece.fandom.com/wiki/Drake_Pirates
+sicily,Sicily,"[398, 398]",1.0,1.1,foosha,Foosha Village,,0.3,add,https://onepiece.fandom.com/wiki/Sicily
+cp9-s-independent-report,CP9's Independent Report,"[492, 907]",,,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/CP9's_Independent_Report
+explosive,Explosive,"[4, 1101]",,,foosha,Foosha Village,,0.348,add,https://onepiece.fandom.com/wiki/Explosive
+epithet,Epithet,"[1, 1095]",4.0,4.1,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Epithet
+balzac,Balzac,"[511, 511]",1.0,1.1,foosha,Foosha Village,,0.3,add,https://onepiece.fandom.com/wiki/Balzac
+mooji,Mooji,"[1, 1599]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Mooji
+wilder,Wilder,"[1, 999]",1.0,1.01,foosha,Foosha Village,,0.3,add,https://onepiece.fandom.com/wiki/Wilder
+smoker-history,Smoker/History,"[48, 1150]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Smoker/History
+hajrudin,Hajrudin,"[634, 1097]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Hajrudin
+portgas-d-ace-history,Portgas D. Ace/History,"[91, 1136]",1.0,1.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Portgas_D._Ace/History
+mashikaku,Mashikaku,"[48, 127]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Mashikaku
+fullbody,Fullbody,"[20, 1121]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Fullbody
+foods,Foods,"[2, 1146]",6.0,6.1,foosha,Foosha Village,,0.727,review,https://onepiece.fandom.com/wiki/Foods
+agray,Agray,"[1, 1053]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Agray
+episode-of-east-blue,Episode of East Blue,"[1, 907]",,,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Episode_of_East_Blue
+super-rookie,Super Rookie,"[151, 636]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Super_Rookie
+tequila-wolf,Tequila Wolf,"[420, 1155]",1.0,1.1,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/Tequila_Wolf
+ssg,SSG,"[523, 1155]",1.0,1.1,foosha,Foosha Village,,0.235,add,https://onepiece.fandom.com/wiki/SSG
+vegapunk-pythagoras,Vegapunk/Pythagoras,"[1092, 1155]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Vegapunk/Pythagoras
+macro-pirates,Macro Pirates,"[386, 544]",1.0,1.1,foosha,Foosha Village,,0.37,add,https://onepiece.fandom.com/wiki/Macro_Pirates
+week,Week,"[1, 1682]",1.0,1.1,foosha,Foosha Village,,0.111,add,https://onepiece.fandom.com/wiki/Week
+herring,Herring,"[1, 894]",,,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Herring
+vegaforce-01,Vegaforce-01,"[1090, 1126]",1.0,1.1,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/Vegaforce-01
+gage,Gage,"[1, 1900]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Gage
+s-bear,S-Bear,"[1092, 1155]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/S-Bear
+one-piece-film-strong-world,One Piece Film: Strong World,"[388, 907]",,,foosha,Foosha Village,,0.238,add,https://onepiece.fandom.com/wiki/One_Piece_Film:_Strong_World
+guard,Guard,"[1, 1053]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Guard
+eliza-odyssey,Eliza (Odyssey),"[1, 1457]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Eliza_(Odyssey)
+one-piece-magazine-vol-8,One Piece Magazine Vol.8,"[1, 1000]",,,foosha,Foosha Village,,0.316,add,https://onepiece.fandom.com/wiki/One_Piece_Magazine_Vol.8
+voice-of-all-things,Voice of All Things,"[400, 1036]",1.0,1.1,foosha,Foosha Village,,0.303,add,https://onepiece.fandom.com/wiki/Voice_of_All_Things
+donquixote-doflamingo-abilities-and-powers,Donquixote Doflamingo/Abilities and Powers,"[151, 736]",1.0,1.1,foosha,Foosha Village,,0.214,add,https://onepiece.fandom.com/wiki/Donquixote_Doflamingo/Abilities_and_Powers
+kong,Kong,"[511, 1130]",1.0,1.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Kong
+vergo,Vergo,"[511, 724]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Vergo
+vegapunk-edison,Vegapunk/Edison,"[1092, 1155]",1.0,1.1,foosha,Foosha Village,,0.138,add,https://onepiece.fandom.com/wiki/Vegapunk/Edison
+s-hawk,S-Hawk,"[1087, 1155]",1.0,1.01,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/S-Hawk
+sabagashira-i,Sabagashira I,"[20, 30]",,,foosha,Foosha Village,,0.316,add,https://onepiece.fandom.com/wiki/Sabagashira_I
+pirate,Pirate,"[1, 1153]",1.0,1.1,foosha,Foosha Village,,0.3,add,https://onepiece.fandom.com/wiki/Pirate
+snitcher,Snitcher,"[511, 511]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Snitcher
+pika-pika-no-mi,Pika Pika no Mi,"[400, 1127]",2.0,2.1,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Pika_Pika_no_Mi
+prince-grus,Prince Grus,"[1090, 1150]",1.0,1.1,foosha,Foosha Village,,0.16,add,https://onepiece.fandom.com/wiki/Prince_Grus
+vegapunk-lilith,Vegapunk/Lilith,"[1090, 1155]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Vegapunk/Lilith
+jaguar-d-saul,Jaguar D. Saul,"[275, 1148]",1.0,1.1,foosha,Foosha Village,,0.143,add,https://onepiece.fandom.com/wiki/Jaguar_D._Saul
+sora-fictional,Sora (fictional),"[783, 783]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Sora_(fictional)
+shinobu,Shinobu,"[911, 1148]",1.0,1.01,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Shinobu
+diamante,Diamante,"[629, 735]",1.0,1.1,foosha,Foosha Village,,0.273,add,https://onepiece.fandom.com/wiki/Diamante
+one-piece-film-strong-world-episode-0,One Piece Film Strong World: Episode 0,"[492, 907]",,,foosha,Foosha Village,,0.231,add,https://onepiece.fandom.com/wiki/One_Piece_Film_Strong_World:_Episode_0
+corrida-colosseum,Corrida Colosseum,"[629, 729]",1.0,1.1,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Corrida_Colosseum
+seraphim,Seraphim,"[958, 1155]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Seraphim
+buffalo,Buffalo,"[608, 735]",1.0,1.01,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Buffalo
+slavery,Slavery,"[391, 1086]",5.0,5.1,foosha,Foosha Village,,0.381,add,https://onepiece.fandom.com/wiki/Slavery
+vegapunk-atlas,Vegapunk/Atlas,"[1091, 1155]",1.0,1.1,foosha,Foosha Village,,0.214,add,https://onepiece.fandom.com/wiki/Vegapunk/Atlas
+mera-mera-no-mi,Mera Mera no Mi,"[3, 1119]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi
+woshu-woshu-no-mi,Woshu Woshu no Mi,"[465, 465]",1.0,1.1,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Woshu_Woshu_no_Mi
+vegapunk-york,Vegapunk/York,"[1092, 1155]",1.0,1.1,foosha,Foosha Village,,0.148,add,https://onepiece.fandom.com/wiki/Vegapunk/York
+dellinger,Dellinger,"[632, 735]",1.0,1.1,foosha,Foosha Village,,0.348,add,https://onepiece.fandom.com/wiki/Dellinger
+donquixote-doflamingo,Donquixote Doflamingo,"[151, 1120]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Donquixote_Doflamingo
+riba-riba-no-mi,Riba Riba no Mi,"[1, 1982]",1.0,1.1,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Riba_Riba_no_Mi
+broker,Broker,"[151, 618]",2.0,2.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Broker
+gomu-gomu-no-mi-team-combinations,Gomu Gomu no Mi/Team Combinations,"[87, 948]",16.0,16.1,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Team_Combinations
+nomi-nomi-no-mi,Nomi Nomi no Mi,"[1096, 1124]",2.0,2.1,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Nomi_Nomi_no_Mi
+ori-ori-no-mi,Ori Ori no Mi,"[130, 467]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Ori_Ori_no_Mi
+g-4,G-4,"[1148, 1148]",1.0,1.1,foosha,Foosha Village,,0.118,add,https://onepiece.fandom.com/wiki/G-4
+justice,Justice,"[3, 781]",5.0,5.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Justice
+g-3,G-3,"[490, 490]",,,foosha,Foosha Village,,0.118,add,https://onepiece.fandom.com/wiki/G-3
+rokushiki,Rokushiki,"[242, 613]",2.0,2.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Rokushiki
+donquixote-doflamingo-misc,Donquixote Doflamingo/Misc.,"[151, 736]",1.0,1.1,foosha,Foosha Village,,0.244,add,https://onepiece.fandom.com/wiki/Donquixote_Doflamingo/Misc.
+wombat,Wombat,"[1, 1637]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Wombat
+senor-pink,Senor Pink,"[632, 1101]",1.0,1.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Senor_Pink
+77th-branch,77th Branch,"[34, 34]",1.0,1.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/77th_Branch
+nagi-nagi-no-mi,Nagi Nagi no Mi,"[703, 1067]",1.0,1.1,foosha,Foosha Village,,0.138,add,https://onepiece.fandom.com/wiki/Nagi_Nagi_no_Mi
+hito-hito-no-mi-model-daibutsu,"Hito Hito no Mi, Model: Daibutsu","[480, 488]",1.0,1.1,foosha,Foosha Village,,0.13,add,"https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Daibutsu"
+recycle-wan,Recycle-Wan,"[1092, 1092]",1.0,1.1,foosha,Foosha Village,,0.118,add,https://onepiece.fandom.com/wiki/Recycle-Wan
+enma,Enma,"[4, 1062]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Enma
+ryu-ryu-no-mi-model-allosaurus,"Ryu Ryu no Mi, Model: Allosaurus","[402, 1001]",1.0,1.1,foosha,Foosha Village,,0.217,add,"https://onepiece.fandom.com/wiki/Ryu_Ryu_no_Mi,_Model:_Allosaurus"
+one-piece-grand-adventure,One Piece: Grand Adventure,"[1, 1174]",,,foosha,Foosha Village,,0.125,add,https://onepiece.fandom.com/wiki/One_Piece:_Grand_Adventure
+blueno,Blueno,"[230, 1119]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Blueno
+tajio,Tajio,"[133, 133]",1.0,1.01,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Tajio
+mecha-shark,Mecha-Shark,"[1089, 1090]",1.0,1.1,foosha,Foosha Village,,0.353,add,https://onepiece.fandom.com/wiki/Mecha-Shark
+trebol,Trebol,"[629, 735]",1.0,1.01,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Trebol
+daigin,Daigin,"[432, 449]",1.0,1.1,foosha,Foosha Village,,0.3,add,https://onepiece.fandom.com/wiki/Daigin
+ito-ito-no-mi,Ito Ito no Mi,"[151, 734]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Ito_Ito_no_Mi
+wado-ichimonji,Wado Ichimonji,"[2, 1027]",1.0,1.1,foosha,Foosha Village,,0.214,add,https://onepiece.fandom.com/wiki/Wado_Ichimonji
+trap,Trap,"[1, 959]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Trap
+gasu-gasu-no-mi,Gasu Gasu no Mi,"[581, 761]",1.0,1.1,foosha,Foosha Village,,0.095,add,https://onepiece.fandom.com/wiki/Gasu_Gasu_no_Mi
+kashu,Kashu,"[79, 79]",,,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Kashu
+nico-robin-abilities-and-powers,Nico Robin/Abilities and Powers,"[67, 1086]",1.0,1.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Nico_Robin/Abilities_and_Powers
+s-shark,S-Shark,"[1094, 1155]",1.0,1.01,foosha,Foosha Village,,0.462,add,https://onepiece.fandom.com/wiki/S-Shark
+bari-bari-no-mi,Bari Bari no Mi,"[636, 972]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi
+moku-moku-no-mi,Moku Moku no Mi,"[48, 468]",5.0,5.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Moku_Moku_no_Mi
+s-snake,S-Snake,"[1087, 1155]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/S-Snake
+bufflo,Bufflo,"[1, 1142]",1.0,1.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Bufflo
+pokke,Pokke,"[1, 999]",1.0,1.01,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Pokke
+bara-bara-no-mi,Bara Bara no Mi,"[5, 752]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Bara_Bara_no_Mi
+rocks-pirates,Rocks Pirates,"[887, 1130]",1.0,1.1,foosha,Foosha Village,,0.444,add,https://onepiece.fandom.com/wiki/Rocks_Pirates
+tamarisk,Tamarisk,"[127, 130]",1.0,1.1,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Tamarisk
+coral-hill,Coral Hill,"[527, 530]",2.0,2.1,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/Coral_Hill
+fireworks,Fireworks,"[134, 134]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Fireworks
+one-piece-burning-blood,One Piece: Burning Blood,"[1, 1170]",,,foosha,Foosha Village,,0.133,add,https://onepiece.fandom.com/wiki/One_Piece:_Burning_Blood
+carta,Carta,"[677, 677]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Carta
+katorea,Katorea,"[93, 107]",1.0,1.1,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Katorea
+erumalu,Erumalu,"[96, 123]",1.0,1.1,foosha,Foosha Village,,0.154,add,https://onepiece.fandom.com/wiki/Erumalu
+cocoa-weed,Cocoa Weed,"[81, 81]",1.0,1.1,foosha,Foosha Village,,0.417,add,https://onepiece.fandom.com/wiki/Cocoa_Weed
+peachbeard-pirates,Peachbeard Pirates,"[880, 880]",1.0,1.1,foosha,Foosha Village,,0.083,add,https://onepiece.fandom.com/wiki/Peachbeard_Pirates
+bandits,Bandits,"[4, 529]",,,foosha,Foosha Village,,0.19,add,https://onepiece.fandom.com/wiki/Bandits
+lord-of-the-coast,Lord of the Coast,"[4, 1030]",1.0,1.1,foosha,Foosha Village,,0.348,add,https://onepiece.fandom.com/wiki/Lord_of_the_Coast
+chapter-778,Chapter 778,"[629, 746]",,,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Chapter_778
+jinbe-history-during-and-after-the-timeskip,Jinbe/History/During and After the Timeskip,"[31, 1155]",1.0,1.1,foosha,Foosha Village,,0.082,add,https://onepiece.fandom.com/wiki/Jinbe/History/During_and_After_the_Timeskip
+one-piece-new-year-special-special-report-secret-of-the-straw-hat-pirates,One Piece New Year Special: Special Report - Secret of the Straw Hat Pirates!,"[253, 907]",,,foosha,Foosha Village,,0.176,add,https://onepiece.fandom.com/wiki/One_Piece_New_Year_Special:_Special_Report_-_Secret_of_the_Straw_Hat_Pirates!
+tony-tony-chopper-history-during-and-after-the-timeskip,Tony Tony Chopper/History/During and After the Timeskip,"[81, 1154]",1.0,1.1,foosha,Foosha Village,,0.131,add,https://onepiece.fandom.com/wiki/Tony_Tony_Chopper/History/During_and_After_the_Timeskip
+daz-bonez,Daz Bonez,"[103, 1086]",1.0,1.1,foosha,Foosha Village,,0.261,add,https://onepiece.fandom.com/wiki/Daz_Bonez
+zala,Zala,"[103, 127]",3.0,3.1,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Zala
+lulusia-kingdom,Lulusia Kingdom,"[879, 1149]",1.0,1.1,foosha,Foosha Village,,0.345,add,https://onepiece.fandom.com/wiki/Lulusia_Kingdom
+chapter-609,Chapter 609,"[3, 574]",,,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Chapter_609
+post-arabasta-arc,Post-Arabasta Arc,"[131, 907]",,,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Post-Arabasta_Arc
+ririka,Ririka,"[2, 69]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Ririka
+ishilly,Ishilly,"[527, 573]",1.0,1.1,foosha,Foosha Village,,0.476,add,https://onepiece.fandom.com/wiki/Ishilly
+soro,Soro,"[2, 2]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Soro
+pinky,Pinky,"[4, 4]",1.0,1.1,foosha,Foosha Village,,0.105,add,https://onepiece.fandom.com/wiki/Pinky
+nyornyo-nyarmani,Nyornyo Nyarmani,"[1, 1606]",1.0,1.1,foosha,Foosha Village,,0.273,add,https://onepiece.fandom.com/wiki/Nyornyo_Nyarmani
+sanji-history-during-and-after-the-timeskip,Sanji/History/During and After the Timeskip,"[20, 1155]",1.0,1.1,foosha,Foosha Village,,0.175,add,https://onepiece.fandom.com/wiki/Sanji/History/During_and_After_the_Timeskip
+roxanne,Roxanne,"[1, 971]",1.0,1.1,foosha,Foosha Village,,0.308,add,https://onepiece.fandom.com/wiki/Roxanne
+pete,Pete,"[50, 50]",1.0,1.1,foosha,Foosha Village,,0.111,add,https://onepiece.fandom.com/wiki/Pete
+anjo,Anjo,"[400, 400]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Anjo
+riley-brothers,Riley Brothers,"[50, 50]",1.0,1.1,foosha,Foosha Village,,0.214,add,https://onepiece.fandom.com/wiki/Riley_Brothers
+tobio,Tobio,"[1, 975]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Tobio
+one-piece-romance-dawn-the-dawn-of-the-adventure,One Piece Romance Dawn: The Dawn of the Adventure,"[1, 1499]",,,foosha,Foosha Village,,0.109,add,https://onepiece.fandom.com/wiki/One_Piece_Romance_Dawn:_The_Dawn_of_the_Adventure
+abi,Abi,"[317, 317]",1.0,1.1,foosha,Foosha Village,,0.235,add,https://onepiece.fandom.com/wiki/Abi
+moodie,Moodie,"[20, 20]",2.0,2.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Moodie
+dick,Dick,"[135, 135]",1.0,1.1,foosha,Foosha Village,,0.111,add,https://onepiece.fandom.com/wiki/Dick
+episode-528,Episode 528,"[3, 574]",,,foosha,Foosha Village,,0.118,add,https://onepiece.fandom.com/wiki/Episode_528
+bushon,Bushon,"[251, 316]",,,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/Bushon
+stevie,Stevie,"[251, 316]",2.0,2.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Stevie
+carol,Carol,"[50, 50]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Carol
+yu,Yu,"[52, 52]",1.0,1.1,,,,0.0,add,https://onepiece.fandom.com/wiki/Yu
+hanger,Hanger,"[48, 48]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Hanger
+raoul,Raoul,"[48, 48]",1.0,1.01,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Raoul
+jose,Jose,"[51, 51]",1.0,1.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Jose
+ed-loguetown,Ed (Loguetown),"[48, 48]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Ed_(Loguetown)
+gomu-gomu-no-mi-techniques,Gomu Gomu no Mi/Techniques,"[1, 902]",1.0,1.1,foosha,Foosha Village,,0.188,add,https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Techniques
+leo-non-canon,Leo (Non-Canon),"[51, 51]",1.0,1.1,foosha,Foosha Village,,0.286,add,https://onepiece.fandom.com/wiki/Leo_(Non-Canon)
+sapi,Sapi,"[51, 51]",2.0,2.1,foosha,Foosha Village,,0.4,add,https://onepiece.fandom.com/wiki/Sapi
+ganzo,Ganzo,"[1, 955]",,,foosha,Foosha Village,,0.182,add,https://onepiece.fandom.com/wiki/Ganzo
+shutai,Shutai,"[51, 51]",1.0,1.1,foosha,Foosha Village,,0.5,review,https://onepiece.fandom.com/wiki/Shutai
+eccoli,Eccoli,"[51, 51]",1.0,1.01,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Eccoli
+mounblutain,Mounblutain,"[517, 523]",2.0,2.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Mounblutain
+one-piece-bon-bon-journey,One Piece Bon! Bon! Journey!!,"[1, 999]",,,foosha,Foosha Village,,0.114,add,https://onepiece.fandom.com/wiki/One_Piece_Bon!_Bon!_Journey!!
+carmen,Carmen,"[51, 51]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Carmen
+chopper-s-kingdom-on-the-island-of-strange-animals,Chopper's Kingdom on the Island of Strange Animals,"[492, 907]",,,foosha,Foosha Village,,0.219,add,https://onepiece.fandom.com/wiki/Chopper's_Kingdom_on_the_Island_of_Strange_Animals
+whole-cake-island-saga,Whole Cake Island Saga,"[492, 907]",,,foosha,Foosha Village,,0.278,add,https://onepiece.fandom.com/wiki/Whole_Cake_Island_Saga
+ruluka-island-arc,Ruluka Island Arc,"[139, 911]",,,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Ruluka_Island_Arc
+goat-island-arc,Goat Island Arc,"[136, 907]",,,foosha,Foosha Village,,0.414,add,https://onepiece.fandom.com/wiki/Goat_Island_Arc
+glorious-island,Glorious Island,"[279, 907]",,,foosha,Foosha Village,,0.381,add,https://onepiece.fandom.com/wiki/Glorious_Island
+satsuruzo-kingdom,Satsuruzo Kingdom,"[1, 1]",1.0,1.1,foosha,Foosha Village,,0.323,add,https://onepiece.fandom.com/wiki/Satsuruzo_Kingdom
+east-blue,East Blue,"[1, 1060]",1.0,1.1,foosha,Foosha Village,,0.133,add,https://onepiece.fandom.com/wiki/East_Blue
+zabal,Zabal,"[1, 990]",1.0,1.1,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Zabal
+z-s-ambition-arc,Z's Ambition Arc,"[492, 1072]",,,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Z's_Ambition_Arc
+teru,Teru,"[1, 1840]",1.0,1.1,foosha,Foosha Village,,0.111,add,https://onepiece.fandom.com/wiki/Teru
+kaya,Kaya,"[9, 1147]",1.0,1.1,foosha,Foosha Village,,0.222,add,https://onepiece.fandom.com/wiki/Kaya
+nako,Nako,"[32, 1149]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Nako
+ahho-zurako,Ahho Zurako,"[501, 501]",1.0,1.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Ahho_Zurako
+skypiea-arc,Skypiea Arc,"[53, 968]",2.0,2.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Skypiea_Arc
+luffy-law,"Luffy, Law","[279, 907]",,,foosha,Foosha Village,,0.25,add,"https://onepiece.fandom.com/wiki/Luffy,_Law"
+outlook-iii,Outlook III,"[496, 503]",1.0,1.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Outlook_III
+ninjin,Ninjin,"[9, 1147]",1.0,1.1,foosha,Foosha Village,,0.1,add,https://onepiece.fandom.com/wiki/Ninjin
+tamanegi,Tamanegi,"[9, 1147]",1.0,1.1,foosha,Foosha Village,,0.273,add,https://onepiece.fandom.com/wiki/Tamanegi
+story-arcs,Story Arcs,"[4, 1122]",,,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Story_Arcs
+yasopp,Yasopp,"[4, 1112]",1.0,1.1,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Yasopp
+ahho-desunen-ix,Ahho Desunen IX,"[501, 501]",1.0,1.1,foosha,Foosha Village,,0.207,add,https://onepiece.fandom.com/wiki/Ahho_Desunen_IX
+daddy-dee,Daddy Dee,"[35, 35]",1.0,1.1,foosha,Foosha Village,,0.261,add,https://onepiece.fandom.com/wiki/Daddy_Dee
+piiman,Piiman,"[9, 1147]",1.0,1.1,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Piiman
+chabo,Chabo,"[31, 1149]",1.0,1.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Chabo
+mummy-mee,Mummy Mee,"[35, 35]",1.0,1.1,foosha,Foosha Village,,0.174,add,https://onepiece.fandom.com/wiki/Mummy_Mee
+ice-hunter-arc,Ice Hunter Arc,"[326, 907]",,,foosha,Foosha Village,,0.2,add,https://onepiece.fandom.com/wiki/Ice_Hunter_Arc
+dream-soccer-king,Dream Soccer King,"[279, 907]",,,foosha,Foosha Village,,0.087,add,https://onepiece.fandom.com/wiki/Dream_Soccer_King
+jango-s-dance-carnival,Jango's Dance Carnival,"[279, 907]",,,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Jango's_Dance_Carnival
+bounty-maru,Bounty Maru,"[1, 1371]",1.0,1.1,foosha,Foosha Village,,0.24,add,https://onepiece.fandom.com/wiki/Bounty_Maru
+brook-gallery,Brook/Gallery,"[1, 999]",,,foosha,Foosha Village,,0.444,add,https://onepiece.fandom.com/wiki/Brook/Gallery
+the-final-sea-the-new-world-saga,The Final Sea: The New World Saga,"[14, 907]",,,foosha,Foosha Village,,0.298,add,https://onepiece.fandom.com/wiki/The_Final_Sea:_The_New_World_Saga
+silver-mine-arc,Silver Mine Arc,"[492, 907]",,,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Silver_Mine_Arc
+one-piece-3d-trap-coaster,ONE PIECE 3D! Trap Coaster,"[279, 907]",,,foosha,Foosha Village,,0.125,add,https://onepiece.fandom.com/wiki/ONE_PIECE_3D!_Trap_Coaster
+the-true-food-devil-fruit,The True Food! Devil Fruit!!,"[1, 907]",,,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/The_True_Food!_Devil_Fruit!!
+gedatsu-s-accidental-blue-sea-life,Gedatsu's Accidental Blue-Sea Life,"[492, 907]",,,foosha,Foosha Village,,0.083,add,https://onepiece.fandom.com/wiki/Gedatsu's_Accidental_Blue-Sea_Life
+special-episode-luff,"Special Episode ""Luff""","[492, 907]",,,foosha,Foosha Village,,0.143,add,"https://onepiece.fandom.com/wiki/Special_Episode_""Luff"""
+cidre-guild-arc,Cidre Guild Arc,"[492, 907]",1.0,1.1,foosha,Foosha Village,,0.276,add,https://onepiece.fandom.com/wiki/Cidre_Guild_Arc
+episode-special-2,Episode Special 2,"[149, 907]",,,foosha,Foosha Village,,0.174,add,https://onepiece.fandom.com/wiki/Episode_Special_2
+usopp-abilities-and-powers,Usopp/Abilities and Powers,"[8, 1086]",2.0,2.1,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Usopp/Abilities_and_Powers
+usopp-misc,Usopp/Misc.,"[8, 1086]",2.0,2.1,foosha,Foosha Village,,0.16,add,https://onepiece.fandom.com/wiki/Usopp/Misc.
+heart-of-gold,Heart of Gold,"[279, 907]",,,foosha,Foosha Village,,0.211,add,https://onepiece.fandom.com/wiki/Heart_of_Gold
+where-they-are-now,Where They Are Now,"[381, 907]",,,foosha,Foosha Village,,0.167,add,https://onepiece.fandom.com/wiki/Where_They_Are_Now
+brook,Brook,"[337, 1086]",2.0,2.1,foosha,Foosha Village,,0.364,add,https://onepiece.fandom.com/wiki/Brook
+brook-abilities-and-powers,Brook/Abilities and Powers,"[337, 1086]",2.0,2.1,foosha,Foosha Village,,0.3,add,https://onepiece.fandom.com/wiki/Brook/Abilities_and_Powers
+one-piece-movies,One Piece Movies,"[388, 907]",,,foosha,Foosha Village,,0.333,add,https://onepiece.fandom.com/wiki/One_Piece_Movies
+hitsugibune,Hitsugibune,"[23, 151]",1.0,1.1,foosha,Foosha Village,,0.32,add,https://onepiece.fandom.com/wiki/Hitsugibune
+nico-robin-gallery,Nico Robin/Gallery,"[1, 999]",,,foosha,Foosha Village,,0.25,add,https://onepiece.fandom.com/wiki/Nico_Robin/Gallery
+73rd-nhk-kohaku-uta-gassen-collaboration-special-manga,73rd NHK Kohaku Uta Gassen Collaboration Special Manga,"[492, 907]",1.0,1.1,foosha,Foosha Village,,0.235,add,https://onepiece.fandom.com/wiki/73rd_NHK_Kohaku_Uta_Gassen_Collaboration_Special_Manga
+the-giant-mechanical-soldier-of-karakuri-castle,The Giant Mechanical Soldier of Karakuri Castle,"[492, 907]",,,foosha,Foosha Village,,0.164,add,https://onepiece.fandom.com/wiki/The_Giant_Mechanical_Soldier_of_Karakuri_Castle
+mini-merry-ii,Mini Merry II,"[329, 624]",,,foosha,Foosha Village,,0.148,add,https://onepiece.fandom.com/wiki/Mini_Merry_II
