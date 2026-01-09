@@ -30,7 +30,201 @@ const App = () => {
   });
 
   const activeIslands = useMemo(() => {
-    return ONE_PIECE_DATA.islands as Island[];
+    const crewPath = ONE_PIECE_DATA.paths[selectedVoyage];
+    return ONE_PIECE_DATA.islands
+      .filter(i => crewPath.includes(i.id) && i.episodes[0] <= currentEpisode)
+      .sort((a, b) => a.episodes[0] - b.episodes[0]);
+  }, [currentEpisode, selectedVoyage]);
+
+  // --- THREE.JS ---
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.src =
+      'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js';
+    script.onload = () => {
+      const THREE = window.THREE;
+      const width = containerRef.current.clientWidth;
+      const height = containerRef.current.clientHeight;
+
+      // Mobile detection for performance optimization
+      const isMobile =
+        /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+          navigator.userAgent
+        );
+      const pixelRatio = isMobile
+        ? Math.min(window.devicePixelRatio, 1.5)
+        : window.devicePixelRatio;
+      const segments = isMobile ? 64 : 128;
+
+      const scene = new THREE.Scene();
+      sceneRef.current = scene;
+
+      const camera = new THREE.PerspectiveCamera(45, width / height, 0.1, 1000);
+      camera.position.z = 18;
+
+      const renderer = new THREE.WebGLRenderer({
+        antialias: !isMobile,
+        alpha: true,
+        powerPreference: isMobile ? 'low-power' : 'high-performance',
+      });
+      renderer.setSize(width, height);
+      renderer.setPixelRatio(pixelRatio);
+      containerRef.current.appendChild(renderer.domElement);
+
+      // Texture with base map
+      const canvas = document.createElement('canvas');
+      canvas.width = isMobile ? 2048 : 4096;
+      canvas.height = isMobile ? 1024 : 2048;
+      const ctx = canvas.getContext('2d');
+      if (!ctx) {
+        console.error('Failed to get 2D context for globe canvas');
+        return;
+      }
+      ctx.fillStyle = '#020617';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      // Procedural Geography
+      const glY = canvas.height / 2;
+      ctx.fillStyle = '#082f49';
+      ctx.fillRect(0, glY - 100, canvas.width, 200);
+
+      ONE_PIECE_DATA.islands.forEach(island => {
+        const x = ((island.lon + 180) / 360) * canvas.width;
+        const y = ((90 - island.lat) / 180) * canvas.height;
+        ctx.fillStyle = island.visual === 'peaks' ? '#ffffff' : '#14532d';
+        ctx.beginPath();
+        for (let i = 0; i < 8; i++) {
+          const angle = (i / 8) * Math.PI * 2;
+          const r = 40 * (0.8 + Math.random() * 0.4);
+          const px = x + Math.cos(angle) * r;
+          const py = y + Math.sin(angle) * r;
+          if (i === 0) ctx.moveTo(px, py);
+          else ctx.lineTo(px, py);
+        }
+        ctx.fill();
+      });
+
+      // Procedural Normal/Bump Map using noise
+      const normalCanvas = document.createElement('canvas');
+      normalCanvas.width = isMobile ? 1024 : 2048;
+      normalCanvas.height = isMobile ? 512 : 1024;
+      const normalCtx = normalCanvas.getContext('2d');
+      if (!normalCtx) {
+        console.error('Failed to get 2D context for normal map canvas');
+        return;
+      }
+      const imageData = normalCtx.createImageData(
+        normalCanvas.width,
+        normalCanvas.height
+      );
+
+      // Simple noise function for bump mapping
+      const noise = (x, y) => {
+        const n =
+          Math.sin(x * 0.1) * Math.cos(y * 0.1) +
+          Math.sin(x * 0.05 + y * 0.05) * 0.5 +
+          Math.sin(x * 0.02) * Math.cos(y * 0.03) * 0.3;
+        return (n + 2) / 4; // Normalize to 0-1
+      };
+
+      for (let y = 0; y < normalCanvas.height; y++) {
+        for (let x = 0; x < normalCanvas.width; x++) {
+          const i = (y * normalCanvas.width + x) * 4;
+          const val = Math.floor(noise(x, y) * 255);
+          imageData.data[i] = val;
+          imageData.data[i + 1] = val;
+          imageData.data[i + 2] = val;
+          imageData.data[i + 3] = 255;
+        }
+      }
+      normalCtx.putImageData(imageData, 0, 0);
+
+      const texture = new THREE.CanvasTexture(canvas);
+      const bumpTexture = new THREE.CanvasTexture(normalCanvas);
+
+      const globe = new THREE.Mesh(
+        new THREE.SphereGeometry(5, segments, segments),
+        new THREE.MeshPhongMaterial({
+          map: texture,
+          bumpMap: bumpTexture,
+          bumpScale: 0.05,
+          shininess: 25,
+          specular: new THREE.Color(0x333333),
+          reflectivity: 0.3,
+        })
+      );
+      scene.add(globe);
+      globeRef.current = globe;
+
+      // Enhanced Lighting System: Google Earth + Anime Aesthetic
+      // 1. Ambient base light (soft fill)
+      const ambientLight = new THREE.AmbientLight(0x404865, 0.6);
+      scene.add(ambientLight);
+
+      // 2. Main directional light (sun) - dramatic anime-style
+      const sun = new THREE.DirectionalLight(0xfff5e6, 1.8);
+      sun.position.set(10, 10, 10);
+      scene.add(sun);
+      lightRef.current = sun;
+
+      // 3. Fill light (to soften shadows, Google Earth style)
+      const fillLight = new THREE.DirectionalLight(0x6b9bd1, 0.4);
+      fillLight.position.set(-8, 3, -5);
+      scene.add(fillLight);
+
+      // 4. Rim light (anime/comic aesthetic for edge highlighting)
+      const rimLight = new THREE.DirectionalLight(0xffffff, 0.6);
+      rimLight.position.set(0, 5, -10);
+      scene.add(rimLight);
+
+      // 5. Secondary accent light (subtle color gradient)
+      const accentLight = new THREE.DirectionalLight(0xff9a5c, 0.3);
+      accentLight.position.set(5, -3, 8);
+      scene.add(accentLight);
+
+      // Particles
+      const partCount = 500;
+      const partGeo = new THREE.BufferGeometry();
+      const posArr = new Float32Array(partCount * 3);
+      for (let i = 0; i < partCount * 3; i++)
+        posArr[i] = (Math.random() - 0.5) * 20;
+      partGeo.setAttribute('position', new THREE.BufferAttribute(posArr, 3));
+      particlesRef.current = new THREE.Points(
+        partGeo,
+        new THREE.PointsMaterial({
+          size: 0.05,
+          color: 0xffffff,
+          transparent: true,
+          opacity: 0,
+        })
+      );
+      scene.add(particlesRef.current);
+
+      let isDragging = false;
+      let prevMouse = { x: 0, y: 0 };
+      renderer.domElement.addEventListener(
+        'mousedown',
+        () => (isDragging = true)
+      );
+      renderer.domElement.addEventListener('mousemove', e => {
+        if (isDragging) {
+          globe.rotation.y += (e.offsetX - prevMouse.x) * 0.005;
+          globe.rotation.x += (e.offsetY - prevMouse.y) * 0.005;
+        }
+        prevMouse = { x: e.offsetX, y: e.offsetY };
+      });
+      window.addEventListener('mouseup', () => (isDragging = false));
+
+      const animate = () => {
+        requestAnimationFrame(animate);
+        if (!isDragging) globe.rotation.y += 0.0001;
+        renderer.render(scene, camera);
+      };
+      animate();
+
+      return () => containerRef.current?.removeChild(renderer.domElement);
+    };
+    document.head.appendChild(script);
   }, []);
 
   const selectedIsland = useMemo(
