@@ -1,5 +1,5 @@
 import { watch } from 'fs';
-import { resolve, dirname } from 'path';
+import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -18,7 +18,11 @@ if (isWatch) {
   console.log('👀 Watch mode enabled - monitoring for file changes...\n');
 }
 
-async function build() {
+// Build state tracking
+let isBuilding = false;
+let pendingBuild = false;
+
+async function build(isWatchMode = false) {
   try {
     const result = await Bun.build({
       entrypoints: ['./main.tsx'],
@@ -40,7 +44,11 @@ async function build() {
       for (const log of result.logs) {
         console.error(log);
       }
-      process.exit(1);
+      // Don't exit in watch mode, allow developer to fix errors
+      if (!isWatchMode) {
+        process.exit(1);
+      }
+      return null;
     }
 
     console.log('✅ Build completed successfully!');
@@ -54,13 +62,37 @@ async function build() {
     return result;
   } catch (error) {
     console.error('❌ Build error:', error);
-    process.exit(1);
+    // Don't exit in watch mode, allow developer to fix errors
+    if (!isWatchMode) {
+      process.exit(1);
+    }
+    return null;
+  }
+}
+
+async function debouncedBuild() {
+  // If build is in progress, mark that another build is needed
+  if (isBuilding) {
+    pendingBuild = true;
+    return;
+  }
+
+  isBuilding = true;
+  await build(true);
+  isBuilding = false;
+
+  // If another build was requested while we were building, run it now
+  if (pendingBuild) {
+    pendingBuild = false;
+    debouncedBuild();
   }
 }
 
 async function watchBuild() {
   console.log('Initial build...');
-  await build();
+  await build(true);
+
+  let debounceTimer;
 
   const watcher = watch(
     __dirname,
@@ -68,14 +100,22 @@ async function watchBuild() {
     async (eventType, filename) => {
       if (
         filename &&
+        // Ignore dist directory and node_modules
+        !filename.includes('dist') &&
+        !filename.includes('node_modules') &&
+        !filename.includes('.git') &&
         (filename.endsWith('.tsx') ||
           filename.endsWith('.ts') ||
           filename.endsWith('.jsx') ||
           filename.endsWith('.js'))
       ) {
-        console.log(`\n🔄 File changed: ${filename}`);
-        console.log('🔨 Rebuilding...');
-        await build();
+        // Debounce rapid file changes
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+          console.log(`\n🔄 File changed: ${filename}`);
+          console.log('🔨 Rebuilding...');
+          debouncedBuild();
+        }, 100);
       }
     }
   );

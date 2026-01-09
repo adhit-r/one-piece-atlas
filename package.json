@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "bun run --hot server.ts",
-    "dev:watch": "NODE_ENV=development bun run build.ts --watch & bun run --hot server.ts",
+    "dev:watch": "bun run build:dev && concurrently \"bun run build:watch\" \"bun run dev\"",
     "build": "NODE_ENV=production bun run build.ts",
     "build:dev": "NODE_ENV=development bun run build.ts",
     "build:watch": "NODE_ENV=development bun run build.ts --watch",
@@ -29,6 +29,7 @@
     "@typescript-eslint/eslint-plugin": "^8.50.0",
     "@typescript-eslint/parser": "^8.50.0",
     "bun-types": "^1.0.0",
+    "concurrently": "^9.2.1",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.0.1",
