@@ -36,26 +36,6 @@ const App = () => {
       .sort((a, b) => a.episodes[0] - b.episodes[0]);
   }, [currentEpisode, selectedVoyage]);
 
-  const poneglyphsFound = useMemo(() => {
-    return activeIslands.filter(i => i.hasPoneglyph).length;
-  }, [activeIslands]);
-
-  const currentCrew = useMemo(() => {
-    return ONE_PIECE_DATA.crew.filter(
-      member =>
-        currentEpisode >= member.joinEp &&
-        (!member.leaveEp || currentEpisode < member.leaveEp)
-    );
-  }, [currentEpisode]);
-
-  const currentBounty = useMemo(() => {
-    return (
-      [...ONE_PIECE_DATA.bounties]
-        .reverse()
-        .find(b => b.ep <= currentEpisode) || { amount: 0 }
-    );
-  }, [currentEpisode]);
-
   // --- THREE.JS ---
   useEffect(() => {
     const script = document.createElement('script');
@@ -67,8 +47,13 @@ const App = () => {
       const height = containerRef.current.clientHeight;
 
       // Mobile detection for performance optimization
-      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-      const pixelRatio = isMobile ? Math.min(window.devicePixelRatio, 1.5) : window.devicePixelRatio;
+      const isMobile =
+        /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+          navigator.userAgent
+        );
+      const pixelRatio = isMobile
+        ? Math.min(window.devicePixelRatio, 1.5)
+        : window.devicePixelRatio;
       const segments = isMobile ? 64 : 128;
 
       const scene = new THREE.Scene();
@@ -91,6 +76,10 @@ const App = () => {
       canvas.width = isMobile ? 2048 : 4096;
       canvas.height = isMobile ? 1024 : 2048;
       const ctx = canvas.getContext('2d');
+      if (!ctx) {
+        console.error('Failed to get 2D context for globe canvas');
+        return;
+      }
       ctx.fillStyle = '#020617';
       ctx.fillRect(0, 0, canvas.width, canvas.height);
 
@@ -120,16 +109,24 @@ const App = () => {
       normalCanvas.width = isMobile ? 1024 : 2048;
       normalCanvas.height = isMobile ? 512 : 1024;
       const normalCtx = normalCanvas.getContext('2d');
-      const imageData = normalCtx.createImageData(normalCanvas.width, normalCanvas.height);
-      
+      if (!normalCtx) {
+        console.error('Failed to get 2D context for normal map canvas');
+        return;
+      }
+      const imageData = normalCtx.createImageData(
+        normalCanvas.width,
+        normalCanvas.height
+      );
+
       // Simple noise function for bump mapping
       const noise = (x, y) => {
-        const n = Math.sin(x * 0.1) * Math.cos(y * 0.1) + 
-                  Math.sin(x * 0.05 + y * 0.05) * 0.5 +
-                  Math.sin(x * 0.02) * Math.cos(y * 0.03) * 0.3;
+        const n =
+          Math.sin(x * 0.1) * Math.cos(y * 0.1) +
+          Math.sin(x * 0.05 + y * 0.05) * 0.5 +
+          Math.sin(x * 0.02) * Math.cos(y * 0.03) * 0.3;
         return (n + 2) / 4; // Normalize to 0-1
       };
-      
+
       for (let y = 0; y < normalCanvas.height; y++) {
         for (let x = 0; x < normalCanvas.width; x++) {
           const i = (y * normalCanvas.width + x) * 4;
@@ -144,7 +141,7 @@ const App = () => {
 
       const texture = new THREE.CanvasTexture(canvas);
       const bumpTexture = new THREE.CanvasTexture(normalCanvas);
-      
+
       const globe = new THREE.Mesh(
         new THREE.SphereGeometry(5, segments, segments),
         new THREE.MeshPhongMaterial({
