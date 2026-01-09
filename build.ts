@@ -92,7 +92,7 @@ async function watchBuild() {
   console.log('Initial build...');
   await build(true);
 
-  let debounceTimer;
+  let debounceTimer: NodeJS.Timeout | undefined;
 
   const watcher = watch(
     __dirname,
@@ -125,6 +125,7 @@ async function watchBuild() {
   // Keep process alive
   process.on('SIGINT', () => {
     console.log('\n\n👋 Stopping watch mode...');
+    clearTimeout(debounceTimer);
     watcher.close();
     process.exit(0);
   });
