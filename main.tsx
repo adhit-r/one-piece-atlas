@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Map, Anchor } from 'lucide-react';
 import { ScrollMap } from './components/ScrollMap';
