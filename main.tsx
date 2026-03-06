@@ -3,6 +3,9 @@ import { createRoot } from 'react-dom/client';
 import { Map, Anchor } from 'lucide-react';
 import { ScrollMap } from './components/ScrollMap';
 import { EpisodeControls } from './components/EpisodeControls';
+import { SearchFilter } from './components/SearchFilter';
+import { CrewTracker } from './components/CrewTracker';
+import { ArcBountyHUD } from './components/ArcBountyHUD';
 import { useEpisodeNavigation } from './hooks/useEpisodeNavigation';
 import { ONE_PIECE_DATA } from './data/onePieceData';
 import { getIslandById } from './utils/islandData';
@@ -35,6 +38,30 @@ const App = () => {
       .filter(i => crewPath.includes(i.id) && i.episodes[0] <= currentEpisode)
       .sort((a, b) => a.episodes[0] - b.episodes[0]);
   }, [currentEpisode, selectedVoyage]);
+
+  // Keyboard shortcuts
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if ((e.target as HTMLElement).tagName === 'INPUT') return;
+      switch (e.key) {
+        case 'ArrowRight':
+          nextEpisode();
+          break;
+        case 'ArrowLeft':
+          previousEpisode();
+          break;
+        case ' ':
+          e.preventDefault();
+          togglePlay();
+          break;
+        case 'Escape':
+          setSelectedIslandId(null);
+          break;
+      }
+    };
+    window.addEventListener('keydown', handler);
+    return () => window.removeEventListener('keydown', handler);
+  }, [nextEpisode, previousEpisode, togglePlay]);
 
   // --- THREE.JS ---
   useEffect(() => {
@@ -242,6 +269,19 @@ const App = () => {
         selectedIslandId={selectedIslandId}
       />
 
+      {/* HUD Overlays */}
+      <ArcBountyHUD
+        islands={ONE_PIECE_DATA.islands as Island[]}
+        bounties={ONE_PIECE_DATA.bounties}
+        currentEpisode={currentEpisode}
+      />
+      <CrewTracker crew={ONE_PIECE_DATA.crew} currentEpisode={currentEpisode} />
+      <SearchFilter
+        islands={ONE_PIECE_DATA.islands as Island[]}
+        onIslandSelect={island => setSelectedIslandId(island.id)}
+        currentEpisode={currentEpisode}
+      />
+
       {/* Top Bar - Brand & Voyage Selector */}
       <div className="absolute top-0 left-0 right-0 z-50 p-6 flex justify-between items-start pointer-events-none">
         {/* Brand */}
@@ -404,7 +444,10 @@ const App = () => {
       {/* Floating Hints */}
       <div className="absolute bottom-28 left-6 flex items-center gap-2 text-amber-700/50 text-xs pointer-events-none">
         <Anchor className="w-4 h-4" />
-        <span>Drag to pan • Scroll to zoom</span>
+        <span>
+          Drag to pan • Scroll to zoom • ← → episodes • Space play/pause • /
+          search
+        </span>
       </div>
 
       {/* CSS Keyframes */}
