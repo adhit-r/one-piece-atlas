@@ -26,13 +26,24 @@ export interface Bounty {
   amount: number;
 }
 
+export interface DevilFruit {
+  name: string;
+  type: 'Paramecia' | 'Zoan' | 'Logia' | 'Mythical Zoan';
+  firstAppearance: number;
+  location: string; // island id where it was first seen
+  description: string;
+}
+
 export const CATEGORY_COLORS = {
   Major: 0xf59e0b,
   Minor: 0x6b7280,
   Legendary: 0xef4444,
 } as const;
 
-export const getIslandById = (islands: Island[], id: string | null): Island | null => {
+export const getIslandById = (
+  islands: Island[],
+  id: string | null
+): Island | null => {
   if (!id) return null;
   return islands.find(i => i.id === id) || null;
 };
@@ -47,6 +58,13 @@ export const getIslandsByArc = (islands: Island[], arc: string): Island[] => {
 
 export const getIslandsWithPoneglyph = (islands: Island[]): Island[] => {
   return islands.filter(i => i.hasPoneglyph);
+};
+
+export const getFruitByName = (
+  fruits: DevilFruit[],
+  name: string
+): DevilFruit | null => {
+  return fruits.find(f => f.name === name) || null;
 };
 
 export const filterIslands = (
@@ -90,4 +108,3 @@ export const filterIslands = (
 
   return filtered;
 };
-

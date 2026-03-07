@@ -282,5 +282,76 @@ export const ONE_PIECE_DATA = {
     { name: 'Jimbei', joinEp: 890 },
     { name: 'Vivi', joinEp: 67, leaveEp: 130 },
   ] as CrewMember[],
+  fruits: [
+    {
+      name: 'Gomu Gomu no Mi',
+      type: 'Paramecia',
+      firstAppearance: 1,
+      location: 'foosha',
+      description:
+        'Turns the user&#39;s body into rubber, granting stretching and resilience.',
+    },
+    {
+      name: 'Hie Hie no Mi',
+      type: 'Logia',
+      firstAppearance: 516,
+      location: 'mazon',
+      description: 'Allows the user to create, control and become ice.',
+    },
+    {
+      name: 'Mera Mera no Mi',
+      type: 'Logia',
+      firstAppearance: 154,
+      location: 'loguetown',
+      description:
+        'Grants the ability to create, control and transform into fire.',
+    },
+    {
+      name: 'Tori Tori no Mi, Model: Phoenix',
+      type: 'Mythical Zoan',
+      firstAppearance: 825,
+      location: 'punk',
+      description:
+        'A phoenix zoan fruit that allows regeneration and flight through flame.',
+    },
+    {
+      name: 'Ushi Ushi no Mi, Model: Bison',
+      type: 'Zoan',
+      firstAppearance: 1043,
+      location: 'wano',
+      description:
+        'Transforms the user into a bison or human-bison hybrid, boosting strength.',
+    },
+    {
+      name: 'Nagi Nagi no Mi',
+      type: 'Paramecia',
+      firstAppearance: 689,
+      location: 'fishman',
+      description:
+        'Creates a soundproof field around the user, nullifying noise.',
+    },
+    {
+      name: 'Ito Ito no Mi',
+      type: 'Paramecia',
+      firstAppearance: 737,
+      location: 'punk',
+      description: 'Lets the user create and manipulate strings at will.',
+    },
+    {
+      name: 'Goro Goro no Mi',
+      type: 'Logia',
+      firstAppearance: 415,
+      location: 'skypiea',
+      description:
+        'Grants control over lightning and the power to become electricity.',
+    },
+    {
+      name: 'Hobi Hobi no Mi',
+      type: 'Paramecia',
+      firstAppearance: 885,
+      location: 'sabaody',
+      description:
+        'Turns people into toys and erases the memories of their existence from others.',
+    },
+  ] as DevilFruit[],
 };
-
